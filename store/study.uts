@@ -67,14 +67,6 @@ export function setLastSection(materialId : string, sectionId : string) {
 	persist(state)
 }
 
-export function reviewedSections(materialId : string) : string[] {
-	return loadState(materialId).reviewedSections
-}
-
-export function favoriteSections(materialId : string) : string[] {
-	return loadState(materialId).favoriteSections
-}
-
 function toggleIn(list : string[], id : string) : boolean {
 	const pos = list.indexOf(id)
 	if (pos >= 0) {

@@ -1,4 +1,4 @@
-import { Material, MaterialSection, ContentBlock } from './types.uts'
+import { ContentBlock } from './types.uts'
 import { loadMaterialIndex, loadMaterial, sectionOfBlockId } from './loader.uts'
 
 export type SearchResult = {
