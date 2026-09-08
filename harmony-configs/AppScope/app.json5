@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "io.dcloud.uniappx",
+    "bundleName": "com.reviewmaterials.app",
     "vendor": "example",
     "versionCode": 10000,
     "versionName": "1.0.0",
