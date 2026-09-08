@@ -23,21 +23,20 @@ export function loadMaterial(id : string) : Material | null {
 	if (hit != null) {
 		return hit
 	}
-	let raw : any | null = null
+	let material : Material | null = null
 	if (id == 'mechanical-drawing') {
-		raw = mechanicalRaw
+		material = mechanicalRaw as Material
 	} else if (id == 'caid') {
-		raw = caidRaw
+		material = caidRaw as Material
 	} else if (id == 'industrial-design-history') {
-		raw = industrialRaw
+		material = industrialRaw as Material
 	} else if (id == 'product-design') {
-		raw = productRaw
+		material = productRaw as Material
 	}
-	if (raw == null) {
+	if (material == null) {
 		return null
 	}
-	const material = raw as Material
-	materialCache.set(id, material)
+	materialCache.set(id, material!)
 	return material
 }
 

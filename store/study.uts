@@ -1,0 +1,195 @@
+import { loadMaterialIndex, loadMaterial, sectionById, readableSections } from '@/common/materials/loader.uts'
+
+const KEY_PREFIX = 'review:state:'
+
+export type StudyState = {
+	materialId : string
+	reviewedSections : string[]
+	favoriteSections : string[]
+	lastSectionId : string
+}
+
+export type FavoriteEntry = {
+	materialId : string
+	materialTitle : string
+	sectionId : string
+	sectionTitle : string
+}
+
+/** 落盘结构：字段可选，读回时逐项补默认值，脏数据不会抛异常 */
+type StoredState = {
+	reviewedSections ?: string[]
+	favoriteSections ?: string[]
+	lastSectionId ?: string
+}
+
+function emptyState(materialId : string) : StudyState {
+	return {
+		materialId: materialId,
+		reviewedSections: [] as string[],
+		favoriteSections: [] as string[],
+		lastSectionId: ''
+	} as StudyState
+}
+
+export function loadState(materialId : string) : StudyState {
+	const raw = uni.getStorageSync(KEY_PREFIX + materialId)
+	if (typeof raw != 'string') {
+		return emptyState(materialId)
+	}
+	const stored = JSON.parse<StoredState>(raw as string)
+	if (stored == null) {
+		return emptyState(materialId)
+	}
+	const reviewed = stored.reviewedSections
+	const favorite = stored.favoriteSections
+	const last = stored.lastSectionId
+	return {
+		materialId: materialId,
+		reviewedSections: reviewed != null ? reviewed! : ([] as string[]),
+		favoriteSections: favorite != null ? favorite! : ([] as string[]),
+		lastSectionId: last != null ? last! : ''
+	} as StudyState
+}
+
+/** 整对象覆盖写入，一份资料只有一个 key */
+function persist(state : StudyState) {
+	uni.setStorageSync(KEY_PREFIX + state.materialId, JSON.stringify(state))
+}
+
+export function lastSectionId(materialId : string) : string {
+	return loadState(materialId).lastSectionId
+}
+
+export function setLastSection(materialId : string, sectionId : string) {
+	const state = loadState(materialId)
+	state.lastSectionId = sectionId
+	persist(state)
+}
+
+export function reviewedSections(materialId : string) : string[] {
+	return loadState(materialId).reviewedSections
+}
+
+export function favoriteSections(materialId : string) : string[] {
+	return loadState(materialId).favoriteSections
+}
+
+function toggleIn(list : string[], id : string) : boolean {
+	const pos = list.indexOf(id)
+	if (pos >= 0) {
+		list.splice(pos, 1)
+		return false
+	}
+	list.push(id)
+	return true
+}
+
+/** 返回 true 表示本次操作是「加入」 */
+export function toggleReviewed(materialId : string, sectionId : string) : boolean {
+	const state = loadState(materialId)
+	const added = toggleIn(state.reviewedSections, sectionId)
+	persist(state)
+	return added
+}
+
+export function toggleFavorite(materialId : string, sectionId : string) : boolean {
+	const state = loadState(materialId)
+	const added = toggleIn(state.favoriteSections, sectionId)
+	persist(state)
+	return added
+}
+
+export function isReviewed(materialId : string, sectionId : string) : boolean {
+	return loadState(materialId).reviewedSections.indexOf(sectionId) >= 0
+}
+
+export function isFavorite(materialId : string, sectionId : string) : boolean {
+	return loadState(materialId).favoriteSections.indexOf(sectionId) >= 0
+}
+
+export function reviewedCount(materialId : string) : number {
+	return loadState(materialId).reviewedSections.length
+}
+
+export function totalSections(materialId : string) : number {
+	const material = loadMaterial(materialId)
+	if (material == null) {
+		return 0
+	}
+	return readableSections(material).length
+}
+
+/** 收藏页跨资料枚举：只遍历索引里已知的资料，不另设全局 key */
+export function allFavorites() : FavoriteEntry[] {
+	const result : FavoriteEntry[] = []
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		const item = index.materials[i]
+		const material = loadMaterial(item.id)
+		if (material == null) {
+			continue
+		}
+		const ids = loadState(item.id).favoriteSections
+		for (let j = 0; j < ids.length; j++) {
+			const section = sectionById(material, ids[j])
+			if (section == null) {
+				continue
+			}
+			result.push({
+				materialId: item.id,
+				materialTitle: item.title,
+				sectionId: section.id,
+				sectionTitle: section.title
+			} as FavoriteEntry)
+		}
+	}
+	return result
+}
+
+export function hasProgress() : boolean {
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		if (reviewedCount(index.materials[i].id) > 0) {
+			return true
+		}
+	}
+	return false
+}
+
+export function hasFavorites() : boolean {
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		if (loadState(index.materials[i].id).favoriteSections.length > 0) {
+			return true
+		}
+	}
+	return false
+}
+
+export function clearProgress(materialId : string) {
+	const state = loadState(materialId)
+	state.reviewedSections = [] as string[]
+	state.lastSectionId = ''
+	persist(state)
+}
+
+export function clearFavorites(materialId : string) {
+	const state = loadState(materialId)
+	state.favoriteSections = [] as string[]
+	persist(state)
+}
+
+export function clearAllProgress() {
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		clearProgress(index.materials[i].id)
+	}
+}
+
+export function clearAllFavorites() {
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		clearFavorites(index.materials[i].id)
+	}
+}
