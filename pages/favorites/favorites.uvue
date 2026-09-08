@@ -1,0 +1,82 @@
+<template>
+  <scroll-view class="page-root uni-theme-root">
+    <empty-state v-if="rows.length == 0" title="还没有收藏" hint="在阅读页点击「收藏」可收藏当前小节"></empty-state>
+    <view v-else class="page-body">
+      <view class="fav-row" v-for="(r, ri) in rows" :key="ri">
+        <view class="fav-main" @click="openRow(r)">
+          <text class="fav-title">{{ r.sectionTitle }}</text>
+          <text class="fav-material">{{ r.materialTitle }}</text>
+        </view>
+        <view class="fav-remove" @click="removeRow(r)">
+          <text class="fav-remove-text">取消收藏</text>
+        </view>
+      </view>
+      <bottom-safe-area></bottom-safe-area>
+    </view>
+  </scroll-view>
+</template>
+
+<script setup lang="uts">
+  import { allFavorites, FavoriteEntry, toggleFavorite } from '@/store/study.uts'
+
+  const rows = ref<FavoriteEntry[]>([])
+
+  /** onShow 重建：从阅读页返回时同步最新收藏 */
+  onShow(() => {
+    rows.value = allFavorites()
+  })
+
+  function openRow(r : FavoriteEntry) {
+    uni.navigateTo({ url: '/pages/material/read?materialId=' + r.materialId + '&sectionId=' + r.sectionId })
+  }
+
+  function removeRow(r : FavoriteEntry) {
+    toggleFavorite(r.materialId, r.sectionId)
+    rows.value = allFavorites()
+    uni.showToast({ title: '已取消收藏', icon: 'none' })
+  }
+</script>
+
+<style>
+  .page-root {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .page-body {
+    padding: 12px;
+  }
+
+  .fav-row {
+    margin-bottom: 10px;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+  }
+
+  .fav-main {
+    flex: 1;
+    padding: 12px 14px;
+  }
+
+  .fav-title {
+    font-size: 15px;
+    color: var(--text-color, #333333);
+  }
+
+  .fav-material {
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .fav-remove {
+    padding: 12px 14px;
+  }
+
+  .fav-remove-text {
+    font-size: 13px;
+    color: var(--arrow-color, #999999);
+  }
+</style>

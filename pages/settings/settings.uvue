@@ -1,0 +1,180 @@
+<template>
+  <scroll-view class="page-root uni-theme-root">
+    <view class="page-body">
+      <view class="panel">
+        <view class="panel-title-row">
+          <text class="panel-title">资料统计</text>
+        </view>
+        <view class="stat-row">
+          <text class="stat-label">复习资料</text>
+          <text class="stat-value">{{ materialCount }} 份</text>
+        </view>
+        <view class="stat-row">
+          <text class="stat-label">知识点</text>
+          <text class="stat-value">{{ unitTotal }} 个</text>
+        </view>
+        <view class="stat-row">
+          <text class="stat-label">内容块</text>
+          <text class="stat-value">{{ blockTotal }} 个</text>
+        </view>
+      </view>
+
+      <view class="panel">
+        <view class="panel-title-row">
+          <text class="panel-title">数据管理</text>
+        </view>
+        <view class="action-row" @click="clearProgressAction">
+          <text :class="canClearProgress ? 'action-text' : 'action-text action-text-off'">清除全部复习进度</text>
+          <text class="action-desc">已复习标记与阅读位置</text>
+        </view>
+        <view class="action-row" @click="clearFavoritesAction">
+          <text :class="canClearFavorites ? 'action-text' : 'action-text action-text-off'">清除全部收藏</text>
+          <text class="action-desc">所有资料的收藏小节</text>
+        </view>
+      </view>
+
+      <text class="about-text">离线知识点复习阅读器 · 资料数据已编译进安装包，断网可用</text>
+      <bottom-safe-area></bottom-safe-area>
+    </view>
+  </scroll-view>
+</template>
+
+<script setup lang="uts">
+  import { loadMaterialIndex, loadMaterial, readableSections } from '@/common/materials/loader.uts'
+  import { hasProgress, hasFavorites, clearAllProgress, clearAllFavorites } from '@/store/study.uts'
+
+  const materialCount = ref(0)
+  const unitTotal = ref(0)
+  const blockTotal = ref(0)
+  const canClearProgress = ref(false)
+  const canClearFavorites = ref(false)
+
+  onShow(() => {
+    rebuild()
+  })
+
+  function rebuild() {
+    const index = loadMaterialIndex()
+    let units = 0
+    let blocks = 0
+    for (let i = 0; i < index.materials.length; i++) {
+      const m = loadMaterial(index.materials[i].id)
+      if (m == null) {
+        continue
+      }
+      units += readableSections(m).length
+      blocks += m.blocks.length
+    }
+    materialCount.value = index.materials.length
+    unitTotal.value = units
+    blockTotal.value = blocks
+    canClearProgress.value = hasProgress()
+    canClearFavorites.value = hasFavorites()
+  }
+
+  function clearProgressAction() {
+    if (!canClearProgress.value) {
+      return
+    }
+    uni.showModal({
+      title: '清除复习进度',
+      content: '将清空全部资料的已复习标记和阅读位置，确定吗？',
+      success: (res) => {
+        if (res.confirm) {
+          clearAllProgress()
+          rebuild()
+          uni.showToast({ title: '已清除', icon: 'none' })
+        }
+      }
+    })
+  }
+
+  function clearFavoritesAction() {
+    if (!canClearFavorites.value) {
+      return
+    }
+    uni.showModal({
+      title: '清除全部收藏',
+      content: '将清空所有资料中收藏的小节，确定吗？',
+      success: (res) => {
+        if (res.confirm) {
+          clearAllFavorites()
+          rebuild()
+          uni.showToast({ title: '已清除', icon: 'none' })
+        }
+      }
+    })
+  }
+</script>
+
+<style>
+  .page-root {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .page-body {
+    padding: 12px;
+  }
+
+  .panel {
+    margin-bottom: 12px;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+  }
+
+  .panel-title-row {
+    padding: 12px 14px 4px 14px;
+  }
+
+  .panel-title {
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+  }
+
+  .stat-row {
+    padding: 11px 14px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .stat-label {
+    font-size: 15px;
+    color: var(--text-color, #333333);
+  }
+
+  .stat-value {
+    font-size: 15px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .action-row {
+    padding: 11px 14px;
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .action-text {
+    font-size: 15px;
+    color: var(--text-color, #333333);
+  }
+
+  .action-text-off {
+    color: var(--arrow-color, #999999);
+  }
+
+  .action-desc {
+    margin-top: 3px;
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .about-text {
+    margin-top: 4px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--arrow-color, #999999);
+  }
+</style>

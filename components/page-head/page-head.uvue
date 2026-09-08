@@ -23,6 +23,6 @@
 
   .common-page-head-title {
     line-height: 40px;
-    color: #BEBEBE;
+    color: var(--active-color, #BEBEBE);
   }
 </style>

@@ -1,0 +1,218 @@
+<template>
+  <scroll-view class="page-root uni-theme-root">
+    <empty-state v-if="material == null" title="资料不存在" hint="请从资料页重新进入"></empty-state>
+    <view v-else class="page-body">
+      <page-head :title="materialTitle"></page-head>
+      <view class="resume" v-if="resumeSectionId.length > 0" @click="openRead(resumeSectionId)">
+        <text class="resume-label">继续学习</text>
+        <text class="resume-title">{{ resumeSectionTitle }}</text>
+      </view>
+      <view class="progress-box">
+        <progress-bar :value="percent()"></progress-bar>
+        <text class="progress-text">已复习 {{ reviewedTotal }} / {{ unitCount }}</text>
+      </view>
+      <view class="chapter" v-for="(ch, ci) in rows" :key="ch.id">
+        <view class="chapter-head" @click="tapChapter(ch)">
+          <text class="chapter-title">{{ ch.title }}</text>
+          <text v-if="ch.reviewed" class="badge">已复习</text>
+        </view>
+        <view class="section-row" v-for="(s, si) in ch.children" :key="s.id" @click="openRead(s.id)">
+          <text class="section-title">{{ s.title }}</text>
+          <text v-if="s.reviewed" class="badge">已复习</text>
+        </view>
+      </view>
+      <bottom-safe-area></bottom-safe-area>
+    </view>
+  </scroll-view>
+</template>
+
+<script setup lang="uts">
+  import { Material } from '@/common/materials/types.uts'
+  import { loadMaterial, chapters, childrenOf, sectionById, isReadable, readableSections } from '@/common/materials/loader.uts'
+  import { reviewedCount, lastSectionId, isReviewed } from '@/store/study.uts'
+
+  type SectionRow = {
+    id : string
+    title : string
+    reviewed : boolean
+  }
+
+  type ChapterRow = {
+    id : string
+    title : string
+    readable : boolean
+    reviewed : boolean
+    children : SectionRow[]
+  }
+
+  const material = ref<Material | null>(null)
+  const materialTitle = ref('')
+  const rows = ref<ChapterRow[]>([])
+  const resumeSectionId = ref('')
+  const resumeSectionTitle = ref('')
+  const unitCount = ref(0)
+  const reviewedTotal = ref(0)
+
+  onLoad((options : OnLoadOptions) => {
+    const m = loadMaterial(options['id'] ?? '')
+    if (m == null) {
+      return
+    }
+    material.value = m
+    materialTitle.value = m.title
+  })
+
+  /** onShow 重建：从阅读页返回时刷新已复习标记与继续学习入口 */
+  onShow(() => {
+    rebuild()
+  })
+
+  function rebuild() {
+    const m = material.value
+    if (m == null) {
+      return
+    }
+    const list : ChapterRow[] = []
+    const chapterList = chapters(m)
+    for (let i = 0; i < chapterList.length; i++) {
+      const ch = chapterList[i]
+      const childList = childrenOf(m, ch.id)
+      const childRows : SectionRow[] = []
+      for (let j = 0; j < childList.length; j++) {
+        const s = childList[j]
+        childRows.push({
+          id: s.id,
+          title: s.title,
+          reviewed: isReviewed(m.id, s.id)
+        } as SectionRow)
+      }
+      list.push({
+        id: ch.id,
+        title: ch.title,
+        readable: isReadable(m, ch),
+        reviewed: isReviewed(m.id, ch.id),
+        children: childRows
+      } as ChapterRow)
+    }
+    rows.value = list
+
+    resumeSectionId.value = ''
+    resumeSectionTitle.value = ''
+    const lastId = lastSectionId(m.id)
+    if (lastId.length > 0) {
+      const sec = sectionById(m, lastId)
+      if (sec != null) {
+        resumeSectionId.value = sec!.id
+        resumeSectionTitle.value = sec!.title
+      }
+    }
+    unitCount.value = readableSections(m).length
+    reviewedTotal.value = reviewedCount(m.id)
+  }
+
+  function percent() : number {
+    if (unitCount.value <= 0) {
+      return 0.0
+    }
+    return (reviewedTotal.value * 1.0) / unitCount.value
+  }
+
+  function tapChapter(ch : ChapterRow) {
+    if (ch.readable) {
+      openRead(ch.id)
+    }
+  }
+
+  function openRead(sectionId : string) {
+    const m = material.value
+    if (m == null) {
+      return
+    }
+    uni.navigateTo({ url: '/pages/material/read?materialId=' + m.id + '&sectionId=' + sectionId })
+  }
+</script>
+
+<style>
+  .page-root {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .page-body {
+    padding-bottom: 12px;
+  }
+
+  .resume {
+    margin: 12px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+    flex-direction: column;
+  }
+
+  .resume-label {
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .resume-title {
+    margin-top: 4px;
+    font-size: 15px;
+    color: var(--tips-color, #0958d9);
+  }
+
+  .progress-box {
+    margin: 0 12px 12px 12px;
+  }
+
+  .progress-text {
+    margin-top: 6px;
+    font-size: 13px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .chapter {
+    margin: 0 12px 12px 12px;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+    flex-direction: column;
+  }
+
+  .chapter-head {
+    padding: 12px 14px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .chapter-title {
+    flex: 1;
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+  }
+
+  .section-row {
+    padding: 11px 14px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .section-title {
+    flex: 1;
+    font-size: 15px;
+    color: var(--text-color, #333333);
+  }
+
+  .badge {
+    margin-left: 8px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    color: var(--tips-color, #0958d9);
+    background-color: var(--tips-background-color, #e6f4ff);
+  }
+</style>

@@ -1,0 +1,168 @@
+<template>
+  <view class="cb-root uni-theme-root">
+    <text v-if="block.type == 'heading' && block.level <= 1" class="cb-h1">{{ block.text }}</text>
+    <text v-else-if="block.type == 'heading' && block.level == 2" class="cb-h2">{{ block.text }}</text>
+    <text v-else-if="block.type == 'heading'" class="cb-h3">{{ block.text }}</text>
+
+    <text v-else-if="block.type == 'paragraph'" class="cb-p">{{ block.text }}</text>
+
+    <view v-else-if="block.type == 'kv'" class="cb-kv">
+      <text class="cb-kv-label">{{ block.label }}</text>
+      <text class="cb-kv-text">{{ block.text }}</text>
+    </view>
+
+    <view v-else-if="block.type == 'list_item'" class="cb-li">
+      <text class="cb-li-marker">{{ block.marker }}</text>
+      <text class="cb-li-text">{{ block.text }}</text>
+    </view>
+
+    <view v-else-if="block.type == 'quote'" class="cb-quote">
+      <text class="cb-quote-text">{{ block.text }}</text>
+    </view>
+
+    <view v-else-if="block.type == 'table' && block.headers.length > 0" class="cb-table">
+      <view class="cb-tr-head">
+        <text class="cb-th" v-for="(h, hi) in block.headers" :key="hi" :style="cellStyle()">{{ h }}</text>
+      </view>
+      <view class="cb-tr" v-for="(row, ri) in block.rows" :key="ri">
+        <text class="cb-td" v-for="(cell, ci) in row" :key="ci" :style="cellStyle()">{{ cell }}</text>
+      </view>
+    </view>
+  </view>
+</template>
+
+<script setup lang="uts">
+  import { ContentBlock } from '@/common/materials/types.uts'
+
+  const props = defineProps({
+    block: {
+      type: Object as PropType<ContentBlock>,
+      required: true
+    }
+  })
+
+  /** 全部表格均为 2~4 列等宽，用百分比列宽即可在窄屏内放下，不需要横向滚动 */
+  function cellStyle() : string {
+    const n = props.block.headers.length
+    if (n <= 0) {
+      return ''
+    }
+    return 'width: ' + (100.0 / n).toFixed(2) + '%;'
+  }
+</script>
+
+<style>
+  .cb-root {
+    margin-bottom: 14px;
+  }
+
+  .cb-h1 {
+    font-size: 19px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+    margin-top: 8px;
+    margin-bottom: 4px;
+  }
+
+  .cb-h2 {
+    font-size: 17px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+    margin-top: 6px;
+    margin-bottom: 4px;
+  }
+
+  .cb-h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+    margin-top: 4px;
+    margin-bottom: 2px;
+  }
+
+  .cb-p {
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-color, #333333);
+  }
+
+  .cb-kv {
+    background-color: var(--list-background-color, #ffffff);
+    border-left: 3px solid var(--tips-border-color, #91caff);
+    border-radius: 4px;
+    padding: 8px 10px;
+    flex-direction: column;
+  }
+
+  .cb-kv-label {
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--tips-color, #0958d9);
+  }
+
+  .cb-kv-text {
+    margin-top: 3px;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-color, #333333);
+  }
+
+  .cb-li {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .cb-li-marker {
+    width: 28px;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--tips-color, #0958d9);
+  }
+
+  .cb-li-text {
+    flex: 1;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-color, #333333);
+  }
+
+  .cb-quote {
+    background-color: var(--tips-background-color, #e6f4ff);
+    border-left: 4px solid var(--tips-border-color, #91caff);
+    border-radius: 4px;
+    padding: 10px 12px;
+  }
+
+  .cb-quote-text {
+    font-size: 14px;
+    line-height: 22px;
+    color: var(--tips-color, #0958d9);
+  }
+
+  .cb-table {
+    border-radius: 4px;
+    background-color: var(--list-background-color, #ffffff);
+  }
+
+  .cb-tr-head,
+  .cb-tr {
+    flex-direction: row;
+  }
+
+  .cb-th {
+    padding: 8px 6px;
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+    background-color: var(--active-background-color, #f8f8f8);
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .cb-td {
+    padding: 8px 6px;
+    font-size: 13px;
+    line-height: 19px;
+    color: var(--text-color, #333333);
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+</style>

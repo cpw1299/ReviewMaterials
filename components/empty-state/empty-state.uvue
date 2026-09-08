@@ -1,0 +1,38 @@
+<template>
+  <view class="empty-root uni-theme-root">
+    <text class="empty-title">{{ title }}</text>
+    <text v-if="hint.length > 0" class="empty-hint">{{ hint }}</text>
+  </view>
+</template>
+
+<script setup lang="uts">
+  defineProps({
+    title: {
+      type: String,
+      default: '暂无内容'
+    },
+    hint: {
+      type: String,
+      default: ''
+    }
+  })
+</script>
+
+<style>
+  .empty-root {
+    padding: 48px 24px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .empty-title {
+    font-size: 15px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .empty-hint {
+    margin-top: 8px;
+    font-size: 13px;
+    color: var(--arrow-color, #999999);
+  }
+</style>

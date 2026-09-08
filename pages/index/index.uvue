@@ -1,0 +1,140 @@
+<template>
+  <scroll-view class="page-root uni-theme-root">
+    <empty-state v-if="rows.length == 0" title="没有可用资料" hint="请检查 common/materials 数据文件"></empty-state>
+    <view v-else class="page-body">
+      <view class="card" v-for="(m, mi) in rows" :key="m.id">
+        <view class="card-main" @click="openDetail(m.id)">
+          <view class="card-head">
+            <text class="card-title">{{ m.title }}</text>
+          </view>
+          <text class="card-subject">{{ m.subject }} · {{ m.unitCount }} 个知识点</text>
+          <progress-bar :value="m.percent"></progress-bar>
+          <text class="card-meta">已复习 {{ m.reviewed }} / {{ m.unitCount }}</text>
+        </view>
+        <view class="card-resume" v-if="m.resumeSectionTitle.length > 0" @click="openRead(m.id)">
+          <text class="card-resume-text">继续学习：{{ m.resumeSectionTitle }}</text>
+        </view>
+      </view>
+      <bottom-safe-area></bottom-safe-area>
+    </view>
+  </scroll-view>
+</template>
+
+<script setup lang="uts">
+  import { loadMaterialIndex, loadMaterial, sectionById, readableSections } from '@/common/materials/loader.uts'
+  import { reviewedCount, lastSectionId } from '@/store/study.uts'
+
+  type MaterialRow = {
+    id : string
+    title : string
+    subject : string
+    unitCount : number
+    reviewed : number
+    percent : number
+    resumeSectionTitle : string
+  }
+
+  const rows = ref<MaterialRow[]>([])
+
+  /** onShow 重建，返回本页时进度与「继续学习」都是最新值 */
+  onShow(() => {
+    rebuild()
+  })
+
+  function rebuild() {
+    const list : MaterialRow[] = []
+    const index = loadMaterialIndex()
+    for (let i = 0; i < index.materials.length; i++) {
+      const item = index.materials[i]
+      const material = loadMaterial(item.id)
+      if (material == null) {
+        continue
+      }
+      const units = readableSections(material)
+      const reviewed = reviewedCount(item.id)
+      let resumeTitle = ''
+      const lastId = lastSectionId(item.id)
+      if (lastId.length > 0) {
+        const sec = sectionById(material, lastId)
+        if (sec != null) {
+          resumeTitle = sec!.title
+        }
+      }
+      list.push({
+        id: item.id,
+        title: item.title,
+        subject: item.subject,
+        unitCount: units.length,
+        reviewed: reviewed,
+        percent: units.length > 0 ? (reviewed * 1.0) / units.length : 0.0,
+        resumeSectionTitle: resumeTitle
+      } as MaterialRow)
+    }
+    rows.value = list
+  }
+
+  function openDetail(id : string) {
+    uni.navigateTo({ url: '/pages/material/detail?id=' + id })
+  }
+
+  function openRead(materialId : string) {
+    const sid = lastSectionId(materialId)
+    if (sid.length == 0) {
+      return
+    }
+    uni.navigateTo({ url: '/pages/material/read?materialId=' + materialId + '&sectionId=' + sid })
+  }
+</script>
+
+<style>
+  .page-root {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .page-body {
+    padding: 12px;
+  }
+
+  .card {
+    margin-bottom: 12px;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+  }
+
+  .card-main {
+    padding: 14px;
+  }
+
+  .card-head {
+    margin-bottom: 6px;
+  }
+
+  .card-title {
+    font-size: 17px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+  }
+
+  .card-subject {
+    margin-bottom: 12px;
+    font-size: 13px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .card-meta {
+    margin-top: 8px;
+    font-size: 13px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .card-resume {
+    padding: 10px 14px;
+    border-top: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .card-resume-text {
+    font-size: 14px;
+    color: var(--tips-color, #0958d9);
+  }
+</style>

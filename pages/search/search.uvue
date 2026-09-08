@@ -1,0 +1,140 @@
+<template>
+  <view class="page-root uni-theme-root">
+    <view class="search-bar">
+      <input class="search-input" :value="keyword" placeholder="搜索知识点、术语、表格内容" placeholder-style="color: var(--arrow-color, #999999)" confirm-type="search" @input="onInput" @confirm="doSearch" />
+      <view class="search-btn" @click="doSearch">
+        <text class="search-btn-text">搜索</text>
+      </view>
+    </view>
+    <scroll-view class="search-scroll">
+      <empty-state v-if="!searched" title="输入关键词搜索复习资料" hint="可搜索章节标题、正文、术语和表格内容"></empty-state>
+      <empty-state v-else-if="results.length == 0" title="没有找到相关内容" hint="换个关键词试试"></empty-state>
+      <view v-else class="result-body">
+        <text class="result-count">共 {{ results.length }} 条结果（最多显示 100 条）</text>
+        <view class="result-row" v-for="(r, ri) in results" :key="ri" @click="openResult(r)">
+          <view class="result-head">
+            <text class="result-kind">{{ r.kind == 'section' ? '章节' : '内容' }}</text>
+            <text class="result-section">{{ r.sectionTitle }}</text>
+          </view>
+          <text class="result-snippet">{{ r.snippet }}</text>
+          <text class="result-material">{{ r.materialTitle }}</text>
+        </view>
+      </view>
+      <bottom-safe-area></bottom-safe-area>
+    </scroll-view>
+  </view>
+</template>
+
+<script setup lang="uts">
+  import { searchAll, SearchResult } from '@/common/materials/search.uts'
+
+  const keyword = ref('')
+  const results = ref<SearchResult[]>([])
+  const searched = ref(false)
+
+  function onInput(e : UniInputEvent) {
+    keyword.value = e.detail.value
+  }
+
+  function doSearch() {
+    results.value = searchAll(keyword.value)
+    searched.value = true
+  }
+
+  function openResult(r : SearchResult) {
+    uni.navigateTo({ url: '/pages/material/read?materialId=' + r.materialId + '&sectionId=' + r.sectionId })
+  }
+</script>
+
+<style>
+  .page-root {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .search-bar {
+    padding: 8px 12px;
+    flex-direction: row;
+    align-items: center;
+    background-color: var(--list-background-color, #ffffff);
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .search-input {
+    flex: 1;
+    height: 36px;
+    padding: 0 10px;
+    border-radius: 6px;
+    font-size: 15px;
+    background-color: var(--active-background-color, #f8f8f8);
+    color: var(--text-color, #333333);
+  }
+
+  .search-btn {
+    margin-left: 10px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    background-color: var(--tips-border-color, #91caff);
+  }
+
+  .search-btn-text {
+    font-size: 15px;
+    color: var(--tips-color, #0958d9);
+  }
+
+  .search-scroll {
+    flex: 1;
+  }
+
+  .result-body {
+    padding: 12px;
+  }
+
+  .result-count {
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .result-row {
+    margin-bottom: 10px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    background-color: var(--list-background-color, #ffffff);
+    flex-direction: column;
+  }
+
+  .result-head {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .result-kind {
+    margin-right: 8px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    color: var(--tips-color, #0958d9);
+    background-color: var(--tips-background-color, #e6f4ff);
+  }
+
+  .result-section {
+    flex: 1;
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+  }
+
+  .result-snippet {
+    margin-top: 6px;
+    font-size: 13px;
+    line-height: 20px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .result-material {
+    margin-top: 6px;
+    font-size: 12px;
+    color: var(--arrow-color, #999999);
+  }
+</style>

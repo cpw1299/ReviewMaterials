@@ -1,0 +1,40 @@
+<template>
+  <view class="pb-track uni-theme-root">
+    <view class="pb-fill" :style="fillStyle()"></view>
+  </view>
+</template>
+
+<script setup lang="uts">
+  const props = defineProps({
+    value: {
+      type: Number,
+      default: 0
+    }
+  })
+
+  function fillStyle() : string {
+    let p = props.value
+    if (p < 0) {
+      p = 0
+    }
+    if (p > 1) {
+      p = 1
+    }
+    return 'width: ' + Math.round(p * 100).toString() + '%;'
+  }
+</script>
+
+<style>
+  .pb-track {
+    height: 6px;
+    border-radius: 3px;
+    background-color: var(--active-background-color, #f8f8f8);
+    overflow: hidden;
+  }
+
+  .pb-fill {
+    height: 6px;
+    border-radius: 3px;
+    background-color: var(--tips-color, #0958d9);
+  }
+</style>

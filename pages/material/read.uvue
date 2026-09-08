@@ -1,0 +1,243 @@
+<template>
+  <view class="read-page uni-theme-root">
+    <empty-state v-if="!hasContent" title="内容不存在" hint="请返回章节目录重新进入"></empty-state>
+    <view v-else class="read-body">
+      <view class="read-header">
+        <text v-if="chapterTitle.length > 0" class="read-chapter">{{ chapterTitle }}</text>
+        <view class="read-header-row">
+          <text class="read-title">{{ sectionTitle }}</text>
+          <view class="fav-btn" @click="toggleFavoriteState">
+            <text :class="favorited ? 'fav-text fav-text-on' : 'fav-text'">{{ favorited ? '已收藏' : '收藏' }}</text>
+          </view>
+        </view>
+        <text class="read-pos">{{ position }}</text>
+      </view>
+      <scroll-view class="read-scroll">
+        <view class="read-content">
+          <content-block v-for="(b, bi) in blocks" :key="b.id" :block="b"></content-block>
+          <empty-state v-if="blocks.length == 0" title="本节暂无内容"></empty-state>
+        </view>
+        <bottom-safe-area></bottom-safe-area>
+      </scroll-view>
+      <view class="read-footer">
+        <view :class="prevId.length > 0 ? 'footer-btn' : 'footer-btn footer-btn-off'" @click="goPrev">
+          <text :class="prevId.length > 0 ? 'footer-text' : 'footer-text footer-text-off'">上一节</text>
+        </view>
+        <view :class="reviewed ? 'footer-btn footer-btn-main footer-btn-main-on' : 'footer-btn footer-btn-main'" @click="toggleReviewedState">
+          <text class="footer-text footer-text-main">{{ reviewed ? '已复习' : '标记已复习' }}</text>
+        </view>
+        <view :class="nextId.length > 0 ? 'footer-btn' : 'footer-btn footer-btn-off'" @click="goNext">
+          <text :class="nextId.length > 0 ? 'footer-text' : 'footer-text footer-text-off'">下一节</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>
+
+<script setup lang="uts">
+  import { Material, MaterialSection, ContentBlock } from '@/common/materials/types.uts'
+  import { loadMaterial, sectionById, chapterOf, blocksOf, prevSection, nextSection, sectionPosition } from '@/common/materials/loader.uts'
+  import { setLastSection, isReviewed, isFavorite, toggleReviewed, toggleFavorite } from '@/store/study.uts'
+
+  const material = ref<Material | null>(null)
+  const section = ref<MaterialSection | null>(null)
+  const hasContent = ref(false)
+  const sectionTitle = ref('')
+  const chapterTitle = ref('')
+  const position = ref('')
+  const blocks = ref<ContentBlock[]>([])
+  const reviewed = ref(false)
+  const favorited = ref(false)
+  const prevId = ref('')
+  const nextId = ref('')
+
+  onLoad((options : OnLoadOptions) => {
+    const mid = options['materialId'] ?? ''
+    const sid = options['sectionId'] ?? ''
+    const m = loadMaterial(mid)
+    if (m == null) {
+      return
+    }
+    const s = sectionById(m, sid)
+    if (s == null) {
+      return
+    }
+    material.value = m
+    section.value = s
+    hasContent.value = true
+
+    /** 本节自己的标题块已在页头展示，内容区跳过，避免重复 */
+    const all = blocksOf(m, s)
+    const shown : ContentBlock[] = []
+    for (let i = 0; i < all.length; i++) {
+      const b = all[i]
+      if (b.type == 'heading' && b.text == s.title) {
+        continue
+      }
+      shown.push(b)
+    }
+    blocks.value = shown
+
+    if (s.parentId != null) {
+      const ch = chapterOf(m, s)
+      if (ch != null) {
+        chapterTitle.value = ch!.title
+      }
+    }
+    position.value = sectionPosition(m, s.id)
+
+    const prev = prevSection(m, s.id)
+    prevId.value = prev != null ? prev!.id : ''
+    const next = nextSection(m, s.id)
+    nextId.value = next != null ? next!.id : ''
+
+    setLastSection(m.id, s.id)
+    reviewed.value = isReviewed(m.id, s.id)
+    favorited.value = isFavorite(m.id, s.id)
+    sectionTitle.value = s.title
+  })
+
+  function goSection(id : string) {
+    const m = material.value
+    if (m == null || id.length == 0) {
+      return
+    }
+    uni.redirectTo({ url: '/pages/material/read?materialId=' + m.id + '&sectionId=' + id })
+  }
+
+  function goPrev() {
+    goSection(prevId.value)
+  }
+
+  function goNext() {
+    goSection(nextId.value)
+  }
+
+  function toggleReviewedState() {
+    const m = material.value
+    const s = section.value
+    if (m == null || s == null) {
+      return
+    }
+    const added = toggleReviewed(m.id, s.id)
+    reviewed.value = added
+    uni.showToast({ title: added ? '已标记为已复习' : '已取消复习标记', icon: 'none' })
+  }
+
+  function toggleFavoriteState() {
+    const m = material.value
+    const s = section.value
+    if (m == null || s == null) {
+      return
+    }
+    const added = toggleFavorite(m.id, s.id)
+    favorited.value = added
+    uni.showToast({ title: added ? '已收藏本节' : '已取消收藏', icon: 'none' })
+  }
+</script>
+
+<style>
+  .read-page {
+    flex: 1;
+    background-color: var(--background-color, #efeff4);
+  }
+
+  .read-body {
+    flex: 1;
+  }
+
+  .read-header {
+    padding: 10px 14px;
+    background-color: var(--list-background-color, #ffffff);
+    border-bottom: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .read-chapter {
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .read-header-row {
+    margin-top: 2px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .read-title {
+    flex: 1;
+    font-size: 17px;
+    font-weight: bold;
+    color: var(--text-color, #333333);
+  }
+
+  .fav-btn {
+    margin-left: 10px;
+    padding: 6px 10px;
+  }
+
+  .fav-text {
+    font-size: 13px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .fav-text-on {
+    color: var(--tips-color, #0958d9);
+  }
+
+  .read-pos {
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--active-color, #a0a0a0);
+  }
+
+  .read-scroll {
+    flex: 1;
+  }
+
+  .read-content {
+    padding: 14px 14px 0 14px;
+  }
+
+  .read-footer {
+    flex-direction: row;
+    padding: 8px 10px;
+    background-color: var(--list-background-color, #ffffff);
+    border-top: 1px solid var(--border-color, rgba(0, 0, 0, .06));
+  }
+
+  .footer-btn {
+    flex: 1;
+    margin: 0 4px;
+    padding: 11px 0;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--active-background-color, #f8f8f8);
+  }
+
+  .footer-btn-off {
+    background-color: transparent;
+  }
+
+  .footer-btn-main {
+    background-color: var(--tips-border-color, #91caff);
+  }
+
+  .footer-btn-main-on {
+    background-color: var(--tips-background-color, #e6f4ff);
+  }
+
+  .footer-text {
+    font-size: 15px;
+    color: var(--text-color, #333333);
+  }
+
+  .footer-text-off {
+    color: var(--arrow-color, #999999);
+  }
+
+  .footer-text-main {
+    color: var(--tips-color, #0958d9);
+  }
+</style>
