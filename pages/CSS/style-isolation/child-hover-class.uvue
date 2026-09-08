@@ -1,8 +1,0 @@
-<template>
-  <view>
-    <slot></slot>
-  </view>
-</template>
-
-<script setup lang="uts">
-</script>
