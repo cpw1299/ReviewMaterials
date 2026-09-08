@@ -1,0 +1,96 @@
+import { Material, MaterialSection, ContentBlock } from './types.uts'
+import { loadMaterialIndex, loadMaterial, sectionOfBlockId } from './loader.uts'
+
+export type SearchResult = {
+	materialId : string
+	materialTitle : string
+	sectionId : string
+	sectionTitle : string
+	kind : string
+	title : string
+	snippet : string
+}
+
+const MAX_RESULTS = 100
+
+function blockSearchText(b : ContentBlock) : string {
+	if (b.type == 'table') {
+		let s = b.headers.join(' ')
+		for (let i = 0; i < b.rows.length; i++) {
+			s = s + ' ' + b.rows[i].join(' ')
+		}
+		return s
+	}
+	if (b.type == 'kv') {
+		return b.label + ' ' + b.text
+	}
+	return b.marker + ' ' + b.text
+}
+
+function makeSnippet(text : string, kw : string) : string {
+	const pos = text.toLowerCase().indexOf(kw)
+	if (pos < 0) {
+		return text.length > 60 ? text.substring(0, 60) : text
+	}
+	const start = pos > 24 ? pos - 24 : 0
+	let end = pos + kw.length + 36
+	if (end > text.length) {
+		end = text.length
+	}
+	return (start > 0 ? '…' : '') + text.substring(start, end) + (end < text.length ? '…' : '')
+}
+
+export function searchAll(keyword : string) : SearchResult[] {
+	const kw = keyword.trim().toLowerCase()
+	const results : SearchResult[] = []
+	if (kw.length == 0) {
+		return results
+	}
+	const index = loadMaterialIndex()
+	for (let i = 0; i < index.materials.length; i++) {
+		const item = index.materials[i]
+		const loaded = loadMaterial(item.id)
+		if (loaded == null) {
+			continue
+		}
+		const material = loaded
+		for (let s = 0; s < material.sections.length && results.length < MAX_RESULTS; s++) {
+			const section = material.sections[s]
+			if (section.title.toLowerCase().indexOf(kw) >= 0) {
+				results.push({
+					materialId: material.id,
+					materialTitle: material.title,
+					sectionId: section.id,
+					sectionTitle: section.title,
+					kind: 'section',
+					title: section.title,
+					snippet: makeSnippet(section.title, kw)
+				} as SearchResult)
+			}
+		}
+		for (let b = 0; b < material.blocks.length && results.length < MAX_RESULTS; b++) {
+			const block = material.blocks[b]
+			if (block.type == 'heading') {
+				continue
+			}
+			const text = blockSearchText(block)
+			if (text.toLowerCase().indexOf(kw) < 0) {
+				continue
+			}
+			const section = sectionOfBlockId(material, block.id)
+			if (section == null) {
+				continue
+			}
+			results.push({
+				materialId: material.id,
+				materialTitle: material.title,
+				sectionId: section.id,
+				sectionTitle: section.title,
+				kind: 'block',
+				title: section.title,
+				snippet: makeSnippet(text, kw)
+			} as SearchResult)
+		}
+	}
+	return results
+}

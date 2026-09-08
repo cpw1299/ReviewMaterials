@@ -1,0 +1,167 @@
+import indexRaw from './index.json'
+import mechanicalRaw from './mechanical-drawing.json'
+import caidRaw from './caid.json'
+import industrialRaw from './industrial-design-history.json'
+import productRaw from './product-design.json'
+import { MaterialIndex, Material, MaterialSection, ContentBlock } from './types.uts'
+
+// 资料全部静态导入、编译进包，运行期零 I/O，断网可用
+let cachedIndex : MaterialIndex | null = null
+const materialCache = new Map<string, Material>()
+const blockIndexCache = new Map<string, Map<string, ContentBlock>>()
+const sectionOfBlockCache = new Map<string, Map<string, string>>()
+
+export function loadMaterialIndex() : MaterialIndex {
+	if (cachedIndex == null) {
+		cachedIndex = indexRaw as MaterialIndex
+	}
+	return cachedIndex!
+}
+
+export function loadMaterial(id : string) : Material | null {
+	const hit = materialCache.get(id)
+	if (hit != null) {
+		return hit
+	}
+	let raw : any | null = null
+	if (id == 'mechanical-drawing') {
+		raw = mechanicalRaw
+	} else if (id == 'caid') {
+		raw = caidRaw
+	} else if (id == 'industrial-design-history') {
+		raw = industrialRaw
+	} else if (id == 'product-design') {
+		raw = productRaw
+	}
+	if (raw == null) {
+		return null
+	}
+	const material = raw as Material
+	materialCache.set(id, material)
+	return material
+}
+
+export function chapters(material : Material) : MaterialSection[] {
+	const result : MaterialSection[] = []
+	for (let i = 0; i < material.sections.length; i++) {
+		if (material.sections[i].level == 1) {
+			result.push(material.sections[i])
+		}
+	}
+	return result
+}
+
+/** 可阅读的最小单元：level 2 章节，阅读页的上一节/下一节按此顺序 */
+export function readableSections(material : Material) : MaterialSection[] {
+	const result : MaterialSection[] = []
+	for (let i = 0; i < material.sections.length; i++) {
+		if (material.sections[i].level == 2) {
+			result.push(material.sections[i])
+		}
+	}
+	return result
+}
+
+export function childrenOf(material : Material, parentId : string) : MaterialSection[] {
+	const result : MaterialSection[] = []
+	for (let i = 0; i < material.sections.length; i++) {
+		const s = material.sections[i]
+		if (s.level == 2 && s.parentId == parentId) {
+			result.push(s)
+		}
+	}
+	return result
+}
+
+export function sectionById(material : Material, id : string) : MaterialSection | null {
+	for (let i = 0; i < material.sections.length; i++) {
+		if (material.sections[i].id == id) {
+			return material.sections[i]
+		}
+	}
+	return null
+}
+
+export function chapterOf(material : Material, section : MaterialSection) : MaterialSection | null {
+	if (section.parentId == null) {
+		return section
+	}
+	return sectionById(material, section.parentId!)
+}
+
+function blockIndex(material : Material) : Map<string, ContentBlock> {
+	let idx = blockIndexCache.get(material.id)
+	if (idx == null) {
+		idx = new Map<string, ContentBlock>()
+		for (let i = 0; i < material.blocks.length; i++) {
+			idx.set(material.blocks[i].id, material.blocks[i])
+		}
+		blockIndexCache.set(material.id, idx)
+	}
+	return blockIndexCache.get(material.id)!
+}
+
+export function blocksOf(material : Material, section : MaterialSection) : ContentBlock[] {
+	const idx = blockIndex(material)
+	const result : ContentBlock[] = []
+	for (let i = 0; i < section.blockIds.length; i++) {
+		const b = idx.get(section.blockIds[i])
+		if (b != null) {
+			result.push(b)
+		}
+	}
+	return result
+}
+
+function sectionOfBlock(material : Material) : Map<string, string> {
+	let idx = sectionOfBlockCache.get(material.id)
+	if (idx == null) {
+		idx = new Map<string, string>()
+		for (let i = 0; i < material.sections.length; i++) {
+			const s = material.sections[i]
+			for (let j = 0; j < s.blockIds.length; j++) {
+				idx.set(s.blockIds[j], s.id)
+			}
+		}
+		sectionOfBlockCache.set(material.id, idx)
+	}
+	return sectionOfBlockCache.get(material.id)!
+}
+
+export function sectionOfBlockId(material : Material, blockId : string) : MaterialSection | null {
+	const sid = sectionOfBlock(material).get(blockId)
+	if (sid == null) {
+		return null
+	}
+	return sectionById(material, sid)
+}
+
+export function prevSection(material : Material, sectionId : string) : MaterialSection | null {
+	const list = readableSections(material)
+	for (let i = 1; i < list.length; i++) {
+		if (list[i].id == sectionId) {
+			return list[i - 1]
+		}
+	}
+	return null
+}
+
+export function nextSection(material : Material, sectionId : string) : MaterialSection | null {
+	const list = readableSections(material)
+	for (let i = 0; i < list.length - 1; i++) {
+		if (list[i].id == sectionId) {
+			return list[i + 1]
+		}
+	}
+	return null
+}
+
+export function sectionPosition(material : Material, sectionId : string) : string {
+	const list = readableSections(material)
+	for (let i = 0; i < list.length; i++) {
+		if (list[i].id == sectionId) {
+			return (i + 1).toString() + ' / ' + list.length.toString()
+		}
+	}
+	return ''
+}

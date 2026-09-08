@@ -1,0 +1,41 @@
+{
+ "schemaVersion": 1,
+ "materials": [
+  {
+   "id": "mechanical-drawing",
+   "title": "机械制图基础（本）复习资料",
+   "subject": "机械制图基础",
+   "file": "mechanical-drawing.json",
+   "sectionCount": 41,
+   "blockCount": 383,
+   "updatedAt": "2026-09-08"
+  },
+  {
+   "id": "industrial-design-history",
+   "title": "工业设计史复习资料",
+   "subject": "工业设计史",
+   "file": "industrial-design-history.json",
+   "sectionCount": 38,
+   "blockCount": 395,
+   "updatedAt": "2026-09-08"
+  },
+  {
+   "id": "product-design",
+   "title": "产品设计程序与方法复习资料",
+   "subject": "产品设计程序与方法",
+   "file": "product-design.json",
+   "sectionCount": 19,
+   "blockCount": 183,
+   "updatedAt": "2026-09-08"
+  },
+  {
+   "id": "caid",
+   "title": "计算机辅助产品设计复习资料",
+   "subject": "计算机辅助产品设计",
+   "file": "caid.json",
+   "sectionCount": 56,
+   "blockCount": 281,
+   "updatedAt": "2026-09-08"
+  }
+ ]
+}
