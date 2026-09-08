@@ -1,0 +1,39 @@
+<template>
+  <view>
+  </view>
+</template>
+
+<script setup>
+  type Data = {
+    urls : Array<string>
+    indicatorType : string
+  }
+  const data = {
+    urls: [],
+    indicatorType: "number"
+  } as Data
+
+  function testPreviewImage() {
+    uni.previewImage({
+      urls: data.urls,
+      // #ifdef APP
+      indicator: data.indicatorType,
+      // #endif
+      complete() {
+      }
+    })
+  }
+  const testClosePreviewImage = () => {
+    uni.closePreviewImage({})
+  }
+
+  defineExpose({
+    data,
+    testPreviewImage,
+    testClosePreviewImage
+  })
+</script>
+
+<style>
+
+</style>

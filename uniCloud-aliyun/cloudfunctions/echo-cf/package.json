@@ -1,0 +1,9 @@
+{
+    "name": "echo-cf",
+    "dependencies": {},
+    "extensions": {},
+    "origin-plugin-dev-name": "hello-uniapp-x-alpha",
+    "origin-plugin-version": "1.0.79",
+    "plugin-dev-name": "hello-uniapp-x-alpha",
+    "plugin-version": "1.0.79"
+}

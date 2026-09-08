@@ -1,0 +1,153 @@
+<template>
+  <scroll-view class="page">
+    <page-head title="uni统计 2.0"></page-head>
+    <view class="status-panel">
+      <text class="status-title">最近操作</text>
+      <text class="status-content">{{ state.message }}</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">自定义事件</text>
+      <button class="normal-button" @click="reportObject">对象参数事件</button>
+      <button class="normal-button" @click="reportString">字符串参数事件</button>
+      <button class="normal-button" @click="reportEmpty">空参数事件</button>
+      <button class="normal-button" @click="reportPair">连续上报两个同名事件</button>
+    </view>
+
+    <view class="section">
+      <text class="section-title">上下文与参数</text>
+      <button class="normal-button" @click="reportTitle">标题上下文</button>
+      <button class="normal-button" @click="reportBaseInfo">基础信息快照</button>
+      <button class="normal-button" @click="goBack">返回上一页</button>
+    </view>
+  </scroll-view>
+</template>
+
+<script setup lang="uts">
+  type StateType = {
+    message: string
+  }
+
+  const state = reactive({ message: '页面打开事件已触发' } as StateType)
+
+  const reportStat = (type: string, value?: any): boolean => {
+    uni.report(type, value)
+    return true
+  }
+
+  onLoad(() => {
+    const marker = Date.now()
+    reportStat('report_page_open', {
+      marker: marker,
+      route: 'pages/API/report/report'
+    })
+  })
+
+  const reportObject = () => {
+    const marker = Date.now()
+    if (reportStat('object_probe', {
+      marker: marker,
+      source: 'hello-uni-app-x',
+      count: 1
+    })) {
+      state.message = 'object_probe：' + marker
+    }
+  }
+
+  const reportString = () => {
+    if (reportStat('string_probe', '中文 a&b=c ? # 空格')) {
+      state.message = 'string_probe：特殊字符'
+    }
+  }
+
+  const reportEmpty = () => {
+    if (reportStat('empty_probe')) {
+      state.message = 'empty_probe：无参数'
+    }
+  }
+
+  const reportPair = () => {
+    const marker = Date.now()
+    const first = reportStat('duplicate_probe', { marker: marker, index: 1 })
+    const second = reportStat('duplicate_probe', { marker: marker, index: 2 })
+    if (first && second) {
+      state.message = 'duplicate_probe：连续两次 ' + marker
+    }
+  }
+
+  const reportTitle = () => {
+    const marker = Date.now()
+    uni.setNavigationBarTitle({ title: 'uni统计标题测试' })
+    const titleReported = reportStat('title', '业务统计标题')
+    const probeReported = reportStat('title_context_probe', { marker: marker })
+    if (titleReported && probeReported) {
+      state.message = 'title_context_probe：' + marker
+    }
+  }
+
+  const reportBaseInfo = () => {
+    const marker = Date.now()
+    const app = uni.getAppBaseInfo()
+    const device = uni.getDeviceInfo()
+    const windowInfo = uni.getWindowInfo()
+    const launch = uni.getLaunchOptionsSync()
+    if (reportStat('base_info_probe', {
+      marker: marker,
+      app: JSON.stringify(app),
+      device: JSON.stringify(device),
+      window: JSON.stringify(windowInfo),
+      launch: JSON.stringify(launch)
+    })) {
+      state.message = 'base_info_probe：' + marker
+    }
+  }
+
+  const goBack = () => {
+    uni.navigateBack()
+  }
+
+  defineExpose({
+    state,
+    reportObject,
+    reportString,
+    reportEmpty,
+    reportPair,
+    reportTitle,
+    reportBaseInfo,
+    goBack
+  })
+</script>
+
+<style>
+  .page {
+    flex: 1;
+    background-color: #f5f6f8;
+  }
+
+  .status-panel,
+  .section {
+    margin: 12px 16px;
+    padding: 16px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+
+  .status-title,
+  .section-title {
+    display: flex;
+    margin-bottom: 12px;
+    color: #202124;
+    font-size: 17px;
+    font-weight: 600;
+  }
+
+  .status-content {
+    color: #5f6673;
+    font-size: 14px;
+  }
+
+  .normal-button {
+    width: 100%;
+    margin-top: 10px;
+  }
+</style>
