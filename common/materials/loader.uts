@@ -10,6 +10,7 @@ let cachedIndex : MaterialIndex | null = null
 const materialCache = new Map<string, Material>()
 const blockIndexCache = new Map<string, Map<string, ContentBlock>>()
 const sectionOfBlockCache = new Map<string, Map<string, string>>()
+const readableCache = new Map<string, MaterialSection[]>()
 
 export function loadMaterialIndex() : MaterialIndex {
 	if (cachedIndex == null) {
@@ -50,14 +51,47 @@ export function chapters(material : Material) : MaterialSection[] {
 	return result
 }
 
-/** 可阅读的最小单元：level 2 章节，阅读页的上一节/下一节按此顺序 */
-export function readableSections(material : Material) : MaterialSection[] {
-	const result : MaterialSection[] = []
-	for (let i = 0; i < material.sections.length; i++) {
-		if (material.sections[i].level == 2) {
-			result.push(material.sections[i])
+function blockIndex(material : Material) : Map<string, ContentBlock> {
+	let idx = blockIndexCache.get(material.id)
+	if (idx == null) {
+		idx = new Map<string, ContentBlock>()
+		for (let i = 0; i < material.blocks.length; i++) {
+			idx.set(material.blocks[i].id, material.blocks[i])
+		}
+		blockIndexCache.set(material.id, idx)
+	}
+	return blockIndexCache.get(material.id)!
+}
+
+/**
+ * 阅读单元 = 拥有非 heading 内容的章节。
+ * 不能按 level 判断：机械制图「附录二」是 level 1 且无子节点，
+ * 另外三份资料的 level 1 章节各自带一段【考情分析】/【核心逻辑】导语。
+ */
+export function isReadable(material : Material, section : MaterialSection) : boolean {
+	const idx = blockIndex(material)
+	for (let i = 0; i < section.blockIds.length; i++) {
+		const b = idx.get(section.blockIds[i])
+		if (b != null && b!.type != 'heading') {
+			return true
 		}
 	}
+	return false
+}
+
+export function readableSections(material : Material) : MaterialSection[] {
+	const hit = readableCache.get(material.id)
+	if (hit != null) {
+		return hit
+	}
+	const result : MaterialSection[] = []
+	for (let i = 0; i < material.sections.length; i++) {
+		const s = material.sections[i]
+		if (isReadable(material, s)) {
+			result.push(s)
+		}
+	}
+	readableCache.set(material.id, result)
 	return result
 }
 
@@ -88,25 +122,13 @@ export function chapterOf(material : Material, section : MaterialSection) : Mate
 	return sectionById(material, section.parentId!)
 }
 
-function blockIndex(material : Material) : Map<string, ContentBlock> {
-	let idx = blockIndexCache.get(material.id)
-	if (idx == null) {
-		idx = new Map<string, ContentBlock>()
-		for (let i = 0; i < material.blocks.length; i++) {
-			idx.set(material.blocks[i].id, material.blocks[i])
-		}
-		blockIndexCache.set(material.id, idx)
-	}
-	return blockIndexCache.get(material.id)!
-}
-
 export function blocksOf(material : Material, section : MaterialSection) : ContentBlock[] {
 	const idx = blockIndex(material)
 	const result : ContentBlock[] = []
 	for (let i = 0; i < section.blockIds.length; i++) {
 		const b = idx.get(section.blockIds[i])
 		if (b != null) {
-			result.push(b)
+			result.push(b!)
 		}
 	}
 	return result
