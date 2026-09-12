@@ -36,11 +36,6 @@
 
   const rows = ref<MaterialRow[]>([])
 
-  /** onShow 重建，返回本页时进度与「继续学习」都是最新值 */
-  onShow(() => {
-    rebuild()
-  })
-
   function rebuild() {
     const list : MaterialRow[] = []
     const index = loadMaterialIndex()
@@ -84,6 +79,11 @@
     }
     uni.navigateTo({ url: '/pages/material/read?materialId=' + materialId + '&sectionId=' + sid })
   }
+
+  /** onShow 重建，返回本页时进度与「继续学习」都是最新值 */
+  onShow(() => {
+    rebuild()
+  })
 </script>
 
 <style>
