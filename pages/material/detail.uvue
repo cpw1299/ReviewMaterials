@@ -112,18 +112,18 @@
     return (reviewedTotal.value * 1.0) / unitCount.value
   }
 
-  function tapChapter(ch : ChapterRow) {
-    if (ch.readable) {
-      openRead(ch.id)
-    }
-  }
-
   function openRead(sectionId : string) {
     const m = material.value
     if (m == null) {
       return
     }
     uni.navigateTo({ url: '/pages/material/read?materialId=' + m.id + '&sectionId=' + sectionId })
+  }
+
+  function tapChapter(ch : ChapterRow) {
+    if (ch.readable) {
+      openRead(ch.id)
+    }
   }
 
   /** onShow 重建：从阅读页返回时刷新已复习标记与继续学习入口 */
