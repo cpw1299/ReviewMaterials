@@ -6,6 +6,8 @@ on:
       - dev
     paths:
       - 'common/materials/**'
+      - 'doc/MarkdownFiles/**'
+      - 'scripts/prepare_materials.py'
 
 permissions:
   contents: write
@@ -17,21 +19,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build static material package
+      - name: Rebuild clean structured materials from Markdown
+        run: |
+          python3 scripts/prepare_materials.py
+
+      - name: Build static chapter-split package
         run: |
           rm -rf static/materials
           mkdir -p static/materials
           cp common/materials/index.json static/materials/index.json
           cp -R common/materials/parts static/materials/parts
 
-      - name: Commit synced assets
+      - name: Commit generated materials and synced assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add static/materials
+          git add common/materials static/materials
           if git diff --cached --quiet; then
-            echo "No material asset changes."
+            echo "No material changes."
             exit 0
           fi
-          git commit -m "chore: rebuild chapter-split material assets"
+          git commit -m "build: regenerate clean chapter-split study materials"
           git push
