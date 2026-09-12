@@ -49,10 +49,6 @@
   const canClearProgress = ref(false)
   const canClearFavorites = ref(false)
 
-  onShow(() => {
-    rebuild()
-  })
-
   function rebuild() {
     const index = loadMaterialIndex()
     let units = 0
@@ -105,6 +101,10 @@
       }
     })
   }
+
+  onShow(() => {
+    rebuild()
+  })
 </script>
 
 <style>
