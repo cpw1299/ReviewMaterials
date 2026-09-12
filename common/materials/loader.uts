@@ -1,20 +1,57 @@
+// Web 端保留静态 import，避免引入文件系统 API；Android/App 端改为运行时读取 static 资源，
+// 防止大 JSON 被编译进 Kotlin 的 <clinit>，同时避免 UTSJSONObject 直接 as 自定义类型。
+// #ifdef WEB
 import indexRaw from './index.json'
 import mechanicalRaw from './mechanical-drawing.json'
 import caidRaw from './caid.json'
 import industrialRaw from './industrial-design-history.json'
 import productRaw from './product-design.json'
+// #endif
+
 import { MaterialIndex, Material, MaterialSection, ContentBlock } from './types.uts'
 
-// 资料全部静态导入、编译进包，运行期零 I/O，断网可用
 let cachedIndex : MaterialIndex | null = null
 const materialCache = new Map<string, Material>()
 const blockIndexCache = new Map<string, Map<string, ContentBlock>>()
 const sectionOfBlockCache = new Map<string, Map<string, string>>()
 const readableCache = new Map<string, MaterialSection[]>()
 
+// #ifdef APP
+function readStaticJson(path : string) : string {
+	const fs = uni.getFileSystemManager()
+	const raw = fs.readFileSync(path, 'utf-8')
+	return raw as string
+}
+
+function parseStaticJson<T>(path : string) : T {
+	const parsed = JSON.parse<T>(readStaticJson(path))
+	if (parsed == null) {
+		throw new Error('资料 JSON 解析失败: ' + path)
+	}
+	return parsed!
+}
+// #endif
+
+function parseImportedJson<T>(raw : any) : T {
+	const text = JSON.stringify(raw)
+	if (text == null) {
+		throw new Error('资料 JSON 序列化失败')
+	}
+	const parsed = JSON.parse<T>(text!)
+	if (parsed == null) {
+		throw new Error('资料 JSON 类型转换失败')
+	}
+	return parsed!
+}
+
 export function loadMaterialIndex() : MaterialIndex {
 	if (cachedIndex == null) {
-		cachedIndex = indexRaw as MaterialIndex
+		// #ifdef APP
+		cachedIndex = parseStaticJson<MaterialIndex>('/static/materials/index.json')
+		// #endif
+		// #ifdef WEB
+		cachedIndex = parseImportedJson<MaterialIndex>(indexRaw)
+		// #endif
 	}
 	return cachedIndex!
 }
@@ -24,16 +61,33 @@ export function loadMaterial(id : string) : Material | null {
 	if (hit != null) {
 		return hit
 	}
+
 	let material : Material | null = null
+
+	// #ifdef APP
 	if (id == 'mechanical-drawing') {
-		material = mechanicalRaw as Material
+		material = parseStaticJson<Material>('/static/materials/mechanical-drawing.json')
 	} else if (id == 'caid') {
-		material = caidRaw as Material
+		material = parseStaticJson<Material>('/static/materials/caid.json')
 	} else if (id == 'industrial-design-history') {
-		material = industrialRaw as Material
+		material = parseStaticJson<Material>('/static/materials/industrial-design-history.json')
 	} else if (id == 'product-design') {
-		material = productRaw as Material
+		material = parseStaticJson<Material>('/static/materials/product-design.json')
 	}
+	// #endif
+
+	// #ifdef WEB
+	if (id == 'mechanical-drawing') {
+		material = parseImportedJson<Material>(mechanicalRaw)
+	} else if (id == 'caid') {
+		material = parseImportedJson<Material>(caidRaw)
+	} else if (id == 'industrial-design-history') {
+		material = parseImportedJson<Material>(industrialRaw)
+	} else if (id == 'product-design') {
+		material = parseImportedJson<Material>(productRaw)
+	}
+	// #endif
+
 	if (material == null) {
 		return null
 	}
