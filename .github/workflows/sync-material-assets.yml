@@ -1,0 +1,37 @@
+name: Sync material assets
+
+on:
+  push:
+    branches:
+      - dev
+
+permissions:
+  contents: write
+
+jobs:
+  sync-material-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Copy material JSON into static assets
+        run: |
+          mkdir -p static/materials
+          cp common/materials/index.json static/materials/index.json
+          cp common/materials/mechanical-drawing.json static/materials/mechanical-drawing.json
+          cp common/materials/caid.json static/materials/caid.json
+          cp common/materials/industrial-design-history.json static/materials/industrial-design-history.json
+          cp common/materials/product-design.json static/materials/product-design.json
+
+      - name: Commit synced assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/materials
+          if git diff --cached --quiet; then
+            echo "No material asset changes."
+            exit 0
+          fi
+          git commit -m "chore: sync material JSON assets"
+          git push
