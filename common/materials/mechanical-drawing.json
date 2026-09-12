@@ -6,12 +6,12 @@
   "sections": [
     {
       "id": "sec-001",
-      "title": "第一章 制图的基本知识",
+      "title": "第一章 制图的基本知识",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-001",
-        "blk-002"
+        "blk-0001",
+        "blk-0002"
       ]
     },
     {
@@ -20,27 +20,27 @@
       "level": 2,
       "parentId": "sec-001",
       "blockIds": [
-        "blk-002",
-        "blk-003",
-        "blk-004",
-        "blk-005",
-        "blk-006",
-        "blk-007",
-        "blk-008",
-        "blk-009",
-        "blk-010",
-        "blk-011",
-        "blk-012",
-        "blk-013",
-        "blk-014",
-        "blk-015",
-        "blk-016",
-        "blk-017",
-        "blk-018",
-        "blk-019",
-        "blk-020",
-        "blk-021",
-        "blk-022"
+        "blk-0002",
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020",
+        "blk-0021",
+        "blk-0022"
       ]
     },
     {
@@ -49,16 +49,16 @@
       "level": 2,
       "parentId": "sec-001",
       "blockIds": [
-        "blk-022",
-        "blk-023",
-        "blk-024",
-        "blk-025",
-        "blk-026",
-        "blk-027",
-        "blk-028",
-        "blk-029",
-        "blk-030",
-        "blk-031"
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029",
+        "blk-0030",
+        "blk-0031"
       ]
     },
     {
@@ -67,31 +67,31 @@
       "level": 2,
       "parentId": "sec-001",
       "blockIds": [
-        "blk-031",
-        "blk-032",
-        "blk-033",
-        "blk-034",
-        "blk-035",
-        "blk-036",
-        "blk-037",
-        "blk-038",
-        "blk-039",
-        "blk-040",
-        "blk-041",
-        "blk-042",
-        "blk-043",
-        "blk-044",
-        "blk-045"
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043",
+        "blk-0044",
+        "blk-0045"
       ]
     },
     {
       "id": "sec-005",
-      "title": "第二章 正投影基本知识",
+      "title": "第二章 正投影基本知识",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-045",
-        "blk-046"
+        "blk-0045",
+        "blk-0046"
       ]
     },
     {
@@ -100,20 +100,20 @@
       "level": 2,
       "parentId": "sec-005",
       "blockIds": [
-        "blk-046",
-        "blk-047",
-        "blk-048",
-        "blk-049",
-        "blk-050",
-        "blk-051",
-        "blk-052",
-        "blk-053",
-        "blk-054",
-        "blk-055",
-        "blk-056",
-        "blk-057",
-        "blk-058",
-        "blk-059"
+        "blk-0046",
+        "blk-0047",
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059"
       ]
     },
     {
@@ -122,17 +122,17 @@
       "level": 2,
       "parentId": "sec-005",
       "blockIds": [
-        "blk-059",
-        "blk-060",
-        "blk-061",
-        "blk-062",
-        "blk-063",
-        "blk-064",
-        "blk-065",
-        "blk-066",
-        "blk-067",
-        "blk-068",
-        "blk-069"
+        "blk-0059",
+        "blk-0060",
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066",
+        "blk-0067",
+        "blk-0068",
+        "blk-0069"
       ]
     },
     {
@@ -141,28 +141,28 @@
       "level": 2,
       "parentId": "sec-005",
       "blockIds": [
-        "blk-069",
-        "blk-070",
-        "blk-071",
-        "blk-072",
-        "blk-073",
-        "blk-074",
-        "blk-075",
-        "blk-076",
-        "blk-077",
-        "blk-078",
-        "blk-079",
-        "blk-080",
-        "blk-081",
-        "blk-082",
-        "blk-083",
-        "blk-084",
-        "blk-085",
-        "blk-086",
-        "blk-087",
-        "blk-088",
-        "blk-089",
-        "blk-090"
+        "blk-0069",
+        "blk-0070",
+        "blk-0071",
+        "blk-0072",
+        "blk-0073",
+        "blk-0074",
+        "blk-0075",
+        "blk-0076",
+        "blk-0077",
+        "blk-0078",
+        "blk-0079",
+        "blk-0080",
+        "blk-0081",
+        "blk-0082",
+        "blk-0083",
+        "blk-0084",
+        "blk-0085",
+        "blk-0086",
+        "blk-0087",
+        "blk-0088",
+        "blk-0089",
+        "blk-0090"
       ]
     },
     {
@@ -171,27 +171,27 @@
       "level": 2,
       "parentId": "sec-005",
       "blockIds": [
-        "blk-090",
-        "blk-091",
-        "blk-092",
-        "blk-093",
-        "blk-094",
-        "blk-095",
-        "blk-096",
-        "blk-097",
-        "blk-098",
-        "blk-099",
-        "blk-100"
+        "blk-0090",
+        "blk-0091",
+        "blk-0092",
+        "blk-0093",
+        "blk-0094",
+        "blk-0095",
+        "blk-0096",
+        "blk-0097",
+        "blk-0098",
+        "blk-0099",
+        "blk-0100"
       ]
     },
     {
       "id": "sec-010",
-      "title": "第三章 基本形体的投影与立体表面交线",
+      "title": "第三章 基本形体的投影与立体表面交线",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-100",
-        "blk-101"
+        "blk-0100",
+        "blk-0101"
       ]
     },
     {
@@ -200,17 +200,17 @@
       "level": 2,
       "parentId": "sec-010",
       "blockIds": [
-        "blk-101",
-        "blk-102",
-        "blk-103",
-        "blk-104",
-        "blk-105",
-        "blk-106",
-        "blk-107",
-        "blk-108",
-        "blk-109",
-        "blk-110",
-        "blk-111"
+        "blk-0101",
+        "blk-0102",
+        "blk-0103",
+        "blk-0104",
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109",
+        "blk-0110",
+        "blk-0111"
       ]
     },
     {
@@ -219,23 +219,23 @@
       "level": 2,
       "parentId": "sec-010",
       "blockIds": [
-        "blk-111",
-        "blk-112",
-        "blk-113",
-        "blk-114",
-        "blk-115",
-        "blk-116",
-        "blk-117",
-        "blk-118",
-        "blk-119",
-        "blk-120",
-        "blk-121",
-        "blk-122",
-        "blk-123",
-        "blk-124",
-        "blk-125",
-        "blk-126",
-        "blk-127"
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121",
+        "blk-0122",
+        "blk-0123",
+        "blk-0124",
+        "blk-0125",
+        "blk-0126",
+        "blk-0127"
       ]
     },
     {
@@ -244,27 +244,27 @@
       "level": 2,
       "parentId": "sec-010",
       "blockIds": [
-        "blk-127",
-        "blk-128",
-        "blk-129",
-        "blk-130",
-        "blk-131",
-        "blk-132",
-        "blk-133",
-        "blk-134",
-        "blk-135",
-        "blk-136",
-        "blk-137"
+        "blk-0127",
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136",
+        "blk-0137"
       ]
     },
     {
       "id": "sec-014",
-      "title": "第四章 组合体",
+      "title": "第四章 组合体",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-137",
-        "blk-138"
+        "blk-0137",
+        "blk-0138"
       ]
     },
     {
@@ -273,14 +273,14 @@
       "level": 2,
       "parentId": "sec-014",
       "blockIds": [
-        "blk-138",
-        "blk-139",
-        "blk-140",
-        "blk-141",
-        "blk-142",
-        "blk-143",
-        "blk-144",
-        "blk-145"
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144",
+        "blk-0145"
       ]
     },
     {
@@ -289,16 +289,16 @@
       "level": 2,
       "parentId": "sec-014",
       "blockIds": [
-        "blk-145",
-        "blk-146",
-        "blk-147",
-        "blk-148",
-        "blk-149",
-        "blk-150",
-        "blk-151",
-        "blk-152",
-        "blk-153",
-        "blk-154"
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152",
+        "blk-0153",
+        "blk-0154"
       ]
     },
     {
@@ -307,20 +307,20 @@
       "level": 2,
       "parentId": "sec-014",
       "blockIds": [
-        "blk-154",
-        "blk-155",
-        "blk-156",
-        "blk-157",
-        "blk-158",
-        "blk-159",
-        "blk-160",
-        "blk-161",
-        "blk-162",
-        "blk-163",
-        "blk-164",
-        "blk-165",
-        "blk-166",
-        "blk-167"
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159",
+        "blk-0160",
+        "blk-0161",
+        "blk-0162",
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167"
       ]
     },
     {
@@ -329,28 +329,28 @@
       "level": 2,
       "parentId": "sec-014",
       "blockIds": [
-        "blk-167",
-        "blk-168",
-        "blk-169",
-        "blk-170",
-        "blk-171",
-        "blk-172",
-        "blk-173",
-        "blk-174",
-        "blk-175",
-        "blk-176",
-        "blk-177",
-        "blk-178"
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178"
       ]
     },
     {
       "id": "sec-019",
-      "title": "第五章 工程图样的表达方法",
+      "title": "第五章 工程图样的表达方法",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-178",
-        "blk-179"
+        "blk-0178",
+        "blk-0179"
       ]
     },
     {
@@ -359,20 +359,20 @@
       "level": 2,
       "parentId": "sec-019",
       "blockIds": [
-        "blk-179",
-        "blk-180",
-        "blk-181",
-        "blk-182",
-        "blk-183",
-        "blk-184",
-        "blk-185",
-        "blk-186",
-        "blk-187",
-        "blk-188",
-        "blk-189",
-        "blk-190",
-        "blk-191",
-        "blk-192"
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191",
+        "blk-0192"
       ]
     },
     {
@@ -381,27 +381,27 @@
       "level": 2,
       "parentId": "sec-019",
       "blockIds": [
-        "blk-192",
-        "blk-193",
-        "blk-194",
-        "blk-195",
-        "blk-196",
-        "blk-197",
-        "blk-198",
-        "blk-199",
-        "blk-200",
-        "blk-201",
-        "blk-202",
-        "blk-203",
-        "blk-204",
-        "blk-205",
-        "blk-206",
-        "blk-207",
-        "blk-208",
-        "blk-209",
-        "blk-210",
-        "blk-211",
-        "blk-212"
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202",
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207",
+        "blk-0208",
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212"
       ]
     },
     {
@@ -410,16 +410,16 @@
       "level": 2,
       "parentId": "sec-019",
       "blockIds": [
-        "blk-212",
-        "blk-213",
-        "blk-214",
-        "blk-215",
-        "blk-216",
-        "blk-217",
-        "blk-218",
-        "blk-219",
-        "blk-220",
-        "blk-221"
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221"
       ]
     },
     {
@@ -428,15 +428,15 @@
       "level": 2,
       "parentId": "sec-019",
       "blockIds": [
-        "blk-221",
-        "blk-222",
-        "blk-223",
-        "blk-224",
-        "blk-225",
-        "blk-226",
-        "blk-227",
-        "blk-228",
-        "blk-229"
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228",
+        "blk-0229"
       ]
     },
     {
@@ -445,19 +445,19 @@
       "level": 2,
       "parentId": "sec-019",
       "blockIds": [
-        "blk-229",
-        "blk-230",
-        "blk-231"
+        "blk-0229",
+        "blk-0230",
+        "blk-0231"
       ]
     },
     {
       "id": "sec-025",
-      "title": "第六章 标准件和常用件",
+      "title": "第六章 标准件和常用件",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-231",
-        "blk-232"
+        "blk-0231",
+        "blk-0232"
       ]
     },
     {
@@ -466,23 +466,23 @@
       "level": 2,
       "parentId": "sec-025",
       "blockIds": [
-        "blk-232",
-        "blk-233",
-        "blk-234",
-        "blk-235",
-        "blk-236",
-        "blk-237",
-        "blk-238",
-        "blk-239",
-        "blk-240",
-        "blk-241",
-        "blk-242",
-        "blk-243",
-        "blk-244",
-        "blk-245",
-        "blk-246",
-        "blk-247",
-        "blk-248"
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237",
+        "blk-0238",
+        "blk-0239",
+        "blk-0240",
+        "blk-0241",
+        "blk-0242",
+        "blk-0243",
+        "blk-0244",
+        "blk-0245",
+        "blk-0246",
+        "blk-0247",
+        "blk-0248"
       ]
     },
     {
@@ -491,15 +491,15 @@
       "level": 2,
       "parentId": "sec-025",
       "blockIds": [
-        "blk-248",
-        "blk-249",
-        "blk-250",
-        "blk-251",
-        "blk-252",
-        "blk-253",
-        "blk-254",
-        "blk-255",
-        "blk-256"
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256"
       ]
     },
     {
@@ -508,10 +508,10 @@
       "level": 2,
       "parentId": "sec-025",
       "blockIds": [
-        "blk-256",
-        "blk-257",
-        "blk-258",
-        "blk-259"
+        "blk-0256",
+        "blk-0257",
+        "blk-0258",
+        "blk-0259"
       ]
     },
     {
@@ -520,21 +520,21 @@
       "level": 2,
       "parentId": "sec-025",
       "blockIds": [
-        "blk-259",
-        "blk-260",
-        "blk-261",
-        "blk-262",
-        "blk-263",
-        "blk-264",
-        "blk-265",
-        "blk-266",
-        "blk-267",
-        "blk-268",
-        "blk-269",
-        "blk-270",
-        "blk-271",
-        "blk-272",
-        "blk-273"
+        "blk-0259",
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273"
       ]
     },
     {
@@ -543,24 +543,24 @@
       "level": 2,
       "parentId": "sec-025",
       "blockIds": [
-        "blk-273",
-        "blk-274",
-        "blk-275",
-        "blk-276",
-        "blk-277",
-        "blk-278",
-        "blk-279",
-        "blk-280"
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279",
+        "blk-0280"
       ]
     },
     {
       "id": "sec-031",
-      "title": "第七章 零件图",
+      "title": "第七章 零件图",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-280",
-        "blk-281"
+        "blk-0280",
+        "blk-0281"
       ]
     },
     {
@@ -569,12 +569,12 @@
       "level": 2,
       "parentId": "sec-031",
       "blockIds": [
-        "blk-281",
-        "blk-282",
-        "blk-283",
-        "blk-284",
-        "blk-285",
-        "blk-286"
+        "blk-0281",
+        "blk-0282",
+        "blk-0283",
+        "blk-0284",
+        "blk-0285",
+        "blk-0286"
       ]
     },
     {
@@ -583,19 +583,19 @@
       "level": 2,
       "parentId": "sec-031",
       "blockIds": [
-        "blk-286",
-        "blk-287",
-        "blk-288",
-        "blk-289",
-        "blk-290",
-        "blk-291",
-        "blk-292",
-        "blk-293",
-        "blk-294",
-        "blk-295",
-        "blk-296",
-        "blk-297",
-        "blk-298"
+        "blk-0286",
+        "blk-0287",
+        "blk-0288",
+        "blk-0289",
+        "blk-0290",
+        "blk-0291",
+        "blk-0292",
+        "blk-0293",
+        "blk-0294",
+        "blk-0295",
+        "blk-0296",
+        "blk-0297",
+        "blk-0298"
       ]
     },
     {
@@ -604,14 +604,14 @@
       "level": 2,
       "parentId": "sec-031",
       "blockIds": [
-        "blk-298",
-        "blk-299",
-        "blk-300",
-        "blk-301",
-        "blk-302",
-        "blk-303",
-        "blk-304",
-        "blk-305"
+        "blk-0298",
+        "blk-0299",
+        "blk-0300",
+        "blk-0301",
+        "blk-0302",
+        "blk-0303",
+        "blk-0304",
+        "blk-0305"
       ]
     },
     {
@@ -620,19 +620,19 @@
       "level": 2,
       "parentId": "sec-031",
       "blockIds": [
-        "blk-305",
-        "blk-306",
-        "blk-307",
-        "blk-308",
-        "blk-309",
-        "blk-310",
-        "blk-311",
-        "blk-312",
-        "blk-313",
-        "blk-314",
-        "blk-315",
-        "blk-316",
-        "blk-317"
+        "blk-0305",
+        "blk-0306",
+        "blk-0307",
+        "blk-0308",
+        "blk-0309",
+        "blk-0310",
+        "blk-0311",
+        "blk-0312",
+        "blk-0313",
+        "blk-0314",
+        "blk-0315",
+        "blk-0316",
+        "blk-0317"
       ]
     },
     {
@@ -641,24 +641,24 @@
       "level": 2,
       "parentId": "sec-031",
       "blockIds": [
-        "blk-317",
-        "blk-318",
-        "blk-319",
-        "blk-320",
-        "blk-321",
-        "blk-322",
-        "blk-323",
-        "blk-324"
+        "blk-0317",
+        "blk-0318",
+        "blk-0319",
+        "blk-0320",
+        "blk-0321",
+        "blk-0322",
+        "blk-0323",
+        "blk-0324"
       ]
     },
     {
       "id": "sec-037",
-      "title": "第八章 装配图",
+      "title": "第八章 装配图",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-324",
-        "blk-325"
+        "blk-0324",
+        "blk-0325"
       ]
     },
     {
@@ -667,12 +667,12 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-325",
-        "blk-326",
-        "blk-327",
-        "blk-328",
-        "blk-329",
-        "blk-330"
+        "blk-0325",
+        "blk-0326",
+        "blk-0327",
+        "blk-0328",
+        "blk-0329",
+        "blk-0330"
       ]
     },
     {
@@ -681,16 +681,16 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-330",
-        "blk-331",
-        "blk-332",
-        "blk-333",
-        "blk-334",
-        "blk-335",
-        "blk-336",
-        "blk-337",
-        "blk-338",
-        "blk-339"
+        "blk-0330",
+        "blk-0331",
+        "blk-0332",
+        "blk-0333",
+        "blk-0334",
+        "blk-0335",
+        "blk-0336",
+        "blk-0337",
+        "blk-0338",
+        "blk-0339"
       ]
     },
     {
@@ -699,16 +699,16 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-339",
-        "blk-340",
-        "blk-341",
-        "blk-342",
-        "blk-343",
-        "blk-344",
-        "blk-345",
-        "blk-346",
-        "blk-347",
-        "blk-348"
+        "blk-0339",
+        "blk-0340",
+        "blk-0341",
+        "blk-0342",
+        "blk-0343",
+        "blk-0344",
+        "blk-0345",
+        "blk-0346",
+        "blk-0347",
+        "blk-0348"
       ]
     },
     {
@@ -717,14 +717,14 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-348",
-        "blk-349",
-        "blk-350",
-        "blk-351",
-        "blk-352",
-        "blk-353",
-        "blk-354",
-        "blk-355"
+        "blk-0348",
+        "blk-0349",
+        "blk-0350",
+        "blk-0351",
+        "blk-0352",
+        "blk-0353",
+        "blk-0354",
+        "blk-0355"
       ]
     },
     {
@@ -733,13 +733,13 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-355",
-        "blk-356",
-        "blk-357",
-        "blk-358",
-        "blk-359",
-        "blk-360",
-        "blk-361"
+        "blk-0355",
+        "blk-0356",
+        "blk-0357",
+        "blk-0358",
+        "blk-0359",
+        "blk-0360",
+        "blk-0361"
       ]
     },
     {
@@ -748,92 +748,92 @@
       "level": 2,
       "parentId": "sec-037",
       "blockIds": [
-        "blk-361",
-        "blk-362",
-        "blk-363",
-        "blk-364",
-        "blk-365",
-        "blk-366",
-        "blk-367",
-        "blk-368",
-        "blk-369"
+        "blk-0361",
+        "blk-0362",
+        "blk-0363",
+        "blk-0364",
+        "blk-0365",
+        "blk-0366",
+        "blk-0367",
+        "blk-0368",
+        "blk-0369"
       ]
     },
     {
       "id": "sec-044",
-      "title": "1. 三视图规律",
+      "title": "1. 三视图规律",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-369",
-        "blk-370",
-        "blk-371"
+        "blk-0369",
+        "blk-0370",
+        "blk-0371"
       ]
     },
     {
       "id": "sec-045",
-      "title": "2. 螺纹画法",
+      "title": "2. 螺纹画法",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-371",
-        "blk-372",
-        "blk-373"
+        "blk-0371",
+        "blk-0372",
+        "blk-0373"
       ]
     },
     {
       "id": "sec-046",
-      "title": "3. 尺寸标注",
+      "title": "3. 尺寸标注",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-373",
-        "blk-374",
-        "blk-375"
+        "blk-0373",
+        "blk-0374",
+        "blk-0375"
       ]
     },
     {
       "id": "sec-047",
-      "title": "4. 剖视种类",
+      "title": "4. 剖视种类",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-375",
-        "blk-376",
-        "blk-377"
+        "blk-0375",
+        "blk-0376",
+        "blk-0377"
       ]
     },
     {
       "id": "sec-048",
-      "title": "5. 齿轮参数",
+      "title": "5. 齿轮参数",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-377",
-        "blk-378",
-        "blk-379"
+        "blk-0377",
+        "blk-0378",
+        "blk-0379"
       ]
     },
     {
       "id": "sec-049",
-      "title": "6. 圆锥截交线",
+      "title": "6. 圆锥截交线",
       "level": 1,
       "parentId": null,
       "blockIds": [
-        "blk-379",
-        "blk-380",
-        "blk-381",
-        "blk-382",
-        "blk-383"
+        "blk-0379",
+        "blk-0380",
+        "blk-0381",
+        "blk-0382",
+        "blk-0383"
       ]
     }
   ],
   "blocks": [
     {
-      "id": "blk-001",
+      "id": "blk-0001",
       "type": "heading",
       "level": 1,
-      "text": "第一章 制图的基本知识",
+      "text": "第一章 制图的基本知识",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -848,7 +848,7 @@
       "depth": 0
     },
     {
-      "id": "blk-002",
+      "id": "blk-0002",
       "type": "heading",
       "level": 2,
       "text": "【1.1 国家标准的基本规定】",
@@ -866,7 +866,7 @@
       "depth": 0
     },
     {
-      "id": "blk-003",
+      "id": "blk-0003",
       "type": "heading",
       "level": 3,
       "text": "一、图纸幅面",
@@ -884,7 +884,7 @@
       "depth": 0
     },
     {
-      "id": "blk-004",
+      "id": "blk-0004",
       "type": "paragraph",
       "level": 0,
       "text": "A0（841×1189）、A1（594×841）、A2（420×594）",
@@ -902,7 +902,7 @@
       "depth": 0
     },
     {
-      "id": "blk-005",
+      "id": "blk-0005",
       "type": "paragraph",
       "level": 0,
       "text": "A3（297×420）、A4（210×297）",
@@ -920,7 +920,7 @@
       "depth": 0
     },
     {
-      "id": "blk-006",
+      "id": "blk-0006",
       "type": "paragraph",
       "level": 0,
       "text": "A1面积为A0的一半，依此类推",
@@ -938,7 +938,7 @@
       "depth": 0
     },
     {
-      "id": "blk-007",
+      "id": "blk-0007",
       "type": "heading",
       "level": 3,
       "text": "二、比例",
@@ -956,7 +956,7 @@
       "depth": 0
     },
     {
-      "id": "blk-008",
+      "id": "blk-0008",
       "type": "paragraph",
       "level": 0,
       "text": "原值比例：1:1",
@@ -974,7 +974,7 @@
       "depth": 0
     },
     {
-      "id": "blk-009",
+      "id": "blk-0009",
       "type": "paragraph",
       "level": 0,
       "text": "放大比例：2:1、5:1等",
@@ -992,7 +992,7 @@
       "depth": 0
     },
     {
-      "id": "blk-010",
+      "id": "blk-0010",
       "type": "paragraph",
       "level": 0,
       "text": "缩小比例：1:2、1:5等",
@@ -1010,7 +1010,7 @@
       "depth": 0
     },
     {
-      "id": "blk-011",
+      "id": "blk-0011",
       "type": "heading",
       "level": 3,
       "text": "三、字体",
@@ -1028,7 +1028,7 @@
       "depth": 0
     },
     {
-      "id": "blk-012",
+      "id": "blk-0012",
       "type": "paragraph",
       "level": 0,
       "text": "汉字：长仿宋体，高度h≥3.5mm",
@@ -1046,7 +1046,7 @@
       "depth": 0
     },
     {
-      "id": "blk-013",
+      "id": "blk-0013",
       "type": "paragraph",
       "level": 0,
       "text": "数字和字母：可直体或斜体（斜体字头向右倾斜75°）",
@@ -1064,7 +1064,7 @@
       "depth": 0
     },
     {
-      "id": "blk-014",
+      "id": "blk-0014",
       "type": "heading",
       "level": 3,
       "text": "四、图线（8种常用）",
@@ -1082,10 +1082,10 @@
       "depth": 0
     },
     {
-      "id": "blk-015",
+      "id": "blk-0015",
       "type": "paragraph",
       "level": 0,
-      "text": "**图线相关信息表**",
+      "text": "图线相关信息表",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -1100,7 +1100,7 @@
       "depth": 0
     },
     {
-      "id": "blk-016",
+      "id": "blk-0016",
       "type": "table",
       "level": 0,
       "text": "",
@@ -1108,9 +1108,9 @@
       "marker": "",
       "ordered": false,
       "headers": [
-        "**图线名称**",
-        "**线型**",
-        "**主要用途**"
+        "图线名称",
+        "线型",
+        "主要用途"
       ],
       "rows": [
         [
@@ -1157,7 +1157,7 @@
       "depth": 0
     },
     {
-      "id": "blk-017",
+      "id": "blk-0017",
       "type": "heading",
       "level": 3,
       "text": "五、尺寸标注基本规则",
@@ -1175,7 +1175,7 @@
       "depth": 0
     },
     {
-      "id": "blk-018",
+      "id": "blk-0018",
       "type": "list_item",
       "level": 0,
       "text": "尺寸数字写在尺寸线上方或中断处",
@@ -1193,7 +1193,7 @@
       "depth": 0
     },
     {
-      "id": "blk-019",
+      "id": "blk-0019",
       "type": "list_item",
       "level": 0,
       "text": "线性尺寸数字：水平朝上，垂直朝左",
@@ -1211,10 +1211,10 @@
       "depth": 0
     },
     {
-      "id": "blk-020",
+      "id": "blk-0020",
       "type": "paragraph",
       "level": 0,
-      "text": "**3****，****角度尺寸线为圆弧，数字水平书写在尺寸线中断处或上方。**",
+      "text": "3，角度尺寸线为圆弧，数字水平书写在尺寸线中断处或上方。",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -1229,7 +1229,7 @@
       "depth": 0
     },
     {
-      "id": "blk-021",
+      "id": "blk-0021",
       "type": "paragraph",
       "level": 0,
       "text": "4，直径标\"φ\"，半径标\"R\"，球面标\"Sφ\"或\"SR\"",
@@ -1247,7 +1247,7 @@
       "depth": 0
     },
     {
-      "id": "blk-022",
+      "id": "blk-0022",
       "type": "heading",
       "level": 2,
       "text": "【1.2 几何作图】",
@@ -1265,7 +1265,7 @@
       "depth": 0
     },
     {
-      "id": "blk-023",
+      "id": "blk-0023",
       "type": "heading",
       "level": 3,
       "text": "一、斜度",
@@ -1283,7 +1283,7 @@
       "depth": 0
     },
     {
-      "id": "blk-024",
+      "id": "blk-0024",
       "type": "paragraph",
       "level": 0,
       "text": "一直线（或平面）对另一直线（或平面）的倾斜程度",
@@ -1301,7 +1301,7 @@
       "depth": 0
     },
     {
-      "id": "blk-025",
+      "id": "blk-0025",
       "type": "paragraph",
       "level": 0,
       "text": "标注为\"∠1:n\"",
@@ -1319,7 +1319,7 @@
       "depth": 0
     },
     {
-      "id": "blk-026",
+      "id": "blk-0026",
       "type": "heading",
       "level": 3,
       "text": "二、锥度",
@@ -1337,7 +1337,7 @@
       "depth": 0
     },
     {
-      "id": "blk-027",
+      "id": "blk-0027",
       "type": "paragraph",
       "level": 0,
       "text": "圆锥底面直径与高度之比",
@@ -1355,7 +1355,7 @@
       "depth": 0
     },
     {
-      "id": "blk-028",
+      "id": "blk-0028",
       "type": "paragraph",
       "level": 0,
       "text": "标注为\"◁1:n\"",
@@ -1373,7 +1373,7 @@
       "depth": 0
     },
     {
-      "id": "blk-029",
+      "id": "blk-0029",
       "type": "heading",
       "level": 3,
       "text": "三、圆弧连接",
@@ -1391,7 +1391,7 @@
       "depth": 0
     },
     {
-      "id": "blk-030",
+      "id": "blk-0030",
       "type": "paragraph",
       "level": 0,
       "text": "关键是准确找出连接圆弧的圆心和切点",
@@ -1409,7 +1409,7 @@
       "depth": 0
     },
     {
-      "id": "blk-031",
+      "id": "blk-0031",
       "type": "heading",
       "level": 2,
       "text": "【1.3 平面图形的作图方法及尺寸标注】",
@@ -1427,7 +1427,7 @@
       "depth": 0
     },
     {
-      "id": "blk-032",
+      "id": "blk-0032",
       "type": "heading",
       "level": 3,
       "text": "一、尺寸分析",
@@ -1445,7 +1445,7 @@
       "depth": 0
     },
     {
-      "id": "blk-033",
+      "id": "blk-0033",
       "type": "paragraph",
       "level": 0,
       "text": "定形尺寸：确定形状大小的尺寸",
@@ -1463,7 +1463,7 @@
       "depth": 0
     },
     {
-      "id": "blk-034",
+      "id": "blk-0034",
       "type": "paragraph",
       "level": 0,
       "text": "定位尺寸：确定各部分相对位置的尺寸",
@@ -1481,7 +1481,7 @@
       "depth": 0
     },
     {
-      "id": "blk-035",
+      "id": "blk-0035",
       "type": "paragraph",
       "level": 0,
       "text": "尺寸基准：标注定位尺寸的起点",
@@ -1499,7 +1499,7 @@
       "depth": 0
     },
     {
-      "id": "blk-036",
+      "id": "blk-0036",
       "type": "heading",
       "level": 3,
       "text": "二、线段分析",
@@ -1517,7 +1517,7 @@
       "depth": 0
     },
     {
-      "id": "blk-037",
+      "id": "blk-0037",
       "type": "paragraph",
       "level": 0,
       "text": "已知线段：定形、定位尺寸齐全，可直接画出",
@@ -1535,7 +1535,7 @@
       "depth": 0
     },
     {
-      "id": "blk-038",
+      "id": "blk-0038",
       "type": "paragraph",
       "level": 0,
       "text": "中间线段：有一个方向定位尺寸缺失",
@@ -1553,7 +1553,7 @@
       "depth": 0
     },
     {
-      "id": "blk-039",
+      "id": "blk-0039",
       "type": "paragraph",
       "level": 0,
       "text": "连接线段：两个方向定位尺寸均缺失",
@@ -1571,7 +1571,7 @@
       "depth": 0
     },
     {
-      "id": "blk-040",
+      "id": "blk-0040",
       "type": "heading",
       "level": 3,
       "text": "三、平面图形作图步骤",
@@ -1589,7 +1589,7 @@
       "depth": 0
     },
     {
-      "id": "blk-041",
+      "id": "blk-0041",
       "type": "paragraph",
       "level": 0,
       "text": "画基准线 → 画已知线段 → 画中间线段 → 画连接线段 → 检查整理",
@@ -1607,7 +1607,7 @@
       "depth": 0
     },
     {
-      "id": "blk-042",
+      "id": "blk-0042",
       "type": "heading",
       "level": 3,
       "text": "四、徒手绘图",
@@ -1625,7 +1625,7 @@
       "depth": 0
     },
     {
-      "id": "blk-043",
+      "id": "blk-0043",
       "type": "paragraph",
       "level": 0,
       "text": "徒手画直线：眼睛注视终端，手腕悬空，从左到右画",
@@ -1643,7 +1643,7 @@
       "depth": 0
     },
     {
-      "id": "blk-044",
+      "id": "blk-0044",
       "type": "paragraph",
       "level": 0,
       "text": "徒手画圆：先画中心线，再画正方形，最后画圆",
@@ -1661,10 +1661,10 @@
       "depth": 0
     },
     {
-      "id": "blk-045",
+      "id": "blk-0045",
       "type": "heading",
       "level": 1,
-      "text": "第二章 正投影基本知识",
+      "text": "第二章 正投影基本知识",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -1679,7 +1679,7 @@
       "depth": 0
     },
     {
-      "id": "blk-046",
+      "id": "blk-0046",
       "type": "heading",
       "level": 2,
       "text": "【2.1 三投影面体系与三视图】",
@@ -1697,7 +1697,7 @@
       "depth": 0
     },
     {
-      "id": "blk-047",
+      "id": "blk-0047",
       "type": "heading",
       "level": 3,
       "text": "一、三投影面体系",
@@ -1715,10 +1715,10 @@
       "depth": 0
     },
     {
-      "id": "blk-048",
+      "id": "blk-0048",
       "type": "paragraph",
       "level": 0,
-      "text": "V 面（正立投影面）→ 主视图（从前向后看）",
+      "text": "V 面（正立投影面）→ 主视图（从前向后看）",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -1733,7 +1733,7 @@
       "depth": 0
     },
     {
-      "id": "blk-049",
+      "id": "blk-0049",
       "type": "paragraph",
       "level": 0,
       "text": "H面（水平投影面）→ 俯视图（从上向下看）",
@@ -1751,7 +1751,7 @@
       "depth": 0
     },
     {
-      "id": "blk-050",
+      "id": "blk-0050",
       "type": "paragraph",
       "level": 0,
       "text": "W面（侧立投影面）→ 左视图（从左向右看）",
@@ -1769,7 +1769,7 @@
       "depth": 0
     },
     {
-      "id": "blk-051",
+      "id": "blk-0051",
       "type": "heading",
       "level": 3,
       "text": "二、三视图投影规律（重点记忆）",
@@ -1787,7 +1787,7 @@
       "depth": 0
     },
     {
-      "id": "blk-052",
+      "id": "blk-0052",
       "type": "paragraph",
       "level": 0,
       "text": "【长对正】：主、俯视图长度相等",
@@ -1805,7 +1805,7 @@
       "depth": 0
     },
     {
-      "id": "blk-053",
+      "id": "blk-0053",
       "type": "paragraph",
       "level": 0,
       "text": "【高平齐】：主、左视图高度相等",
@@ -1823,7 +1823,7 @@
       "depth": 0
     },
     {
-      "id": "blk-054",
+      "id": "blk-0054",
       "type": "paragraph",
       "level": 0,
       "text": "【宽相等】：俯、左视图宽度相等",
@@ -1841,7 +1841,7 @@
       "depth": 0
     },
     {
-      "id": "blk-055",
+      "id": "blk-0055",
       "type": "heading",
       "level": 3,
       "text": "三、方位对应关系",
@@ -1859,7 +1859,7 @@
       "depth": 0
     },
     {
-      "id": "blk-056",
+      "id": "blk-0056",
       "type": "paragraph",
       "level": 0,
       "text": "主视图：反映上下、左右",
@@ -1877,7 +1877,7 @@
       "depth": 0
     },
     {
-      "id": "blk-057",
+      "id": "blk-0057",
       "type": "paragraph",
       "level": 0,
       "text": "俯视图：反映左右、前后",
@@ -1895,7 +1895,7 @@
       "depth": 0
     },
     {
-      "id": "blk-058",
+      "id": "blk-0058",
       "type": "paragraph",
       "level": 0,
       "text": "左视图：反映上下、前后",
@@ -1913,7 +1913,7 @@
       "depth": 0
     },
     {
-      "id": "blk-059",
+      "id": "blk-0059",
       "type": "heading",
       "level": 2,
       "text": "【2.2 点的投影】",
@@ -1931,7 +1931,7 @@
       "depth": 0
     },
     {
-      "id": "blk-060",
+      "id": "blk-0060",
       "type": "heading",
       "level": 3,
       "text": "一、点的三面投影",
@@ -1949,10 +1949,10 @@
       "depth": 0
     },
     {
-      "id": "blk-061",
+      "id": "blk-0061",
       "type": "paragraph",
       "level": 0,
-      "text": "空间点A(x,y,z) → **正面投影 a'、水平投影 a、侧面投影 a''**",
+      "text": "空间点A(x,y,z) → 正面投影 a'、水平投影 a、侧面投影 a''",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -1967,7 +1967,7 @@
       "depth": 0
     },
     {
-      "id": "blk-062",
+      "id": "blk-0062",
       "type": "heading",
       "level": 3,
       "text": "二、点的投影规律",
@@ -1985,7 +1985,7 @@
       "depth": 0
     },
     {
-      "id": "blk-063",
+      "id": "blk-0063",
       "type": "paragraph",
       "level": 0,
       "text": "a a' ⊥ OX轴",
@@ -2003,7 +2003,7 @@
       "depth": 0
     },
     {
-      "id": "blk-064",
+      "id": "blk-0064",
       "type": "paragraph",
       "level": 0,
       "text": "a' a\" ⊥ OZ轴",
@@ -2021,7 +2021,7 @@
       "depth": 0
     },
     {
-      "id": "blk-065",
+      "id": "blk-0065",
       "type": "heading",
       "level": 3,
       "text": "三、重影点",
@@ -2039,7 +2039,7 @@
       "depth": 0
     },
     {
-      "id": "blk-066",
+      "id": "blk-0066",
       "type": "paragraph",
       "level": 0,
       "text": "空间两点在某投影面上的投影重合",
@@ -2057,7 +2057,7 @@
       "depth": 0
     },
     {
-      "id": "blk-067",
+      "id": "blk-0067",
       "type": "paragraph",
       "level": 0,
       "text": "判断可见性：坐标值大的可见",
@@ -2075,7 +2075,7 @@
       "depth": 0
     },
     {
-      "id": "blk-068",
+      "id": "blk-0068",
       "type": "paragraph",
       "level": 0,
       "text": "不可见的点加括号表示",
@@ -2093,7 +2093,7 @@
       "depth": 0
     },
     {
-      "id": "blk-069",
+      "id": "blk-0069",
       "type": "heading",
       "level": 2,
       "text": "【2.3 直线的投影】",
@@ -2111,7 +2111,7 @@
       "depth": 0
     },
     {
-      "id": "blk-070",
+      "id": "blk-0070",
       "type": "heading",
       "level": 3,
       "text": "一、直线分类",
@@ -2129,10 +2129,10 @@
       "depth": 0
     },
     {
-      "id": "blk-071",
+      "id": "blk-0071",
       "type": "heading",
       "level": 4,
-      "text": "1. 投影面平行线（平行于一个投影面）",
+      "text": "1. 投影面平行线（平行于一个投影面）",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2147,7 +2147,7 @@
       "depth": 0
     },
     {
-      "id": "blk-072",
+      "id": "blk-0072",
       "type": "list_item",
       "level": 0,
       "text": "水平线（∥H）：水平投影反映实长",
@@ -2165,7 +2165,7 @@
       "depth": 0
     },
     {
-      "id": "blk-073",
+      "id": "blk-0073",
       "type": "list_item",
       "level": 0,
       "text": "正平线（∥V）：正面投影反映实长",
@@ -2183,7 +2183,7 @@
       "depth": 0
     },
     {
-      "id": "blk-074",
+      "id": "blk-0074",
       "type": "list_item",
       "level": 0,
       "text": "侧平线（∥W）：侧面投影反映实长",
@@ -2201,10 +2201,10 @@
       "depth": 0
     },
     {
-      "id": "blk-075",
+      "id": "blk-0075",
       "type": "heading",
       "level": 4,
-      "text": "2. 投影面垂直线（垂直于一个投影面）",
+      "text": "2. 投影面垂直线（垂直于一个投影面）",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2219,7 +2219,7 @@
       "depth": 0
     },
     {
-      "id": "blk-076",
+      "id": "blk-0076",
       "type": "list_item",
       "level": 0,
       "text": "铅垂线（⊥H）：水平投影积聚为点",
@@ -2237,7 +2237,7 @@
       "depth": 0
     },
     {
-      "id": "blk-077",
+      "id": "blk-0077",
       "type": "list_item",
       "level": 0,
       "text": "正垂线（⊥V）：正面投影积聚为点",
@@ -2255,7 +2255,7 @@
       "depth": 0
     },
     {
-      "id": "blk-078",
+      "id": "blk-0078",
       "type": "list_item",
       "level": 0,
       "text": "侧垂线（⊥W）：侧面投影积聚为点",
@@ -2273,10 +2273,10 @@
       "depth": 0
     },
     {
-      "id": "blk-079",
+      "id": "blk-0079",
       "type": "heading",
       "level": 4,
-      "text": "3. 一般位置直线：三个投影均倾斜",
+      "text": "3. 一般位置直线：三个投影均倾斜",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2291,7 +2291,7 @@
       "depth": 0
     },
     {
-      "id": "blk-080",
+      "id": "blk-0080",
       "type": "heading",
       "level": 3,
       "text": "二、直线上的点",
@@ -2309,7 +2309,7 @@
       "depth": 0
     },
     {
-      "id": "blk-081",
+      "id": "blk-0081",
       "type": "paragraph",
       "level": 0,
       "text": "点的投影在直线的同面投影上，且符合定比性",
@@ -2327,7 +2327,7 @@
       "depth": 0
     },
     {
-      "id": "blk-082",
+      "id": "blk-0082",
       "type": "heading",
       "level": 3,
       "text": "三、两直线相对位置",
@@ -2345,7 +2345,7 @@
       "depth": 0
     },
     {
-      "id": "blk-083",
+      "id": "blk-0083",
       "type": "paragraph",
       "level": 0,
       "text": "平行、相交、交叉",
@@ -2363,7 +2363,7 @@
       "depth": 0
     },
     {
-      "id": "blk-084",
+      "id": "blk-0084",
       "type": "heading",
       "level": 3,
       "text": "四、直角投影定理",
@@ -2381,7 +2381,7 @@
       "depth": 0
     },
     {
-      "id": "blk-085",
+      "id": "blk-0085",
       "type": "paragraph",
       "level": 0,
       "text": "两直线垂直（相交或交叉），且其中一条平行于某投影面时",
@@ -2399,7 +2399,7 @@
       "depth": 0
     },
     {
-      "id": "blk-086",
+      "id": "blk-0086",
       "type": "paragraph",
       "level": 0,
       "text": "在该投影面上的投影仍垂直",
@@ -2417,7 +2417,7 @@
       "depth": 0
     },
     {
-      "id": "blk-087",
+      "id": "blk-0087",
       "type": "heading",
       "level": 3,
       "text": "五、直角三角形法求实长",
@@ -2435,10 +2435,10 @@
       "depth": 0
     },
     {
-      "id": "blk-088",
+      "id": "blk-0088",
       "type": "paragraph",
       "level": 0,
-      "text": "**直角三角形相关参数表格**",
+      "text": "直角三角形相关参数表格",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2453,7 +2453,7 @@
       "depth": 0
     },
     {
-      "id": "blk-089",
+      "id": "blk-0089",
       "type": "table",
       "level": 0,
       "text": "",
@@ -2461,8 +2461,8 @@
       "marker": "",
       "ordered": false,
       "headers": [
-        "**所求参数**",
-        "**计算所需条件**"
+        "所求参数",
+        "计算所需条件"
       ],
       "rows": [
         [
@@ -2481,7 +2481,7 @@
       "depth": 0
     },
     {
-      "id": "blk-090",
+      "id": "blk-0090",
       "type": "heading",
       "level": 2,
       "text": "【2.4 平面的投影】",
@@ -2499,7 +2499,7 @@
       "depth": 0
     },
     {
-      "id": "blk-091",
+      "id": "blk-0091",
       "type": "heading",
       "level": 3,
       "text": "一、各种位置平面的投影特点",
@@ -2517,10 +2517,10 @@
       "depth": 0
     },
     {
-      "id": "blk-092",
+      "id": "blk-0092",
       "type": "paragraph",
       "level": 0,
-      "text": "**平面类型与投影特性表**",
+      "text": "平面类型与投影特性表",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2535,7 +2535,7 @@
       "depth": 0
     },
     {
-      "id": "blk-093",
+      "id": "blk-0093",
       "type": "table",
       "level": 0,
       "text": "",
@@ -2543,8 +2543,8 @@
       "marker": "",
       "ordered": false,
       "headers": [
-        "**平面类型**",
-        "**投影特性**"
+        "平面类型",
+        "投影特性"
       ],
       "rows": [
         [
@@ -2579,7 +2579,7 @@
       "depth": 0
     },
     {
-      "id": "blk-094",
+      "id": "blk-0094",
       "type": "heading",
       "level": 3,
       "text": "二、平面上的点和直线",
@@ -2597,7 +2597,7 @@
       "depth": 0
     },
     {
-      "id": "blk-095",
+      "id": "blk-0095",
       "type": "paragraph",
       "level": 0,
       "text": "点在平面上：必在该平面的一条直线上",
@@ -2615,7 +2615,7 @@
       "depth": 0
     },
     {
-      "id": "blk-096",
+      "id": "blk-0096",
       "type": "paragraph",
       "level": 0,
       "text": "直线在平面上：过平面上的两点，或过一点平行于平面上一直线",
@@ -2633,7 +2633,7 @@
       "depth": 0
     },
     {
-      "id": "blk-097",
+      "id": "blk-0097",
       "type": "heading",
       "level": 3,
       "text": "三、应用",
@@ -2651,7 +2651,7 @@
       "depth": 0
     },
     {
-      "id": "blk-098",
+      "id": "blk-0098",
       "type": "paragraph",
       "level": 0,
       "text": "直线与平面相交：求交点，判断可见性",
@@ -2669,7 +2669,7 @@
       "depth": 0
     },
     {
-      "id": "blk-099",
+      "id": "blk-0099",
       "type": "paragraph",
       "level": 0,
       "text": "平面与平面相交：求交线，判断可见性",
@@ -2687,10 +2687,10 @@
       "depth": 0
     },
     {
-      "id": "blk-100",
+      "id": "blk-0100",
       "type": "heading",
       "level": 1,
-      "text": "第三章 基本形体的投影与立体表面交线",
+      "text": "第三章 基本形体的投影与立体表面交线",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -2705,7 +2705,7 @@
       "depth": 0
     },
     {
-      "id": "blk-101",
+      "id": "blk-0101",
       "type": "heading",
       "level": 2,
       "text": "【3.1 平面立体的投影】",
@@ -2723,7 +2723,7 @@
       "depth": 0
     },
     {
-      "id": "blk-102",
+      "id": "blk-0102",
       "type": "heading",
       "level": 3,
       "text": "一、棱柱",
@@ -2741,7 +2741,7 @@
       "depth": 0
     },
     {
-      "id": "blk-103",
+      "id": "blk-0103",
       "type": "paragraph",
       "level": 0,
       "text": "投影特点：上下底面为多边形（反映实形），棱线为垂直线",
@@ -2759,7 +2759,7 @@
       "depth": 0
     },
     {
-      "id": "blk-104",
+      "id": "blk-0104",
       "type": "paragraph",
       "level": 0,
       "text": "表面取点：利用积聚性",
@@ -2777,7 +2777,7 @@
       "depth": 0
     },
     {
-      "id": "blk-105",
+      "id": "blk-0105",
       "type": "heading",
       "level": 3,
       "text": "二、棱锥",
@@ -2795,7 +2795,7 @@
       "depth": 0
     },
     {
-      "id": "blk-106",
+      "id": "blk-0106",
       "type": "paragraph",
       "level": 0,
       "text": "投影特点：底面为多边形，侧面为三角形",
@@ -2813,7 +2813,7 @@
       "depth": 0
     },
     {
-      "id": "blk-107",
+      "id": "blk-0107",
       "type": "paragraph",
       "level": 0,
       "text": "表面取点：辅助线法（过锥顶作辅助线）",
@@ -2831,7 +2831,7 @@
       "depth": 0
     },
     {
-      "id": "blk-108",
+      "id": "blk-0108",
       "type": "heading",
       "level": 3,
       "text": "三、平面体切割（截交线）",
@@ -2849,7 +2849,7 @@
       "depth": 0
     },
     {
-      "id": "blk-109",
+      "id": "blk-0109",
       "type": "paragraph",
       "level": 0,
       "text": "截交线是封闭的平面多边形",
@@ -2867,7 +2867,7 @@
       "depth": 0
     },
     {
-      "id": "blk-110",
+      "id": "blk-0110",
       "type": "paragraph",
       "level": 0,
       "text": "作图步骤：求交点 → 连点 → 判断可见性",
@@ -2885,7 +2885,7 @@
       "depth": 0
     },
     {
-      "id": "blk-111",
+      "id": "blk-0111",
       "type": "heading",
       "level": 2,
       "text": "【3.2 曲面立体的投影】",
@@ -2903,7 +2903,7 @@
       "depth": 0
     },
     {
-      "id": "blk-112",
+      "id": "blk-0112",
       "type": "heading",
       "level": 3,
       "text": "一、圆柱",
@@ -2921,7 +2921,7 @@
       "depth": 0
     },
     {
-      "id": "blk-113",
+      "id": "blk-0113",
       "type": "paragraph",
       "level": 0,
       "text": "形成：母线绕平行轴线旋转",
@@ -2939,7 +2939,7 @@
       "depth": 0
     },
     {
-      "id": "blk-114",
+      "id": "blk-0114",
       "type": "paragraph",
       "level": 0,
       "text": "投影：一个圆（积聚性）+ 两个矩形",
@@ -2957,7 +2957,7 @@
       "depth": 0
     },
     {
-      "id": "blk-115",
+      "id": "blk-0115",
       "type": "paragraph",
       "level": 0,
       "text": "表面取点：利用积聚性",
@@ -2975,7 +2975,7 @@
       "depth": 0
     },
     {
-      "id": "blk-116",
+      "id": "blk-0116",
       "type": "heading",
       "level": 3,
       "text": "二、圆锥",
@@ -2993,7 +2993,7 @@
       "depth": 0
     },
     {
-      "id": "blk-117",
+      "id": "blk-0117",
       "type": "paragraph",
       "level": 0,
       "text": "形成：母线绕相交轴线旋转",
@@ -3011,7 +3011,7 @@
       "depth": 0
     },
     {
-      "id": "blk-118",
+      "id": "blk-0118",
       "type": "paragraph",
       "level": 0,
       "text": "投影：一个圆 + 两个三角形",
@@ -3029,7 +3029,7 @@
       "depth": 0
     },
     {
-      "id": "blk-119",
+      "id": "blk-0119",
       "type": "paragraph",
       "level": 0,
       "text": "表面取点：辅助素线法、辅助圆法（纬圆法）",
@@ -3047,7 +3047,7 @@
       "depth": 0
     },
     {
-      "id": "blk-120",
+      "id": "blk-0120",
       "type": "heading",
       "level": 3,
       "text": "三、球体",
@@ -3065,7 +3065,7 @@
       "depth": 0
     },
     {
-      "id": "blk-121",
+      "id": "blk-0121",
       "type": "paragraph",
       "level": 0,
       "text": "形成：半圆绕直径旋转",
@@ -3083,7 +3083,7 @@
       "depth": 0
     },
     {
-      "id": "blk-122",
+      "id": "blk-0122",
       "type": "paragraph",
       "level": 0,
       "text": "投影：三个投影均为等径圆",
@@ -3101,7 +3101,7 @@
       "depth": 0
     },
     {
-      "id": "blk-123",
+      "id": "blk-0123",
       "type": "paragraph",
       "level": 0,
       "text": "表面取点：辅助圆法（水平圆、正平圆、侧平圆）",
@@ -3119,7 +3119,7 @@
       "depth": 0
     },
     {
-      "id": "blk-124",
+      "id": "blk-0124",
       "type": "heading",
       "level": 3,
       "text": "四、曲面体切割（截交线）",
@@ -3137,10 +3137,10 @@
       "depth": 0
     },
     {
-      "id": "blk-125",
+      "id": "blk-0125",
       "type": "paragraph",
       "level": 0,
-      "text": "**形体截交线信息表**",
+      "text": "形体截交线信息表",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -3155,7 +3155,7 @@
       "depth": 0
     },
     {
-      "id": "blk-126",
+      "id": "blk-0126",
       "type": "table",
       "level": 0,
       "text": "",
@@ -3163,9 +3163,9 @@
       "marker": "",
       "ordered": false,
       "headers": [
-        "**形体**",
-        "**截平面位置**",
-        "**截交线形状**"
+        "形体",
+        "截平面位置",
+        "截交线形状"
       ],
       "rows": [
         [
@@ -3217,7 +3217,7 @@
       "depth": 0
     },
     {
-      "id": "blk-127",
+      "id": "blk-0127",
       "type": "heading",
       "level": 2,
       "text": "【3.3 立体与立体相交】",
@@ -3235,7 +3235,7 @@
       "depth": 0
     },
     {
-      "id": "blk-128",
+      "id": "blk-0128",
       "type": "heading",
       "level": 3,
       "text": "一、相贯线概念",
@@ -3253,7 +3253,7 @@
       "depth": 0
     },
     {
-      "id": "blk-129",
+      "id": "blk-0129",
       "type": "paragraph",
       "level": 0,
       "text": "两立体表面相交产生的交线",
@@ -3271,7 +3271,7 @@
       "depth": 0
     },
     {
-      "id": "blk-130",
+      "id": "blk-0130",
       "type": "heading",
       "level": 3,
       "text": "二、相贯线性质",
@@ -3289,7 +3289,7 @@
       "depth": 0
     },
     {
-      "id": "blk-131",
+      "id": "blk-0131",
       "type": "paragraph",
       "level": 0,
       "text": "封闭的空间曲线（一般情况）",
@@ -3307,7 +3307,7 @@
       "depth": 0
     },
     {
-      "id": "blk-132",
+      "id": "blk-0132",
       "type": "paragraph",
       "level": 0,
       "text": "共有线（同时属于两立体表面）",
@@ -3325,7 +3325,7 @@
       "depth": 0
     },
     {
-      "id": "blk-133",
+      "id": "blk-0133",
       "type": "heading",
       "level": 3,
       "text": "三、特殊情况",
@@ -3343,7 +3343,7 @@
       "depth": 0
     },
     {
-      "id": "blk-134",
+      "id": "blk-0134",
       "type": "paragraph",
       "level": 0,
       "text": "两等径圆柱正交时，相贯线为两个垂直的椭圆",
@@ -3361,7 +3361,7 @@
       "depth": 0
     },
     {
-      "id": "blk-135",
+      "id": "blk-0135",
       "type": "heading",
       "level": 3,
       "text": "四、求相贯线的方法",
@@ -3379,7 +3379,7 @@
       "depth": 0
     },
     {
-      "id": "blk-136",
+      "id": "blk-0136",
       "type": "paragraph",
       "level": 0,
       "text": "积聚性法、辅助平面法",
@@ -3397,10 +3397,10 @@
       "depth": 0
     },
     {
-      "id": "blk-137",
+      "id": "blk-0137",
       "type": "heading",
       "level": 1,
-      "text": "第四章 组合体",
+      "text": "第四章 组合体",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -3415,7 +3415,7 @@
       "depth": 0
     },
     {
-      "id": "blk-138",
+      "id": "blk-0138",
       "type": "heading",
       "level": 2,
       "text": "【4.1 组合形式及表面连接关系】",
@@ -3433,7 +3433,7 @@
       "depth": 0
     },
     {
-      "id": "blk-139",
+      "id": "blk-0139",
       "type": "heading",
       "level": 3,
       "text": "一、组合形式",
@@ -3451,7 +3451,7 @@
       "depth": 0
     },
     {
-      "id": "blk-140",
+      "id": "blk-0140",
       "type": "paragraph",
       "level": 0,
       "text": "叠加、切割、综合",
@@ -3469,7 +3469,7 @@
       "depth": 0
     },
     {
-      "id": "blk-141",
+      "id": "blk-0141",
       "type": "heading",
       "level": 3,
       "text": "二、表面连接关系",
@@ -3487,7 +3487,7 @@
       "depth": 0
     },
     {
-      "id": "blk-142",
+      "id": "blk-0142",
       "type": "paragraph",
       "level": 0,
       "text": "平齐（共面）：无线",
@@ -3505,10 +3505,10 @@
       "depth": 0
     },
     {
-      "id": "blk-143",
+      "id": "blk-0143",
       "type": "paragraph",
       "level": 0,
-      "text": "**光滑相切：无线（注意区分直角相切与圆弧相切）**",
+      "text": "光滑相切：无线（注意区分直角相切与圆弧相切）",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -3523,7 +3523,7 @@
       "depth": 0
     },
     {
-      "id": "blk-144",
+      "id": "blk-0144",
       "type": "paragraph",
       "level": 0,
       "text": "相交：有交线（直线或曲线）",
@@ -3541,7 +3541,7 @@
       "depth": 0
     },
     {
-      "id": "blk-145",
+      "id": "blk-0145",
       "type": "heading",
       "level": 2,
       "text": "【4.2 组合体画图】",
@@ -3559,7 +3559,7 @@
       "depth": 0
     },
     {
-      "id": "blk-146",
+      "id": "blk-0146",
       "type": "heading",
       "level": 3,
       "text": "一、分析方法",
@@ -3577,7 +3577,7 @@
       "depth": 0
     },
     {
-      "id": "blk-147",
+      "id": "blk-0147",
       "type": "paragraph",
       "level": 0,
       "text": "形体分析法：假想把组合体分解为若干基本形体",
@@ -3595,7 +3595,7 @@
       "depth": 0
     },
     {
-      "id": "blk-148",
+      "id": "blk-0148",
       "type": "paragraph",
       "level": 0,
       "text": "线面分析法：分析各表面的投影",
@@ -3613,7 +3613,7 @@
       "depth": 0
     },
     {
-      "id": "blk-149",
+      "id": "blk-0149",
       "type": "heading",
       "level": 3,
       "text": "二、画图步骤",
@@ -3631,7 +3631,7 @@
       "depth": 0
     },
     {
-      "id": "blk-150",
+      "id": "blk-0150",
       "type": "paragraph",
       "level": 0,
       "text": "选主视图 → 定比例、图幅 → 画基准线 → 逐个画基本形体 → 检查、加深",
@@ -3649,7 +3649,7 @@
       "depth": 0
     },
     {
-      "id": "blk-151",
+      "id": "blk-0151",
       "type": "heading",
       "level": 3,
       "text": "三、主视图选择原则",
@@ -3667,7 +3667,7 @@
       "depth": 0
     },
     {
-      "id": "blk-152",
+      "id": "blk-0152",
       "type": "paragraph",
       "level": 0,
       "text": "反映形状特征最明显",
@@ -3685,7 +3685,7 @@
       "depth": 0
     },
     {
-      "id": "blk-153",
+      "id": "blk-0153",
       "type": "paragraph",
       "level": 0,
       "text": "符合工作位置",
@@ -3703,7 +3703,7 @@
       "depth": 0
     },
     {
-      "id": "blk-154",
+      "id": "blk-0154",
       "type": "heading",
       "level": 2,
       "text": "【4.3 组合体尺寸标注】",
@@ -3721,7 +3721,7 @@
       "depth": 0
     },
     {
-      "id": "blk-155",
+      "id": "blk-0155",
       "type": "heading",
       "level": 3,
       "text": "一、基本要求",
@@ -3739,7 +3739,7 @@
       "depth": 0
     },
     {
-      "id": "blk-156",
+      "id": "blk-0156",
       "type": "paragraph",
       "level": 0,
       "text": "正确、完整、清晰",
@@ -3757,7 +3757,7 @@
       "depth": 0
     },
     {
-      "id": "blk-157",
+      "id": "blk-0157",
       "type": "heading",
       "level": 3,
       "text": "二、尺寸分类",
@@ -3775,7 +3775,7 @@
       "depth": 0
     },
     {
-      "id": "blk-158",
+      "id": "blk-0158",
       "type": "paragraph",
       "level": 0,
       "text": "定形尺寸：确定基本形体大小的尺寸",
@@ -3793,7 +3793,7 @@
       "depth": 0
     },
     {
-      "id": "blk-159",
+      "id": "blk-0159",
       "type": "paragraph",
       "level": 0,
       "text": "定位尺寸：确定基本形体相对位置的尺寸",
@@ -3811,7 +3811,7 @@
       "depth": 0
     },
     {
-      "id": "blk-160",
+      "id": "blk-0160",
       "type": "paragraph",
       "level": 0,
       "text": "总体尺寸：确定总长、总宽、总高的尺寸",
@@ -3829,7 +3829,7 @@
       "depth": 0
     },
     {
-      "id": "blk-161",
+      "id": "blk-0161",
       "type": "heading",
       "level": 3,
       "text": "三、尺寸基准",
@@ -3847,7 +3847,7 @@
       "depth": 0
     },
     {
-      "id": "blk-162",
+      "id": "blk-0162",
       "type": "paragraph",
       "level": 0,
       "text": "长、宽、高三个方向的基准",
@@ -3865,7 +3865,7 @@
       "depth": 0
     },
     {
-      "id": "blk-163",
+      "id": "blk-0163",
       "type": "paragraph",
       "level": 0,
       "text": "（对称面、底面、端面、轴线等）",
@@ -3883,7 +3883,7 @@
       "depth": 0
     },
     {
-      "id": "blk-164",
+      "id": "blk-0164",
       "type": "heading",
       "level": 3,
       "text": "四、注意事项",
@@ -3901,7 +3901,7 @@
       "depth": 0
     },
     {
-      "id": "blk-165",
+      "id": "blk-0165",
       "type": "paragraph",
       "level": 0,
       "text": "避免封闭尺寸链",
@@ -3919,7 +3919,7 @@
       "depth": 0
     },
     {
-      "id": "blk-166",
+      "id": "blk-0166",
       "type": "paragraph",
       "level": 0,
       "text": "标注清晰，便于测量",
@@ -3937,7 +3937,7 @@
       "depth": 0
     },
     {
-      "id": "blk-167",
+      "id": "blk-0167",
       "type": "heading",
       "level": 2,
       "text": "【4.4 组合体读图】",
@@ -3955,7 +3955,7 @@
       "depth": 0
     },
     {
-      "id": "blk-168",
+      "id": "blk-0168",
       "type": "heading",
       "level": 3,
       "text": "一、读图方法",
@@ -3973,7 +3973,7 @@
       "depth": 0
     },
     {
-      "id": "blk-169",
+      "id": "blk-0169",
       "type": "paragraph",
       "level": 0,
       "text": "形体分析法：分线框、对投影、想形状",
@@ -3991,7 +3991,7 @@
       "depth": 0
     },
     {
-      "id": "blk-170",
+      "id": "blk-0170",
       "type": "paragraph",
       "level": 0,
       "text": "线面分析法：分析复杂交线、斜面的投影",
@@ -4009,7 +4009,7 @@
       "depth": 0
     },
     {
-      "id": "blk-171",
+      "id": "blk-0171",
       "type": "heading",
       "level": 3,
       "text": "二、读图要点",
@@ -4027,7 +4027,7 @@
       "depth": 0
     },
     {
-      "id": "blk-172",
+      "id": "blk-0172",
       "type": "paragraph",
       "level": 0,
       "text": "从特征视图入手",
@@ -4045,7 +4045,7 @@
       "depth": 0
     },
     {
-      "id": "blk-173",
+      "id": "blk-0173",
       "type": "paragraph",
       "level": 0,
       "text": "多个视图对照看",
@@ -4063,7 +4063,7 @@
       "depth": 0
     },
     {
-      "id": "blk-174",
+      "id": "blk-0174",
       "type": "paragraph",
       "level": 0,
       "text": "注意虚实线变化",
@@ -4081,7 +4081,7 @@
       "depth": 0
     },
     {
-      "id": "blk-175",
+      "id": "blk-0175",
       "type": "paragraph",
       "level": 0,
       "text": "利用\"三等\"规律",
@@ -4099,7 +4099,7 @@
       "depth": 0
     },
     {
-      "id": "blk-176",
+      "id": "blk-0176",
       "type": "heading",
       "level": 3,
       "text": "三、应用",
@@ -4117,7 +4117,7 @@
       "depth": 0
     },
     {
-      "id": "blk-177",
+      "id": "blk-0177",
       "type": "paragraph",
       "level": 0,
       "text": "根据两个视图补画第三视图",
@@ -4135,10 +4135,10 @@
       "depth": 0
     },
     {
-      "id": "blk-178",
+      "id": "blk-0178",
       "type": "heading",
       "level": 1,
-      "text": "第五章 工程图样的表达方法",
+      "text": "第五章 工程图样的表达方法",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -4153,7 +4153,7 @@
       "depth": 0
     },
     {
-      "id": "blk-179",
+      "id": "blk-0179",
       "type": "heading",
       "level": 2,
       "text": "【5.1 视图】",
@@ -4171,7 +4171,7 @@
       "depth": 0
     },
     {
-      "id": "blk-180",
+      "id": "blk-0180",
       "type": "heading",
       "level": 3,
       "text": "一、基本视图",
@@ -4189,7 +4189,7 @@
       "depth": 0
     },
     {
-      "id": "blk-181",
+      "id": "blk-0181",
       "type": "paragraph",
       "level": 0,
       "text": "主、俯、左、右、仰、后六个视图",
@@ -4207,7 +4207,7 @@
       "depth": 0
     },
     {
-      "id": "blk-182",
+      "id": "blk-0182",
       "type": "paragraph",
       "level": 0,
       "text": "中国采用第一角画法",
@@ -4225,7 +4225,7 @@
       "depth": 0
     },
     {
-      "id": "blk-183",
+      "id": "blk-0183",
       "type": "heading",
       "level": 3,
       "text": "二、向视图",
@@ -4243,7 +4243,7 @@
       "depth": 0
     },
     {
-      "id": "blk-184",
+      "id": "blk-0184",
       "type": "paragraph",
       "level": 0,
       "text": "可以自由配置的基本视图",
@@ -4261,7 +4261,7 @@
       "depth": 0
     },
     {
-      "id": "blk-185",
+      "id": "blk-0185",
       "type": "paragraph",
       "level": 0,
       "text": "需标注投影方向和名称",
@@ -4279,7 +4279,7 @@
       "depth": 0
     },
     {
-      "id": "blk-186",
+      "id": "blk-0186",
       "type": "heading",
       "level": 3,
       "text": "三、局部视图",
@@ -4297,7 +4297,7 @@
       "depth": 0
     },
     {
-      "id": "blk-187",
+      "id": "blk-0187",
       "type": "paragraph",
       "level": 0,
       "text": "只画机件某一部分",
@@ -4315,7 +4315,7 @@
       "depth": 0
     },
     {
-      "id": "blk-188",
+      "id": "blk-0188",
       "type": "paragraph",
       "level": 0,
       "text": "用波浪线或双折线断开",
@@ -4333,7 +4333,7 @@
       "depth": 0
     },
     {
-      "id": "blk-189",
+      "id": "blk-0189",
       "type": "heading",
       "level": 3,
       "text": "四、斜视图",
@@ -4351,7 +4351,7 @@
       "depth": 0
     },
     {
-      "id": "blk-190",
+      "id": "blk-0190",
       "type": "paragraph",
       "level": 0,
       "text": "表达倾斜结构",
@@ -4369,7 +4369,7 @@
       "depth": 0
     },
     {
-      "id": "blk-191",
+      "id": "blk-0191",
       "type": "paragraph",
       "level": 0,
       "text": "向不平行于基本投影面的平面投影",
@@ -4387,7 +4387,7 @@
       "depth": 0
     },
     {
-      "id": "blk-192",
+      "id": "blk-0192",
       "type": "heading",
       "level": 2,
       "text": "【5.2 剖视图】",
@@ -4405,7 +4405,7 @@
       "depth": 0
     },
     {
-      "id": "blk-193",
+      "id": "blk-0193",
       "type": "heading",
       "level": 3,
       "text": "一、剖视图概念",
@@ -4423,7 +4423,7 @@
       "depth": 0
     },
     {
-      "id": "blk-194",
+      "id": "blk-0194",
       "type": "paragraph",
       "level": 0,
       "text": "假想用剖切平面剖开机件",
@@ -4441,7 +4441,7 @@
       "depth": 0
     },
     {
-      "id": "blk-195",
+      "id": "blk-0195",
       "type": "paragraph",
       "level": 0,
       "text": "移去观察者与剖切面之间的部分",
@@ -4459,7 +4459,7 @@
       "depth": 0
     },
     {
-      "id": "blk-196",
+      "id": "blk-0196",
       "type": "paragraph",
       "level": 0,
       "text": "画出剩余部分的投影",
@@ -4477,7 +4477,7 @@
       "depth": 0
     },
     {
-      "id": "blk-197",
+      "id": "blk-0197",
       "type": "heading",
       "level": 3,
       "text": "二、剖面符号",
@@ -4495,7 +4495,7 @@
       "depth": 0
     },
     {
-      "id": "blk-198",
+      "id": "blk-0198",
       "type": "paragraph",
       "level": 0,
       "text": "金属材料用45°细实线（同一零件方向一致）",
@@ -4513,7 +4513,7 @@
       "depth": 0
     },
     {
-      "id": "blk-199",
+      "id": "blk-0199",
       "type": "heading",
       "level": 3,
       "text": "三、剖视图种类",
@@ -4531,7 +4531,7 @@
       "depth": 0
     },
     {
-      "id": "blk-200",
+      "id": "blk-0200",
       "type": "paragraph",
       "level": 0,
       "text": "全剖视图：用剖切平面完全剖开机件",
@@ -4549,10 +4549,10 @@
       "depth": 0
     },
     {
-      "id": "blk-201",
+      "id": "blk-0201",
       "type": "paragraph",
       "level": 0,
-      "text": "半剖视图：一半画剖视，一半画视图（用于对称机件）**注意：当轮廓线与细点画线重合时，分界线应改用波浪线**",
+      "text": "半剖视图：一半画剖视，一半画视图（用于对称机件）注意：当轮廓线与细点画线重合时，分界线应改用波浪线",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -4567,7 +4567,7 @@
       "depth": 0
     },
     {
-      "id": "blk-202",
+      "id": "blk-0202",
       "type": "paragraph",
       "level": 0,
       "text": "局部剖视图：局部剖开，用波浪线分界",
@@ -4585,7 +4585,7 @@
       "depth": 0
     },
     {
-      "id": "blk-203",
+      "id": "blk-0203",
       "type": "heading",
       "level": 3,
       "text": "四、剖切面的种类",
@@ -4603,7 +4603,7 @@
       "depth": 0
     },
     {
-      "id": "blk-204",
+      "id": "blk-0204",
       "type": "paragraph",
       "level": 0,
       "text": "单一剖切面",
@@ -4621,7 +4621,7 @@
       "depth": 0
     },
     {
-      "id": "blk-205",
+      "id": "blk-0205",
       "type": "paragraph",
       "level": 0,
       "text": "几个平行的剖切平面（阶梯剖）",
@@ -4639,7 +4639,7 @@
       "depth": 0
     },
     {
-      "id": "blk-206",
+      "id": "blk-0206",
       "type": "paragraph",
       "level": 0,
       "text": "几个相交的剖切平面（旋转剖）",
@@ -4657,7 +4657,7 @@
       "depth": 0
     },
     {
-      "id": "blk-207",
+      "id": "blk-0207",
       "type": "heading",
       "level": 3,
       "text": "五、剖视图标注",
@@ -4675,7 +4675,7 @@
       "depth": 0
     },
     {
-      "id": "blk-208",
+      "id": "blk-0208",
       "type": "paragraph",
       "level": 0,
       "text": "剖切符号（粗短线表示剖切位置，箭头表示投影方向）+ 字母",
@@ -4693,7 +4693,7 @@
       "depth": 0
     },
     {
-      "id": "blk-209",
+      "id": "blk-0209",
       "type": "heading",
       "level": 3,
       "text": "六、注意事项",
@@ -4711,7 +4711,7 @@
       "depth": 0
     },
     {
-      "id": "blk-210",
+      "id": "blk-0210",
       "type": "paragraph",
       "level": 0,
       "text": "剖切面后的可见部分都要画出",
@@ -4729,7 +4729,7 @@
       "depth": 0
     },
     {
-      "id": "blk-211",
+      "id": "blk-0211",
       "type": "paragraph",
       "level": 0,
       "text": "虚线一般不画（除非表达需要）",
@@ -4747,7 +4747,7 @@
       "depth": 0
     },
     {
-      "id": "blk-212",
+      "id": "blk-0212",
       "type": "heading",
       "level": 2,
       "text": "【5.3 断面图】",
@@ -4765,7 +4765,7 @@
       "depth": 0
     },
     {
-      "id": "blk-213",
+      "id": "blk-0213",
       "type": "heading",
       "level": 3,
       "text": "一、断面图概念",
@@ -4783,7 +4783,7 @@
       "depth": 0
     },
     {
-      "id": "blk-214",
+      "id": "blk-0214",
       "type": "paragraph",
       "level": 0,
       "text": "仅画出剖切面与机件接触部分的图形",
@@ -4801,7 +4801,7 @@
       "depth": 0
     },
     {
-      "id": "blk-215",
+      "id": "blk-0215",
       "type": "heading",
       "level": 3,
       "text": "二、断面图与剖视图的区别",
@@ -4819,7 +4819,7 @@
       "depth": 0
     },
     {
-      "id": "blk-216",
+      "id": "blk-0216",
       "type": "paragraph",
       "level": 0,
       "text": "断面图：只画断面形状",
@@ -4837,7 +4837,7 @@
       "depth": 0
     },
     {
-      "id": "blk-217",
+      "id": "blk-0217",
       "type": "paragraph",
       "level": 0,
       "text": "剖视图：还要画断面后的结构",
@@ -4855,7 +4855,7 @@
       "depth": 0
     },
     {
-      "id": "blk-218",
+      "id": "blk-0218",
       "type": "heading",
       "level": 3,
       "text": "三、分类",
@@ -4873,7 +4873,7 @@
       "depth": 0
     },
     {
-      "id": "blk-219",
+      "id": "blk-0219",
       "type": "paragraph",
       "level": 0,
       "text": "移出断面：画在视图之外，轮廓用粗实线",
@@ -4891,7 +4891,7 @@
       "depth": 0
     },
     {
-      "id": "blk-220",
+      "id": "blk-0220",
       "type": "paragraph",
       "level": 0,
       "text": "重合断面：画在视图之内，轮廓用细实线",
@@ -4909,7 +4909,7 @@
       "depth": 0
     },
     {
-      "id": "blk-221",
+      "id": "blk-0221",
       "type": "heading",
       "level": 2,
       "text": "【5.4 规定画法和简化画法】",
@@ -4927,7 +4927,7 @@
       "depth": 0
     },
     {
-      "id": "blk-222",
+      "id": "blk-0222",
       "type": "heading",
       "level": 3,
       "text": "一、规定画法",
@@ -4945,7 +4945,7 @@
       "depth": 0
     },
     {
-      "id": "blk-223",
+      "id": "blk-0223",
       "type": "paragraph",
       "level": 0,
       "text": "肋板、轮辐在剖视图中不画剖面线",
@@ -4963,7 +4963,7 @@
       "depth": 0
     },
     {
-      "id": "blk-224",
+      "id": "blk-0224",
       "type": "paragraph",
       "level": 0,
       "text": "剖切平面沿纵向剖肋板时，肋板按不剖处理",
@@ -4981,7 +4981,7 @@
       "depth": 0
     },
     {
-      "id": "blk-225",
+      "id": "blk-0225",
       "type": "heading",
       "level": 3,
       "text": "二、简化画法",
@@ -4999,7 +4999,7 @@
       "depth": 0
     },
     {
-      "id": "blk-226",
+      "id": "blk-0226",
       "type": "paragraph",
       "level": 0,
       "text": "对称图形可只画一半或四分之一",
@@ -5017,7 +5017,7 @@
       "depth": 0
     },
     {
-      "id": "blk-227",
+      "id": "blk-0227",
       "type": "paragraph",
       "level": 0,
       "text": "相同结构可只画一个并标明数量",
@@ -5035,7 +5035,7 @@
       "depth": 0
     },
     {
-      "id": "blk-228",
+      "id": "blk-0228",
       "type": "paragraph",
       "level": 0,
       "text": "长零件可折断绘制",
@@ -5053,7 +5053,7 @@
       "depth": 0
     },
     {
-      "id": "blk-229",
+      "id": "blk-0229",
       "type": "heading",
       "level": 2,
       "text": "【5.5 局部放大图】",
@@ -5071,7 +5071,7 @@
       "depth": 0
     },
     {
-      "id": "blk-230",
+      "id": "blk-0230",
       "type": "paragraph",
       "level": 0,
       "text": "将机件的细小结构放大画出，用罗马数字标识（如Ⅰ、Ⅱ）",
@@ -5089,10 +5089,10 @@
       "depth": 0
     },
     {
-      "id": "blk-231",
+      "id": "blk-0231",
       "type": "heading",
       "level": 1,
-      "text": "第六章 标准件和常用件",
+      "text": "第六章 标准件和常用件",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -5107,7 +5107,7 @@
       "depth": 0
     },
     {
-      "id": "blk-232",
+      "id": "blk-0232",
       "type": "heading",
       "level": 2,
       "text": "【6.1 螺纹及螺纹紧固件】",
@@ -5125,7 +5125,7 @@
       "depth": 0
     },
     {
-      "id": "blk-233",
+      "id": "blk-0233",
       "type": "heading",
       "level": 3,
       "text": "一、螺纹要素",
@@ -5143,7 +5143,7 @@
       "depth": 0
     },
     {
-      "id": "blk-234",
+      "id": "blk-0234",
       "type": "paragraph",
       "level": 0,
       "text": "牙型、公称直径（大径）、螺距、线数、旋向",
@@ -5161,7 +5161,7 @@
       "depth": 0
     },
     {
-      "id": "blk-235",
+      "id": "blk-0235",
       "type": "heading",
       "level": 3,
       "text": "二、螺纹分类",
@@ -5179,7 +5179,7 @@
       "depth": 0
     },
     {
-      "id": "blk-236",
+      "id": "blk-0236",
       "type": "paragraph",
       "level": 0,
       "text": "普通螺纹（M）：牙型角60°，用于连接",
@@ -5197,7 +5197,7 @@
       "depth": 0
     },
     {
-      "id": "blk-237",
+      "id": "blk-0237",
       "type": "paragraph",
       "level": 0,
       "text": "管螺纹（G、Rc）：牙型角55°，用于管件连接",
@@ -5215,7 +5215,7 @@
       "depth": 0
     },
     {
-      "id": "blk-238",
+      "id": "blk-0238",
       "type": "paragraph",
       "level": 0,
       "text": "梯形螺纹（Tr）：牙型角30°，用于传动",
@@ -5233,7 +5233,7 @@
       "depth": 0
     },
     {
-      "id": "blk-239",
+      "id": "blk-0239",
       "type": "heading",
       "level": 3,
       "text": "三、螺纹标记示例",
@@ -5251,7 +5251,7 @@
       "depth": 0
     },
     {
-      "id": "blk-240",
+      "id": "blk-0240",
       "type": "paragraph",
       "level": 0,
       "text": "M20×1.5-6H",
@@ -5269,7 +5269,7 @@
       "depth": 0
     },
     {
-      "id": "blk-241",
+      "id": "blk-0241",
       "type": "paragraph",
       "level": 0,
       "text": "（M：普通螺纹，20：大径，1.5：螺距，6H：公差带）",
@@ -5287,7 +5287,7 @@
       "depth": 0
     },
     {
-      "id": "blk-242",
+      "id": "blk-0242",
       "type": "heading",
       "level": 3,
       "text": "四、规定画法",
@@ -5305,7 +5305,7 @@
       "depth": 0
     },
     {
-      "id": "blk-243",
+      "id": "blk-0243",
       "type": "paragraph",
       "level": 0,
       "text": "外螺纹：大径用粗实线，小径用细实线（约0.85倍大径）",
@@ -5323,7 +5323,7 @@
       "depth": 0
     },
     {
-      "id": "blk-244",
+      "id": "blk-0244",
       "type": "paragraph",
       "level": 0,
       "text": "内螺纹（剖视）：大径用细实线，小径用粗实线",
@@ -5341,7 +5341,7 @@
       "depth": 0
     },
     {
-      "id": "blk-245",
+      "id": "blk-0245",
       "type": "paragraph",
       "level": 0,
       "text": "螺纹连接：旋合部分按外螺纹画",
@@ -5359,7 +5359,7 @@
       "depth": 0
     },
     {
-      "id": "blk-246",
+      "id": "blk-0246",
       "type": "heading",
       "level": 3,
       "text": "五、螺纹紧固件连接",
@@ -5377,7 +5377,7 @@
       "depth": 0
     },
     {
-      "id": "blk-247",
+      "id": "blk-0247",
       "type": "paragraph",
       "level": 0,
       "text": "螺栓连接、双头螺柱连接、螺钉连接",
@@ -5395,7 +5395,7 @@
       "depth": 0
     },
     {
-      "id": "blk-248",
+      "id": "blk-0248",
       "type": "heading",
       "level": 2,
       "text": "【6.2 键连接】",
@@ -5413,7 +5413,7 @@
       "depth": 0
     },
     {
-      "id": "blk-249",
+      "id": "blk-0249",
       "type": "heading",
       "level": 3,
       "text": "一、键的种类",
@@ -5431,7 +5431,7 @@
       "depth": 0
     },
     {
-      "id": "blk-250",
+      "id": "blk-0250",
       "type": "paragraph",
       "level": 0,
       "text": "平键、半圆键、楔键",
@@ -5449,7 +5449,7 @@
       "depth": 0
     },
     {
-      "id": "blk-251",
+      "id": "blk-0251",
       "type": "heading",
       "level": 3,
       "text": "二、标记示例",
@@ -5467,7 +5467,7 @@
       "depth": 0
     },
     {
-      "id": "blk-252",
+      "id": "blk-0252",
       "type": "paragraph",
       "level": 0,
       "text": "键 10×8×100 GB/T 1096-2003（宽×高×长）",
@@ -5485,7 +5485,7 @@
       "depth": 0
     },
     {
-      "id": "blk-253",
+      "id": "blk-0253",
       "type": "heading",
       "level": 3,
       "text": "三、画法要点",
@@ -5503,7 +5503,7 @@
       "depth": 0
     },
     {
-      "id": "blk-254",
+      "id": "blk-0254",
       "type": "paragraph",
       "level": 0,
       "text": "键的顶面与轮毂键槽底面：有间隙（画两条线）",
@@ -5521,7 +5521,7 @@
       "depth": 0
     },
     {
-      "id": "blk-255",
+      "id": "blk-0255",
       "type": "paragraph",
       "level": 0,
       "text": "侧面与轴槽、轮毂槽：紧密接触（画一条线）",
@@ -5539,7 +5539,7 @@
       "depth": 0
     },
     {
-      "id": "blk-256",
+      "id": "blk-0256",
       "type": "heading",
       "level": 2,
       "text": "【6.3 销连接】",
@@ -5557,7 +5557,7 @@
       "depth": 0
     },
     {
-      "id": "blk-257",
+      "id": "blk-0257",
       "type": "heading",
       "level": 3,
       "text": "一、销的种类",
@@ -5575,7 +5575,7 @@
       "depth": 0
     },
     {
-      "id": "blk-258",
+      "id": "blk-0258",
       "type": "paragraph",
       "level": 0,
       "text": "圆柱销、圆锥销",
@@ -5593,7 +5593,7 @@
       "depth": 0
     },
     {
-      "id": "blk-259",
+      "id": "blk-0259",
       "type": "heading",
       "level": 2,
       "text": "【6.4 齿轮】",
@@ -5611,7 +5611,7 @@
       "depth": 0
     },
     {
-      "id": "blk-260",
+      "id": "blk-0260",
       "type": "heading",
       "level": 3,
       "text": "一、圆柱齿轮基本参数",
@@ -5629,7 +5629,7 @@
       "depth": 0
     },
     {
-      "id": "blk-261",
+      "id": "blk-0261",
       "type": "paragraph",
       "level": 0,
       "text": "齿数z、模数m、压力角α（标准20°）",
@@ -5647,7 +5647,7 @@
       "depth": 0
     },
     {
-      "id": "blk-262",
+      "id": "blk-0262",
       "type": "heading",
       "level": 3,
       "text": "二、计算公式（重点记忆）",
@@ -5665,7 +5665,7 @@
       "depth": 0
     },
     {
-      "id": "blk-263",
+      "id": "blk-0263",
       "type": "paragraph",
       "level": 0,
       "text": "【分度圆直径】d = m × z",
@@ -5683,7 +5683,7 @@
       "depth": 0
     },
     {
-      "id": "blk-264",
+      "id": "blk-0264",
       "type": "paragraph",
       "level": 0,
       "text": "【齿顶圆直径】da = m(z+2)",
@@ -5701,7 +5701,7 @@
       "depth": 0
     },
     {
-      "id": "blk-265",
+      "id": "blk-0265",
       "type": "paragraph",
       "level": 0,
       "text": "【齿根圆直径】df = m(z-2.5）",
@@ -5719,7 +5719,7 @@
       "depth": 0
     },
     {
-      "id": "blk-266",
+      "id": "blk-0266",
       "type": "paragraph",
       "level": 0,
       "text": "齿距 p = πm",
@@ -5737,7 +5737,7 @@
       "depth": 0
     },
     {
-      "id": "blk-267",
+      "id": "blk-0267",
       "type": "paragraph",
       "level": 0,
       "text": "齿高 h = 2.25m",
@@ -5755,7 +5755,7 @@
       "depth": 0
     },
     {
-      "id": "blk-268",
+      "id": "blk-0268",
       "type": "heading",
       "level": 3,
       "text": "三、规定画法",
@@ -5773,7 +5773,7 @@
       "depth": 0
     },
     {
-      "id": "blk-269",
+      "id": "blk-0269",
       "type": "paragraph",
       "level": 0,
       "text": "齿顶圆：粗实线",
@@ -5791,7 +5791,7 @@
       "depth": 0
     },
     {
-      "id": "blk-270",
+      "id": "blk-0270",
       "type": "paragraph",
       "level": 0,
       "text": "分度圆：细点画线",
@@ -5809,7 +5809,7 @@
       "depth": 0
     },
     {
-      "id": "blk-271",
+      "id": "blk-0271",
       "type": "paragraph",
       "level": 0,
       "text": "齿根圆：细实线（或省略）",
@@ -5827,7 +5827,7 @@
       "depth": 0
     },
     {
-      "id": "blk-272",
+      "id": "blk-0272",
       "type": "paragraph",
       "level": 0,
       "text": "【记忆口诀】\"齿顶圆粗，分度圆点画，齿根圆细实\"",
@@ -5845,7 +5845,7 @@
       "depth": 0
     },
     {
-      "id": "blk-273",
+      "id": "blk-0273",
       "type": "heading",
       "level": 2,
       "text": "【6.5 弹簧】",
@@ -5863,7 +5863,7 @@
       "depth": 0
     },
     {
-      "id": "blk-274",
+      "id": "blk-0274",
       "type": "heading",
       "level": 3,
       "text": "一、圆柱螺旋压缩弹簧的规定画法",
@@ -5881,7 +5881,7 @@
       "depth": 0
     },
     {
-      "id": "blk-275",
+      "id": "blk-0275",
       "type": "paragraph",
       "level": 0,
       "text": "各圈用直线表示（近似画法）",
@@ -5899,7 +5899,7 @@
       "depth": 0
     },
     {
-      "id": "blk-276",
+      "id": "blk-0276",
       "type": "paragraph",
       "level": 0,
       "text": "有效圈数≥4圈时，每端只画1-2圈，中间用细点画线通过簧丝中心",
@@ -5917,7 +5917,7 @@
       "depth": 0
     },
     {
-      "id": "blk-277",
+      "id": "blk-0277",
       "type": "paragraph",
       "level": 0,
       "text": "弹簧两端并紧磨平",
@@ -5935,7 +5935,7 @@
       "depth": 0
     },
     {
-      "id": "blk-278",
+      "id": "blk-0278",
       "type": "heading",
       "level": 3,
       "text": "二、作图步骤",
@@ -5953,7 +5953,7 @@
       "depth": 0
     },
     {
-      "id": "blk-279",
+      "id": "blk-0279",
       "type": "paragraph",
       "level": 0,
       "text": "先画支承圈 → 再画有效圈 → 最后画弹簧轴线",
@@ -5971,10 +5971,10 @@
       "depth": 0
     },
     {
-      "id": "blk-280",
+      "id": "blk-0280",
       "type": "heading",
       "level": 1,
-      "text": "第七章 零件图",
+      "text": "第七章 零件图",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -5989,7 +5989,7 @@
       "depth": 0
     },
     {
-      "id": "blk-281",
+      "id": "blk-0281",
       "type": "heading",
       "level": 2,
       "text": "【7.1 零件图的内容】",
@@ -6007,7 +6007,7 @@
       "depth": 0
     },
     {
-      "id": "blk-282",
+      "id": "blk-0282",
       "type": "heading",
       "level": 3,
       "text": "一、零件的分类",
@@ -6025,7 +6025,7 @@
       "depth": 0
     },
     {
-      "id": "blk-283",
+      "id": "blk-0283",
       "type": "paragraph",
       "level": 0,
       "text": "轴类、盘盖类、叉架类、箱体类",
@@ -6043,7 +6043,7 @@
       "depth": 0
     },
     {
-      "id": "blk-284",
+      "id": "blk-0284",
       "type": "heading",
       "level": 3,
       "text": "二、零件图的内容",
@@ -6061,7 +6061,7 @@
       "depth": 0
     },
     {
-      "id": "blk-285",
+      "id": "blk-0285",
       "type": "paragraph",
       "level": 0,
       "text": "一组视图、完整的尺寸、技术要求、标题栏",
@@ -6079,7 +6079,7 @@
       "depth": 0
     },
     {
-      "id": "blk-286",
+      "id": "blk-0286",
       "type": "heading",
       "level": 2,
       "text": "【7.2 零件图的视图选择和尺寸标注】",
@@ -6097,7 +6097,7 @@
       "depth": 0
     },
     {
-      "id": "blk-287",
+      "id": "blk-0287",
       "type": "heading",
       "level": 3,
       "text": "一、主视图选择原则",
@@ -6115,7 +6115,7 @@
       "depth": 0
     },
     {
-      "id": "blk-288",
+      "id": "blk-0288",
       "type": "paragraph",
       "level": 0,
       "text": "最能反映形状特征",
@@ -6133,7 +6133,7 @@
       "depth": 0
     },
     {
-      "id": "blk-289",
+      "id": "blk-0289",
       "type": "paragraph",
       "level": 0,
       "text": "符合工作位置或加工位置",
@@ -6151,7 +6151,7 @@
       "depth": 0
     },
     {
-      "id": "blk-290",
+      "id": "blk-0290",
       "type": "heading",
       "level": 3,
       "text": "二、各类零件的表达方法",
@@ -6169,7 +6169,7 @@
       "depth": 0
     },
     {
-      "id": "blk-291",
+      "id": "blk-0291",
       "type": "paragraph",
       "level": 0,
       "text": "轴类：主视图按加工位置（水平放置）",
@@ -6187,7 +6187,7 @@
       "depth": 0
     },
     {
-      "id": "blk-292",
+      "id": "blk-0292",
       "type": "paragraph",
       "level": 0,
       "text": "盘盖类：主视图轴线水平",
@@ -6205,7 +6205,7 @@
       "depth": 0
     },
     {
-      "id": "blk-293",
+      "id": "blk-0293",
       "type": "paragraph",
       "level": 0,
       "text": "箱体类：主视图反映工作位置，需多个视图",
@@ -6223,7 +6223,7 @@
       "depth": 0
     },
     {
-      "id": "blk-294",
+      "id": "blk-0294",
       "type": "heading",
       "level": 3,
       "text": "三、尺寸标注要点",
@@ -6241,7 +6241,7 @@
       "depth": 0
     },
     {
-      "id": "blk-295",
+      "id": "blk-0295",
       "type": "paragraph",
       "level": 0,
       "text": "标注设计基准或工艺基准",
@@ -6259,7 +6259,7 @@
       "depth": 0
     },
     {
-      "id": "blk-296",
+      "id": "blk-0296",
       "type": "paragraph",
       "level": 0,
       "text": "避免封闭尺寸链",
@@ -6277,7 +6277,7 @@
       "depth": 0
     },
     {
-      "id": "blk-297",
+      "id": "blk-0297",
       "type": "paragraph",
       "level": 0,
       "text": "便于测量和加工",
@@ -6295,7 +6295,7 @@
       "depth": 0
     },
     {
-      "id": "blk-298",
+      "id": "blk-0298",
       "type": "heading",
       "level": 2,
       "text": "【7.3 零件图上常见的工艺结构】",
@@ -6313,7 +6313,7 @@
       "depth": 0
     },
     {
-      "id": "blk-299",
+      "id": "blk-0299",
       "type": "heading",
       "level": 3,
       "text": "一、铸造工艺结构",
@@ -6331,7 +6331,7 @@
       "depth": 0
     },
     {
-      "id": "blk-300",
+      "id": "blk-0300",
       "type": "paragraph",
       "level": 0,
       "text": "拔模斜度、铸造圆角、加强筋",
@@ -6349,7 +6349,7 @@
       "depth": 0
     },
     {
-      "id": "blk-301",
+      "id": "blk-0301",
       "type": "heading",
       "level": 3,
       "text": "二、机械加工工艺结构",
@@ -6367,7 +6367,7 @@
       "depth": 0
     },
     {
-      "id": "blk-302",
+      "id": "blk-0302",
       "type": "paragraph",
       "level": 0,
       "text": "倒角（C×45°）、圆角",
@@ -6385,7 +6385,7 @@
       "depth": 0
     },
     {
-      "id": "blk-303",
+      "id": "blk-0303",
       "type": "paragraph",
       "level": 0,
       "text": "退刀槽、砂轮越程槽",
@@ -6403,7 +6403,7 @@
       "depth": 0
     },
     {
-      "id": "blk-304",
+      "id": "blk-0304",
       "type": "paragraph",
       "level": 0,
       "text": "中心孔",
@@ -6421,7 +6421,7 @@
       "depth": 0
     },
     {
-      "id": "blk-305",
+      "id": "blk-0305",
       "type": "heading",
       "level": 2,
       "text": "【7.4 零件图中的技术要求】",
@@ -6439,7 +6439,7 @@
       "depth": 0
     },
     {
-      "id": "blk-306",
+      "id": "blk-0306",
       "type": "heading",
       "level": 3,
       "text": "一、表面结构（粗糙度）",
@@ -6457,10 +6457,10 @@
       "depth": 0
     },
     {
-      "id": "blk-307",
+      "id": "blk-0307",
       "type": "paragraph",
       "level": 0,
-      "text": "**符号：基本符号（仅表示需加工）、去除材料符号（加一短横）、不去除材料符号（加圆圈）**。",
+      "text": "符号：基本符号（仅表示需加工）、去除材料符号（加一短横）、不去除材料符号（加圆圈）。",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -6475,7 +6475,7 @@
       "depth": 0
     },
     {
-      "id": "blk-308",
+      "id": "blk-0308",
       "type": "paragraph",
       "level": 0,
       "text": "参数：Ra（轮廓算术平均偏差），数值越小越光滑",
@@ -6493,7 +6493,7 @@
       "depth": 0
     },
     {
-      "id": "blk-309",
+      "id": "blk-0309",
       "type": "paragraph",
       "level": 0,
       "text": "示例：Ra 3.2表示较粗糙，Ra 0.8表示较光滑",
@@ -6511,7 +6511,7 @@
       "depth": 0
     },
     {
-      "id": "blk-310",
+      "id": "blk-0310",
       "type": "heading",
       "level": 3,
       "text": "二、极限与配合",
@@ -6529,7 +6529,7 @@
       "depth": 0
     },
     {
-      "id": "blk-311",
+      "id": "blk-0311",
       "type": "paragraph",
       "level": 0,
       "text": "配合种类：间隙配合、过盈配合、过渡配合",
@@ -6547,10 +6547,10 @@
       "depth": 0
     },
     {
-      "id": "blk-312",
+      "id": "blk-0312",
       "type": "paragraph",
       "level": 0,
-      "text": "标注示例：φ30H7（孔）、φ30h6（轴）**大写=孔，小写=轴**",
+      "text": "标注示例：φ30H7（孔）、φ30h6（轴）大写=孔，小写=轴",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -6565,7 +6565,7 @@
       "depth": 0
     },
     {
-      "id": "blk-313",
+      "id": "blk-0313",
       "type": "heading",
       "level": 3,
       "text": "三、几何公差（形位公差）",
@@ -6583,7 +6583,7 @@
       "depth": 0
     },
     {
-      "id": "blk-314",
+      "id": "blk-0314",
       "type": "paragraph",
       "level": 0,
       "text": "形状公差：直线度、平面度、圆度、圆柱度",
@@ -6601,7 +6601,7 @@
       "depth": 0
     },
     {
-      "id": "blk-315",
+      "id": "blk-0315",
       "type": "paragraph",
       "level": 0,
       "text": "位置公差：平行度、垂直度、同轴度、对称度",
@@ -6619,7 +6619,7 @@
       "depth": 0
     },
     {
-      "id": "blk-316",
+      "id": "blk-0316",
       "type": "paragraph",
       "level": 0,
       "text": "跳动公差：圆跳动、全跳动",
@@ -6637,7 +6637,7 @@
       "depth": 0
     },
     {
-      "id": "blk-317",
+      "id": "blk-0317",
       "type": "heading",
       "level": 2,
       "text": "【7.5 读零件图】",
@@ -6655,7 +6655,7 @@
       "depth": 0
     },
     {
-      "id": "blk-318",
+      "id": "blk-0318",
       "type": "paragraph",
       "level": 0,
       "text": "读图步骤：",
@@ -6673,7 +6673,7 @@
       "depth": 0
     },
     {
-      "id": "blk-319",
+      "id": "blk-0319",
       "type": "list_item",
       "level": 0,
       "text": "看标题栏（名称、材料、比例）",
@@ -6691,7 +6691,7 @@
       "depth": 0
     },
     {
-      "id": "blk-320",
+      "id": "blk-0320",
       "type": "list_item",
       "level": 0,
       "text": "分析视图（主视图、其他视图）",
@@ -6709,7 +6709,7 @@
       "depth": 0
     },
     {
-      "id": "blk-321",
+      "id": "blk-0321",
       "type": "list_item",
       "level": 0,
       "text": "分析尺寸（基准、主要尺寸）",
@@ -6727,7 +6727,7 @@
       "depth": 0
     },
     {
-      "id": "blk-322",
+      "id": "blk-0322",
       "type": "list_item",
       "level": 0,
       "text": "分析技术要求（粗糙度、公差）",
@@ -6745,7 +6745,7 @@
       "depth": 0
     },
     {
-      "id": "blk-323",
+      "id": "blk-0323",
       "type": "list_item",
       "level": 0,
       "text": "综合想象立体形状",
@@ -6763,10 +6763,10 @@
       "depth": 0
     },
     {
-      "id": "blk-324",
+      "id": "blk-0324",
       "type": "heading",
       "level": 1,
-      "text": "第八章 装配图",
+      "text": "第八章 装配图",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -6781,7 +6781,7 @@
       "depth": 0
     },
     {
-      "id": "blk-325",
+      "id": "blk-0325",
       "type": "heading",
       "level": 2,
       "text": "【8.1 装配图的作用和内容】",
@@ -6799,7 +6799,7 @@
       "depth": 0
     },
     {
-      "id": "blk-326",
+      "id": "blk-0326",
       "type": "heading",
       "level": 3,
       "text": "一、装配图的作用",
@@ -6817,7 +6817,7 @@
       "depth": 0
     },
     {
-      "id": "blk-327",
+      "id": "blk-0327",
       "type": "paragraph",
       "level": 0,
       "text": "表达机器或部件的装配关系、工作原理、技术要求",
@@ -6835,7 +6835,7 @@
       "depth": 0
     },
     {
-      "id": "blk-328",
+      "id": "blk-0328",
       "type": "heading",
       "level": 3,
       "text": "二、装配图的内容",
@@ -6853,7 +6853,7 @@
       "depth": 0
     },
     {
-      "id": "blk-329",
+      "id": "blk-0329",
       "type": "paragraph",
       "level": 0,
       "text": "一组视图、必要的尺寸、技术要求、零件编号、明细栏和标题栏",
@@ -6871,7 +6871,7 @@
       "depth": 0
     },
     {
-      "id": "blk-330",
+      "id": "blk-0330",
       "type": "heading",
       "level": 2,
       "text": "【8.2 装配图的表达方法】",
@@ -6889,7 +6889,7 @@
       "depth": 0
     },
     {
-      "id": "blk-331",
+      "id": "blk-0331",
       "type": "heading",
       "level": 3,
       "text": "一、规定画法",
@@ -6907,7 +6907,7 @@
       "depth": 0
     },
     {
-      "id": "blk-332",
+      "id": "blk-0332",
       "type": "paragraph",
       "level": 0,
       "text": "相邻零件的接触面或配合面只画一条线",
@@ -6925,7 +6925,7 @@
       "depth": 0
     },
     {
-      "id": "blk-333",
+      "id": "blk-0333",
       "type": "paragraph",
       "level": 0,
       "text": "相邻零件剖面线方向相反或间隔不同",
@@ -6943,7 +6943,7 @@
       "depth": 0
     },
     {
-      "id": "blk-334",
+      "id": "blk-0334",
       "type": "paragraph",
       "level": 0,
       "text": "紧固件、实心件（轴、球）沿纵向剖切时按不剖处理",
@@ -6961,7 +6961,7 @@
       "depth": 0
     },
     {
-      "id": "blk-335",
+      "id": "blk-0335",
       "type": "heading",
       "level": 3,
       "text": "二、特殊画法",
@@ -6979,7 +6979,7 @@
       "depth": 0
     },
     {
-      "id": "blk-336",
+      "id": "blk-0336",
       "type": "paragraph",
       "level": 0,
       "text": "假想画法：表示运动极限位置，用双点画线",
@@ -6997,7 +6997,7 @@
       "depth": 0
     },
     {
-      "id": "blk-337",
+      "id": "blk-0337",
       "type": "paragraph",
       "level": 0,
       "text": "拆卸画法：假想拆去某零件后画",
@@ -7015,7 +7015,7 @@
       "depth": 0
     },
     {
-      "id": "blk-338",
+      "id": "blk-0338",
       "type": "paragraph",
       "level": 0,
       "text": "夸大画法：薄片、间隙夸大画",
@@ -7033,7 +7033,7 @@
       "depth": 0
     },
     {
-      "id": "blk-339",
+      "id": "blk-0339",
       "type": "heading",
       "level": 2,
       "text": "【8.3 装配图的尺寸标注和技术要求】",
@@ -7051,7 +7051,7 @@
       "depth": 0
     },
     {
-      "id": "blk-340",
+      "id": "blk-0340",
       "type": "heading",
       "level": 3,
       "text": "一、装配图的尺寸类型",
@@ -7069,7 +7069,7 @@
       "depth": 0
     },
     {
-      "id": "blk-341",
+      "id": "blk-0341",
       "type": "paragraph",
       "level": 0,
       "text": "性能（规格）尺寸",
@@ -7087,7 +7087,7 @@
       "depth": 0
     },
     {
-      "id": "blk-342",
+      "id": "blk-0342",
       "type": "paragraph",
       "level": 0,
       "text": "装配尺寸（配合尺寸、相对位置尺寸）",
@@ -7105,7 +7105,7 @@
       "depth": 0
     },
     {
-      "id": "blk-343",
+      "id": "blk-0343",
       "type": "paragraph",
       "level": 0,
       "text": "安装尺寸",
@@ -7123,7 +7123,7 @@
       "depth": 0
     },
     {
-      "id": "blk-344",
+      "id": "blk-0344",
       "type": "paragraph",
       "level": 0,
       "text": "外形尺寸（总长、总宽、总高）",
@@ -7141,7 +7141,7 @@
       "depth": 0
     },
     {
-      "id": "blk-345",
+      "id": "blk-0345",
       "type": "heading",
       "level": 3,
       "text": "二、技术要求",
@@ -7159,7 +7159,7 @@
       "depth": 0
     },
     {
-      "id": "blk-346",
+      "id": "blk-0346",
       "type": "paragraph",
       "level": 0,
       "text": "装配要求、检验要求、使用要求等",
@@ -7177,7 +7177,7 @@
       "depth": 0
     },
     {
-      "id": "blk-347",
+      "id": "blk-0347",
       "type": "paragraph",
       "level": 0,
       "text": "用文字写在标题栏上方",
@@ -7195,7 +7195,7 @@
       "depth": 0
     },
     {
-      "id": "blk-348",
+      "id": "blk-0348",
       "type": "heading",
       "level": 2,
       "text": "【8.4 装配图的零件序号、明细栏和标题栏】",
@@ -7213,7 +7213,7 @@
       "depth": 0
     },
     {
-      "id": "blk-349",
+      "id": "blk-0349",
       "type": "heading",
       "level": 3,
       "text": "一、零件序号",
@@ -7231,7 +7231,7 @@
       "depth": 0
     },
     {
-      "id": "blk-350",
+      "id": "blk-0350",
       "type": "paragraph",
       "level": 0,
       "text": "序号用细实线引出，末端用圆点或箭头",
@@ -7249,7 +7249,7 @@
       "depth": 0
     },
     {
-      "id": "blk-351",
+      "id": "blk-0351",
       "type": "paragraph",
       "level": 0,
       "text": "序号按顺时针或逆时针方向排列",
@@ -7267,7 +7267,7 @@
       "depth": 0
     },
     {
-      "id": "blk-352",
+      "id": "blk-0352",
       "type": "paragraph",
       "level": 0,
       "text": "字高比尺寸数字大一倍",
@@ -7285,7 +7285,7 @@
       "depth": 0
     },
     {
-      "id": "blk-353",
+      "id": "blk-0353",
       "type": "heading",
       "level": 3,
       "text": "二、明细栏",
@@ -7303,7 +7303,7 @@
       "depth": 0
     },
     {
-      "id": "blk-354",
+      "id": "blk-0354",
       "type": "paragraph",
       "level": 0,
       "text": "填写序号、代号、名称、数量、材料、备注等",
@@ -7321,7 +7321,7 @@
       "depth": 0
     },
     {
-      "id": "blk-355",
+      "id": "blk-0355",
       "type": "heading",
       "level": 2,
       "text": "【8.5 装配工艺结构的合理性】",
@@ -7339,7 +7339,7 @@
       "depth": 0
     },
     {
-      "id": "blk-356",
+      "id": "blk-0356",
       "type": "paragraph",
       "level": 0,
       "text": "合理装配结构：",
@@ -7357,7 +7357,7 @@
       "depth": 0
     },
     {
-      "id": "blk-357",
+      "id": "blk-0357",
       "type": "paragraph",
       "level": 0,
       "text": "接触面转折处应有倒角或圆角",
@@ -7375,7 +7375,7 @@
       "depth": 0
     },
     {
-      "id": "blk-358",
+      "id": "blk-0358",
       "type": "paragraph",
       "level": 0,
       "text": "便于装拆（如螺栓连接处留扳手空间）",
@@ -7393,7 +7393,7 @@
       "depth": 0
     },
     {
-      "id": "blk-359",
+      "id": "blk-0359",
       "type": "paragraph",
       "level": 0,
       "text": "防松装置（弹簧垫圈、双螺母、开口销等）",
@@ -7411,7 +7411,7 @@
       "depth": 0
     },
     {
-      "id": "blk-360",
+      "id": "blk-0360",
       "type": "paragraph",
       "level": 0,
       "text": "定位结构（销、凸台等）",
@@ -7429,7 +7429,7 @@
       "depth": 0
     },
     {
-      "id": "blk-361",
+      "id": "blk-0361",
       "type": "heading",
       "level": 2,
       "text": "【8.6 读装配图并拆画零件图】",
@@ -7447,7 +7447,7 @@
       "depth": 0
     },
     {
-      "id": "blk-362",
+      "id": "blk-0362",
       "type": "paragraph",
       "level": 0,
       "text": "读图步骤：",
@@ -7465,7 +7465,7 @@
       "depth": 0
     },
     {
-      "id": "blk-363",
+      "id": "blk-0363",
       "type": "list_item",
       "level": 0,
       "text": "看标题栏和明细栏",
@@ -7483,7 +7483,7 @@
       "depth": 0
     },
     {
-      "id": "blk-364",
+      "id": "blk-0364",
       "type": "list_item",
       "level": 0,
       "text": "分析表达方案",
@@ -7501,7 +7501,7 @@
       "depth": 0
     },
     {
-      "id": "blk-365",
+      "id": "blk-0365",
       "type": "list_item",
       "level": 0,
       "text": "分析装配关系",
@@ -7519,7 +7519,7 @@
       "depth": 0
     },
     {
-      "id": "blk-366",
+      "id": "blk-0366",
       "type": "list_item",
       "level": 0,
       "text": "分析工作原理",
@@ -7537,7 +7537,7 @@
       "depth": 0
     },
     {
-      "id": "blk-367",
+      "id": "blk-0367",
       "type": "list_item",
       "level": 0,
       "text": "拆画零件图：分离零件 → 补全结构 → 标注尺寸和技术要求",
@@ -7555,7 +7555,7 @@
       "depth": 0
     },
     {
-      "id": "blk-368",
+      "id": "blk-0368",
       "type": "paragraph",
       "level": 0,
       "text": "附录一：记忆口诀精选",
@@ -7573,10 +7573,10 @@
       "depth": 0
     },
     {
-      "id": "blk-369",
+      "id": "blk-0369",
       "type": "heading",
       "level": 1,
-      "text": "1. 三视图规律",
+      "text": "1. 三视图规律",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7591,7 +7591,7 @@
       "depth": 0
     },
     {
-      "id": "blk-370",
+      "id": "blk-0370",
       "type": "paragraph",
       "level": 0,
       "text": "\"长对正、高平齐、宽相等\"",
@@ -7609,10 +7609,10 @@
       "depth": 0
     },
     {
-      "id": "blk-371",
+      "id": "blk-0371",
       "type": "heading",
       "level": 1,
-      "text": "2. 螺纹画法",
+      "text": "2. 螺纹画法",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7627,7 +7627,7 @@
       "depth": 0
     },
     {
-      "id": "blk-372",
+      "id": "blk-0372",
       "type": "paragraph",
       "level": 0,
       "text": "\"外螺纹：大粗小细；内螺纹：小粗大细；旋合区：按外画\"",
@@ -7645,10 +7645,10 @@
       "depth": 0
     },
     {
-      "id": "blk-373",
+      "id": "blk-0373",
       "type": "heading",
       "level": 1,
-      "text": "3. 尺寸标注",
+      "text": "3. 尺寸标注",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7663,7 +7663,7 @@
       "depth": 0
     },
     {
-      "id": "blk-374",
+      "id": "blk-0374",
       "type": "paragraph",
       "level": 0,
       "text": "\"完整不重复，清晰要合理，基准先确定，加总不封闭\"",
@@ -7681,10 +7681,10 @@
       "depth": 0
     },
     {
-      "id": "blk-375",
+      "id": "blk-0375",
       "type": "heading",
       "level": 1,
-      "text": "4. 剖视种类",
+      "text": "4. 剖视种类",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7699,7 +7699,7 @@
       "depth": 0
     },
     {
-      "id": "blk-376",
+      "id": "blk-0376",
       "type": "paragraph",
       "level": 0,
       "text": "\"全剖半剖局部剖，对称多用半剖；全剖用于非对称，局部灵活又清楚\"",
@@ -7717,10 +7717,10 @@
       "depth": 0
     },
     {
-      "id": "blk-377",
+      "id": "blk-0377",
       "type": "heading",
       "level": 1,
-      "text": "5. 齿轮参数",
+      "text": "5. 齿轮参数",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7735,7 +7735,7 @@
       "depth": 0
     },
     {
-      "id": "blk-378",
+      "id": "blk-0378",
       "type": "paragraph",
       "level": 0,
       "text": "\"齿顶圆粗，分度圆点画，齿根圆细实；模数大齿就大，计算用公式\"",
@@ -7753,10 +7753,10 @@
       "depth": 0
     },
     {
-      "id": "blk-379",
+      "id": "blk-0379",
       "type": "heading",
       "level": 1,
-      "text": "6. 圆锥截交线",
+      "text": "6. 圆锥截交线",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7771,7 +7771,7 @@
       "depth": 0
     },
     {
-      "id": "blk-380",
+      "id": "blk-0380",
       "type": "paragraph",
       "level": 0,
       "text": "\"圆竖椭圆斜，平行素线抛，平行轴线双，过锥顶三角\"",
@@ -7789,7 +7789,7 @@
       "depth": 0
     },
     {
-      "id": "blk-381",
+      "id": "blk-0381",
       "type": "paragraph",
       "level": 0,
       "text": "附录二：常见错误与避免方法",
@@ -7807,10 +7807,10 @@
       "depth": 0
     },
     {
-      "id": "blk-382",
+      "id": "blk-0382",
       "type": "paragraph",
       "level": 0,
-      "text": "**错误类型及避免方法表**",
+      "text": "错误类型及避免方法表",
       "label": "",
       "marker": "",
       "ordered": false,
@@ -7825,7 +7825,7 @@
       "depth": 0
     },
     {
-      "id": "blk-383",
+      "id": "blk-0383",
       "type": "table",
       "level": 0,
       "text": "",
@@ -7833,8 +7833,8 @@
       "marker": "",
       "ordered": false,
       "headers": [
-        "**错误类型**",
-        "**避免方法**"
+        "错误类型",
+        "避免方法"
       ],
       "rows": [
         [
