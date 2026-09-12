@@ -1,0 +1,1291 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-05",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-005",
+      "title": "第五章 电气时代的设计变革",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0137",
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144",
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152",
+        "blk-0153",
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159",
+        "blk-0160",
+        "blk-0161",
+        "blk-0162",
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178",
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191",
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202",
+        "blk-0203"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0137",
+      "type": "heading",
+      "level": 2,
+      "text": "第五章 电气时代的设计变革",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0138",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章每年分值20-24分，是分值最高的章节，包豪斯和欧美对比是重中之重。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0139",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：德意志制造联盟（1907）（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0140",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心理念：艺术、工业与手工艺相结合，通过标准化提高德国产品质量",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0141",
+      "type": "list_item",
+      "level": 0,
+      "text": "标准化辩论（1914）：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0142",
+      "type": "paragraph",
+      "level": 0,
+      "text": "穆特休斯派：主张彻底的标准化和类型化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0143",
+      "type": "paragraph",
+      "level": 0,
+      "text": "范·德·维尔德派：强调艺术家个性，担心标准化导致单调",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0144",
+      "type": "list_item",
+      "level": 0,
+      "text": "彼得·贝伦斯：德国通用电气公司（AEG）艺术顾问",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0145",
+      "type": "paragraph",
+      "level": 0,
+      "text": "首个完整企业形象系统（标志、产品、厂房、广告统一设计）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0146",
+      "type": "paragraph",
+      "level": 0,
+      "text": "AEG涡轮机工厂（1909）——现代建筑里程碑",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0147",
+      "type": "paragraph",
+      "level": 0,
+      "text": "AEG电水壶系列（1909）——标准化部件组合出多样样式",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0148",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：俄国构成主义（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0149",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心理念：“生产艺术”——艺术应服务于社会生产，为社会革命服务",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0150",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计原则：几何抽象、动态结构、材料真实、红与黑色彩",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0151",
+      "type": "list_item",
+      "level": 0,
+      "text": "代表人物：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0152",
+      "type": "paragraph",
+      "level": 0,
+      "text": "塔特林：《第三国际纪念碑》（未建成），体现机器美学与动态结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0153",
+      "type": "paragraph",
+      "level": 0,
+      "text": "罗德琴科：工人俱乐部设计、平面设计（对角线构图、无衬线字体）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0154",
+      "type": "list_item",
+      "level": 0,
+      "text": "影响：设计理念传播到西欧，影响包豪斯",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0155",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：荷兰风格派（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0156",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心理念：“新造型主义”——用最基本的视觉元素表现宇宙普遍和谐",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0157",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计原则：直线、直角、三原色（红黄蓝）+无彩色（黑白灰）、非对称平衡",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0158",
+      "type": "list_item",
+      "level": 0,
+      "text": "代表人物：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0159",
+      "type": "paragraph",
+      "level": 0,
+      "text": "蒙德里安：《红黄蓝构成》绘画",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0160",
+      "type": "paragraph",
+      "level": 0,
+      "text": "里特维尔德：红蓝椅（1918-1923）——15根木条+2块木板，可拆装",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0161",
+      "type": "paragraph",
+      "level": 0,
+      "text": "里特维尔德：施罗德住宅（1924）——开放平面、可移动隔墙、色彩平面",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0162",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：包豪斯（1919-1933）（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0163",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心理念：“艺术与技术：新的统一”",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0164",
+      "type": "list_item",
+      "level": 0,
+      "text": "三阶段：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0165",
+      "type": "paragraph",
+      "level": 0,
+      "text": "魏玛时期（1919-1925）：表现主义倾向，双轨制教学（形式大师+技术大师）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0166",
+      "type": "paragraph",
+      "level": 0,
+      "text": "德绍时期（1925-1932）：理性主义转向，工业化方向，黄金时代",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0167",
+      "type": "paragraph",
+      "level": 0,
+      "text": "柏林时期（1932-1933）：密斯任校长，纳粹压力下关闭",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0168",
+      "type": "list_item",
+      "level": 0,
+      "text": "教育体系：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0169",
+      "type": "paragraph",
+      "level": 0,
+      "text": "基础课程（Vorkurs）：伊顿创立，材料、色彩、构成训练",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0170",
+      "type": "paragraph",
+      "level": 0,
+      "text": "工作坊制度：木工、金属、纺织、印刷等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0171",
+      "type": "paragraph",
+      "level": 0,
+      "text": "理论与实践结合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0172",
+      "type": "list_item",
+      "level": 0,
+      "text": "代表人物与作品：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0173",
+      "type": "paragraph",
+      "level": 0,
+      "text": "沃尔特·格罗皮乌斯：德绍校舍（功能分区、玻璃幕墙、整体设计）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0174",
+      "type": "paragraph",
+      "level": 0,
+      "text": "马塞尔·布劳耶：瓦西里椅（1925）——第一把钢管椅，弯曲钢管+帆布",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0175",
+      "type": "paragraph",
+      "level": 0,
+      "text": "玛丽安·布兰特：MT8台灯（1923-24）——可调节金属臂，功能与美学结合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0176",
+      "type": "paragraph",
+      "level": 0,
+      "text": "赫伯特·拜耶：通用字体（1925）——无衬线小写字母",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0177",
+      "type": "paragraph",
+      "level": 0,
+      "text": "密斯·凡·德·罗：巴塞罗那椅（1929）——“少即是多”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0178",
+      "type": "list_item",
+      "level": 0,
+      "text": "历史意义：奠定现代设计教育基本模式，培养跨学科设计师，传播功能主义",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0179",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点五：美国工业设计（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0180",
+      "type": "list_item",
+      "level": 0,
+      "text": "发展背景：大萧条刺激销售、大众消费社会、新材料普及",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0181",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心特征：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0182",
+      "type": "paragraph",
+      "level": 0,
+      "text": "职业化：独立设计师顾问公司",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0183",
+      "type": "paragraph",
+      "level": 0,
+      "text": "商业化：设计为销售服务",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0184",
+      "type": "paragraph",
+      "level": 0,
+      "text": "流线型风格：象征速度、进步（即使静态产品也采用）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0185",
+      "type": "paragraph",
+      "level": 0,
+      "text": "有计划商品废止制：通过年度变化刺激重复购买",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0186",
+      "type": "list_item",
+      "level": 0,
+      "text": "雷蒙德·洛伊（MAYA原则：Most Advanced Yet Acceptable）",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0187",
+      "type": "paragraph",
+      "level": 0,
+      "text": "代表作品：冷点冰箱（1934，销量增400%）、宾州铁路GG1机车、灰狗巴士、可口可乐瓶",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0188",
+      "type": "list_item",
+      "level": 0,
+      "text": "亨利·德雷福斯：人机工程学先驱（《为人的设计》），贝尔300型电话（1937）",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0189",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点六：北欧现代设计（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0190",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心特征：人文功能主义——功能与情感并重、自然材料、有机形态、民主设计",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0191",
+      "type": "list_item",
+      "level": 0,
+      "text": "阿尔瓦·阿尔托（芬兰）：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0192",
+      "type": "paragraph",
+      "level": 0,
+      "text": "弯曲胶合木技术（帕米奥椅，1931-32）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0193",
+      "type": "paragraph",
+      "level": 0,
+      "text": "萨沃伊花瓶（1936）——有机波浪形轮廓",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0194",
+      "type": "list_item",
+      "level": 0,
+      "text": "阿恩·雅各布森（丹麦）：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0195",
+      "type": "paragraph",
+      "level": 0,
+      "text": "蛋椅、蚁椅——现代材料（玻璃钢）与人体工程学结合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0196",
+      "type": "list_item",
+      "level": 0,
+      "text": "汉斯·韦格纳（丹麦）：“Y椅”——从中国明式家具汲取灵感",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0197",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点七：装饰艺术运动（★★★★☆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0198",
+      "type": "list_item",
+      "level": 0,
+      "text": "得名：1925年巴黎“国际现代装饰与工业艺术博览会”",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0199",
+      "type": "list_item",
+      "level": 0,
+      "text": "风格特征：几何形态、奢华材料、阶梯造型、程式化自然",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0200",
+      "type": "list_item",
+      "level": 0,
+      "text": "代表作品：纽约克莱斯勒大厦（1930）——不锈钢尖塔、汽车主题装饰",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0201",
+      "type": "list_item",
+      "level": 0,
+      "text": "与现代主义关系：并存与对立，保留装饰但接受几何化",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0202",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】制造联盟贝伦斯，AEG企业形象立；构成主义塔特林，生产艺术为社会；风格派红蓝椅，里特维尔德施罗德宅；包豪斯三阶段魏玛德绍柏林，瓦西里椅德绍校舍；美国流线型洛伊，冷点冰箱可口可乐；北欧阿尔托弯曲木，人文功能主义显；装饰艺术克莱斯勒，几何奢华阶梯形。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0203",
+      "type": "heading",
+      "level": 2,
+      "text": "第六章 信息时代的工业与产业",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

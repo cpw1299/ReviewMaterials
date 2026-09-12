@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-13",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-048",
+      "title": "5. 齿轮参数",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0377",
+        "blk-0378",
+        "blk-0379"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0377",
+      "type": "heading",
+      "level": 1,
+      "text": "5. 齿轮参数",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0378",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"齿顶圆粗，分度圆点画，齿根圆细实；模数大齿就大，计算用公式\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0379",
+      "type": "heading",
+      "level": 1,
+      "text": "6. 圆锥截交线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

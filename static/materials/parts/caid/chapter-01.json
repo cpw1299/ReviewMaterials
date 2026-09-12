@@ -1,0 +1,998 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-01",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "第一章 计算机辅助工业设计概述",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002",
+        "blk-0003"
+      ]
+    },
+    {
+      "id": "sec-002",
+      "title": "一、工业设计是什么？",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011"
+      ]
+    },
+    {
+      "id": "sec-003",
+      "title": "二、产品设计流程",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020"
+      ]
+    },
+    {
+      "id": "sec-004",
+      "title": "三、设计思维五步法",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0020",
+        "blk-0021",
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029",
+        "blk-0030"
+      ]
+    },
+    {
+      "id": "sec-005",
+      "title": "四、CAID是什么？",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0030",
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038"
+      ]
+    },
+    {
+      "id": "sec-006",
+      "title": "五、CAID常见软件（⭐⭐ 选择题常考）",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 1,
+      "text": "第一章 计算机辅助工业设计概述",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】搞清楚“用电脑做设计”这件事到底好在哪。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0003",
+      "type": "heading",
+      "level": 2,
+      "text": "一、工业设计是什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0004",
+      "type": "paragraph",
+      "level": 0,
+      "text": "工业设计不是“画得好看”，而是一门综合学科。记住这句口诀：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0005",
+      "type": "quote",
+      "level": 0,
+      "text": "“好用、好看、好造、好卖、对地球好”——五位一体，缺一不可。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0006",
+      "type": "paragraph",
+      "level": 0,
+      "text": "具体拆开来看：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0007",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "范畴",
+        "含义",
+        "示例"
+      ],
+      "rows": [
+        [
+          "功能",
+          "这东西能干什么用",
+          "吹风机能吹风、发热，把头发吹干"
+        ],
+        [
+          "形态",
+          "长什么样，视觉上吸不吸引人",
+          "戴森吹风机那个“中空圆环”造型，一看就认出是戴森"
+        ],
+        [
+          "人机",
+          "人拿着/用着舒不舒服",
+          "鼠标的弧度要贴合手掌，用一下午手腕不酸"
+        ],
+        [
+          "材料与工艺",
+          "用什么做的、怎么做出来的",
+          "铝合金CNC切割 vs 普通塑料注塑，质感完全不一样"
+        ],
+        [
+          "可持续",
+          "环不环保、能不能回收",
+          "苹果说2030年所有产品碳中和，这就是可持续"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0008",
+      "type": "quote",
+      "level": 0,
+      "text": "� 举个例子——戴森吸尘器",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0009",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "特性分类",
+        "具体说明"
+      ],
+      "rows": [
+        [
+          "功能",
+          "吸力强，气旋技术不衰减"
+        ],
+        [
+          "形态",
+          "枪式造型，透明集尘筒，科技感拉满"
+        ],
+        [
+          "人机",
+          "扳机式开关，手指自然扣动，重心靠近手部不累"
+        ],
+        [
+          "材料",
+          "ABS工程塑料 + 透明PC，轻且耐用"
+        ],
+        [
+          "可持续",
+          "滤网可水洗反复用，不用换耗材"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0010",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这五条就是分析任何产品的“五把刀”。考试让你分析一个产品，就从这五个角度切。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0011",
+      "type": "heading",
+      "level": 2,
+      "text": "二、产品设计流程",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0012",
+      "type": "quote",
+      "level": 0,
+      "text": "设计调研 →设计创意 → 设计深入 → 设计完成",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0013",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这是逻辑上的先后顺序，但实际工作中是 反复迭代 的。比如做详细设计时发现成本超了，可能倒回去重新创意。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0014",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "阶段",
+        "核心目标",
+        "具体工作内容"
+      ],
+      "rows": [
+        [
+          "调研",
+          "发现问题、找机会点",
+          "看竞品、问用户、分析痛点。比如发现大家都在吐槽某款水壶盖子拧不开"
+        ],
+        [
+          "创意",
+          "出方案、头脑风暴",
+          "画几十张草图，天马行空想点子，不设限"
+        ],
+        [
+          "深入",
+          "把方案做细做准",
+          "定尺寸、定材质、定颜色（CMF），用Rhino建精确模型"
+        ],
+        [
+          "完成",
+          "验证可行性、准备生产",
+          "3D打印手板测试，改模，出工程图，对接模具厂"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0015",
+      "type": "quote",
+      "level": 0,
+      "text": "举个     例子——小米手环",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0016",
+      "type": "paragraph",
+      "level": 0,
+      "text": "调研：发现很多人想要便宜、续航长、能看消息的运动手环",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0017",
+      "type": "paragraph",
+      "level": 0,
+      "text": "创意：设计了几十种腕带颜色和屏幕形状方案",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0018",
+      "type": "paragraph",
+      "level": 0,
+      "text": "深入：定下“米粒”可拆卸方案，选TPU腕带材质，定IP67防水",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0019",
+      "type": "paragraph",
+      "level": 0,
+      "text": "完成：开模试产，测试佩戴舒适度，调整腕带卡扣的松紧度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0020",
+      "type": "heading",
+      "level": 2,
+      "text": "三、设计思维五步法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0021",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这是“以人为本”的创新流程，和上面的产品流程不一样，它强调的是 站在用户角度想问题 。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0022",
+      "type": "quote",
+      "level": 0,
+      "text": "共情 → 定义 → 构思 → 原型 → 测试",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0023",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "步骤",
+        "大白话解释",
+        "具体操作内容"
+      ],
+      "rows": [
+        [
+          "共情",
+          "把自己变成用户",
+          "去老人家里看他们怎么用遥控器，记录他们按错哪里"
+        ],
+        [
+          "定义",
+          "一句话说清问题",
+          "“老人找不到‘确认键’在哪儿，因为所有键都一样大”"
+        ],
+        [
+          "构思",
+          "天马行空出主意",
+          "把确认键做大、做凸、做不同颜色、做语音提示……"
+        ],
+        [
+          "原型",
+          "快速做个样品",
+          "用纸板糊一个遥控器面板，按钮用不同大小贴纸"
+        ],
+        [
+          "测试",
+          "拿给用户试试",
+          "给老人用，看他们能不能一秒摸到确认键，不行就重来"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0024",
+      "type": "paragraph",
+      "level": 0,
+      "text": "举个     例子——智能马桶盖",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0025",
+      "type": "quote",
+      "level": 0,
+      "text": "-  共情 ：发现老年人冬天上厕所觉得马桶圈太冰，弯腰按按钮不方便",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0026",
+      "type": "quote",
+      "level": 0,
+      "text": "-  定义 ：马桶盖需要“自动加热”和“更方便的操控方式”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0027",
+      "type": "quote",
+      "level": 0,
+      "text": "-  构思 ：座圈加热、暖风烘干、自动冲水、遥控器面板……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0028",
+      "type": "quote",
+      "level": 0,
+      "text": "-  原型 ：先做了一个带座圈加热功能的样机，找老年人试用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0029",
+      "type": "quote",
+      "level": 0,
+      "text": "-  测试 ：老人们反馈遥控器字太小看不清 → 回退到构思阶段，改成大按钮+语音播报",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0030",
+      "type": "heading",
+      "level": 2,
+      "text": "四、CAID是什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0031",
+      "type": "paragraph",
+      "level": 0,
+      "text": "CAID  = Computer Aided Industrial Design，计算机辅助工业设计。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0032",
+      "type": "paragraph",
+      "level": 0,
+      "text": "四大特点  ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0033",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "特点",
+        "大白话解释",
+        "传统（无电脑）模式情况"
+      ],
+      "rows": [
+        [
+          "数字化",
+          "设计变成电脑里的数据文件，不会丢不会坏",
+          "画在纸上，一沾水就没了"
+        ],
+        [
+          "可视化",
+          "没做出实物就能看到三维效果，转着圈看",
+          "只能靠手绘效果图，角度有限"
+        ],
+        [
+          "参数化",
+          "改一个数字，相关尺寸全自动更新",
+          "改一个尺寸，整张图纸重新画"
+        ],
+        [
+          "协同化",
+          "几个设计师可以同时做同一个项目",
+          "大家抢一张图纸，改完了传阅"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0034",
+      "type": "paragraph",
+      "level": 0,
+      "text": "CAID带来的三大改变：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0035",
+      "type": "list_item",
+      "level": 0,
+      "text": "流程从线性变并行 ：以前必须等A画完B才能做，现在可以同时搞，快速迭代",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0036",
+      "type": "list_item",
+      "level": 0,
+      "text": "表达从手绘变三维渲染 ：客户不用想象，直接看渲染图，跟真的一样",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0037",
+      "type": "list_item",
+      "level": 0,
+      "text": "验证周期大大缩短 ：以前开模要等3个月才知道能不能用，现在3D打印一两天就能拿手里试",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0038",
+      "type": "heading",
+      "level": 2,
+      "text": "五、CAID常见软件（⭐⭐ 选择题常考）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0039",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "软件",
+        "功能",
+        "典型用途"
+      ],
+      "rows": [
+        [
+          "Rhino",
+          "三维造型建模",
+          "做产品外形，鼠标、耳机、瓶子"
+        ],
+        [
+          "KeyShot",
+          "渲染出效果图",
+          "把模型变成照片级真实感图片"
+        ],
+        [
+          "SolidWorks",
+          "工程结构设计",
+          "做内部结构、装配、出工程图"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0040",
+      "type": "quote",
+      "level": 0,
+      "text": "简单说：Rhino做“皮”，KeyShot做“相片”，SolidWorks做“骨架”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0041",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0042",
+      "type": "quote",
+      "level": 0,
+      "text": "工业设计是“五位一体”（功能/形态/人机/材料/可持续）；流程是“调研→创意→深入→完成”；设计思维是“共情→定义→构思→原型→测试”；CAID就是电脑让设计更快更真更方便。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0043",
+      "type": "heading",
+      "level": 1,
+      "text": "第二章 初识 Rhino 5.0（⭐⭐ 考选择/填空）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

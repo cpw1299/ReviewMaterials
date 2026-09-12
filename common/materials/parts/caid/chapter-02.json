@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-02",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-007",
+      "title": "第二章 初识 Rhino 5.0（⭐⭐ 考选择/填空）",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0043",
+        "blk-0044",
+        "blk-0045"
+      ]
+    },
+    {
+      "id": "sec-008",
+      "title": "一、界面核心区域",
+      "level": 2,
+      "parentId": "sec-007",
+      "blockIds": [
+        "blk-0045",
+        "blk-0046",
+        "blk-0047",
+        "blk-0048"
+      ]
+    },
+    {
+      "id": "sec-009",
+      "title": "二、坐标输入法",
+      "level": 2,
+      "parentId": "sec-007",
+      "blockIds": [
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054"
+      ]
+    },
+    {
+      "id": "sec-010",
+      "title": "三、三大布尔运算",
+      "level": 2,
+      "parentId": "sec-007",
+      "blockIds": [
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059",
+        "blk-0060",
+        "blk-0061"
+      ]
+    },
+    {
+      "id": "sec-011",
+      "title": "四、常用变动操作（⭐⭐ 选择题）",
+      "level": 2,
+      "parentId": "sec-007",
+      "blockIds": [
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066",
+        "blk-0067",
+        "blk-0068"
+      ]
+    },
+    {
+      "id": "sec-012",
+      "title": "五、视图控制 & 对象选取",
+      "level": 2,
+      "parentId": "sec-007",
+      "blockIds": [
+        "blk-0068",
+        "blk-0069",
+        "blk-0070",
+        "blk-0071",
+        "blk-0072"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0043",
+      "type": "heading",
+      "level": 1,
+      "text": "第二章 初识 Rhino 5.0（⭐⭐ 考选择/填空）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0044",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】认识Rhino这个“数字工作台”，知道哪里是哪里。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0045",
+      "type": "heading",
+      "level": 2,
+      "text": "一、界面核心区域",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0046",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "区域",
+        "位置",
+        "功能",
+        "重要程度"
+      ],
+      "rows": [
+        [
+          "指令栏",
+          "界面最上方/中间",
+          "输入命令、查看操作提示，不会操作时可查看指引内容",
+          "� 最重要，是Rhino的“大脑”"
+        ],
+        [
+          "视窗",
+          "四个格子（Top/Front/Right/Perspective）",
+          "从顶、前、右、透视四个角度观察模型",
+          "建模全靠它"
+        ],
+        [
+          "状态栏",
+          "界面最底部",
+          "开启捕捉开关、显示当前坐标",
+          "精确建模必看"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0047",
+      "type": "quote",
+      "level": 0,
+      "text": "零基础理解 ：指令栏就像导航的语音提示——你不知道怎么走，它告诉你“前方100米右转”。你输入L，它就提示“请指定直线的起点”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0048",
+      "type": "heading",
+      "level": 2,
+      "text": "二、坐标输入法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "坐标是告诉Rhino“点在哪里”的语言。Rhino里就考两种：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0050",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "类型",
+        "输入格式",
+        "大白话",
+        "例子"
+      ],
+      "rows": [
+        [
+          "绝对坐标",
+          "X,Y,Z",
+          "“我要去北京天安门”——从原点出发的固定位置",
+          "10,20,0表示从原点出发X=10、Y=20的地方"
+        ],
+        [
+          "相对坐标",
+          "rX,Y,Z",
+          "“从我现在站的地方往东走10步”——基于当前位置的偏移",
+          "r10,0,0表示从当前点往X轴方向走10mm"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0051",
+      "type": "quote",
+      "level": 0,
+      "text": "举个     例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0052",
+      "type": "quote",
+      "level": 0,
+      "text": "- 你现在在 5,5,0 位置，输入 r10,0,0 → 你到了 15,5,0（X方向走了10mm）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0053",
+      "type": "quote",
+      "level": 0,
+      "text": "- 你在 5,5,0 位置，输入 10,0,0 → 你直接飞到 10,0,0（回到原点附近了）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0054",
+      "type": "heading",
+      "level": 2,
+      "text": "三、三大布尔运算",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0055",
+      "type": "paragraph",
+      "level": 0,
+      "text": "布尔运算就是把多个物体“算”成一个，像玩橡皮泥：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0056",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "运算",
+        "Rhino命令",
+        "效果",
+        "适用场景"
+      ],
+      "rows": [
+        [
+          "并集",
+          "BooleanUnion",
+          "两个物体捏成一个整体",
+          "把分开建模的几个部分合并"
+        ],
+        [
+          "差集",
+          "BooleanDifference",
+          "用A去减B，B的部分消失",
+          "挖孔、开槽，最常用！"
+        ],
+        [
+          "交集",
+          "BooleanIntersection",
+          "只保留两个物体重叠的部分",
+          "做复杂的交叉切割"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0057",
+      "type": "quote",
+      "level": 0,
+      "text": "举个例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0058",
+      "type": "quote",
+      "level": 0,
+      "text": "- 你想在手机壳背面挖个圆孔放摄像头 → 用 差集 （手机壳 - 圆柱体）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0059",
+      "type": "quote",
+      "level": 0,
+      "text": "- 鼠标的上盖和按键分别建模 → 最后用 并集 合并成一个整体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0060",
+      "type": "quote",
+      "level": 0,
+      "text": "- 两个交叉的圆管，只要交叉部分 → 用 交集",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0061",
+      "type": "heading",
+      "level": 2,
+      "text": "四、常用变动操作（⭐⭐ 选择题）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0062",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这些就是“把东西搬来搬去、复制粘贴”：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0063",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动（Move）  ：把一个东西从A搬到B",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0064",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转（Rotate）  ：绕某个轴转动",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0065",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放（Scale）  ：放大或缩小（注意：有等比例和非等比例两种）",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0066",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像（Mirror）  ：像照镜子一样翻过去， 做对称产品（鼠标、耳机）超级好用",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0067",
+      "type": "list_item",
+      "level": 0,
+      "text": "阵列（Array）  ：复制一排或一圈。 矩形阵列  = 横竖排一排； 环形阵列  = 围着圆心转一圈（比如一圈散热孔）",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0068",
+      "type": "heading",
+      "level": 2,
+      "text": "五、视图控制 & 对象选取",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0069",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "操作",
+        "方法"
+      ],
+      "rows": [
+        [
+          "平移视图",
+          "按住鼠标中键拖动"
+        ],
+        [
+          "旋转视角",
+          "按住右键拖动（透视图中）"
+        ],
+        [
+          "缩放",
+          "滚动滚轮"
+        ],
+        [
+          "框选",
+          "左键从左往右拉框 → 必须全部包住才算选中"
+        ],
+        [
+          "交叉选",
+          "左键从右往左拉框 → 碰到就算选中"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0070",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0071",
+      "type": "quote",
+      "level": 0,
+      "text": "指令栏是“大脑”，状态栏是“指南针”；坐标分绝对（固定点）和相对（当前位置偏移），相对格式是  rX,Y,Z  绝不要写成 r<；布尔运算并/差/交像玩橡皮泥。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0072",
+      "type": "heading",
+      "level": 1,
+      "text": "第三章 Rhino 建模基础",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-08",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-054",
+      "title": "【本章必背一句话总结】",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0257",
+        "blk-0258",
+        "blk-0259",
+        "blk-0260"
+      ]
+    },
+    {
+      "id": "sec-055",
+      "title": "一、简答题万能模板",
+      "level": 2,
+      "parentId": "sec-054",
+      "blockIds": [
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267"
+      ]
+    },
+    {
+      "id": "sec-056",
+      "title": "二、建模类简答题万能模板",
+      "level": 2,
+      "parentId": "sec-054",
+      "blockIds": [
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273"
+      ]
+    },
+    {
+      "id": "sec-057",
+      "title": "三、渲染类简答题万能模板",
+      "level": 2,
+      "parentId": "sec-054",
+      "blockIds": [
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0257",
+      "type": "heading",
+      "level": 1,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0258",
+      "type": "quote",
+      "level": 0,
+      "text": "小家电设计 = 人机工学推形态（腰鼓手柄贴虎口）+ 多材料建模分软硬（软胶缩进0.1-0.3mm留间隙）+ 防滑纹精准贴合（沿曲面流动）+ 情境化渲染讲故事（水珠/蒸汽）+ 高光质感（低粗糙度+区域光）。每一处细节要么让人“握着舒服”，要么让人“看着真实”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0259",
+      "type": "paragraph",
+      "level": 0,
+      "text": "终极考前叮嘱",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0260",
+      "type": "heading",
+      "level": 2,
+      "text": "一、简答题万能模板",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0261",
+      "type": "paragraph",
+      "level": 0,
+      "text": "看到“分析某个产品设计”的题，按这个框架答，分点分条，老师按点给分     ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0262",
+      "type": "quote",
+      "level": 0,
+      "text": "1. 功能 ：这个产品能干什么……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0263",
+      "type": "quote",
+      "level": 0,
+      "text": "2. 形态 ：它长什么样，为什么长这样……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0264",
+      "type": "quote",
+      "level": 0,
+      "text": "3. 人机 ：人怎么用它，哪里握着舒服……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0265",
+      "type": "quote",
+      "level": 0,
+      "text": "4. 材料/工艺 ：用什么做的，怎么造出来……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0266",
+      "type": "quote",
+      "level": 0,
+      "text": "5. 可持续 ：环保方面怎么考虑的……",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0267",
+      "type": "heading",
+      "level": 2,
+      "text": "二、建模类简答题万能模板",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0268",
+      "type": "paragraph",
+      "level": 0,
+      "text": "看到“怎么做某个造型/纹理”的题：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0269",
+      "type": "quote",
+      "level": 0,
+      "text": "1. 先建主体曲面（用什么命令）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0270",
+      "type": "quote",
+      "level": 0,
+      "text": "2. 再处理细节（布尔差集开孔/倒角/分件）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0271",
+      "type": "quote",
+      "level": 0,
+      "text": "3. 最后做纹理或特征（沿曲面流动/阵列/投影）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0272",
+      "type": "quote",
+      "level": 0,
+      "text": "4. 质量检测（斑马纹检查G2连续性）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0273",
+      "type": "heading",
+      "level": 2,
+      "text": "三、渲染类简答题万能模板",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0274",
+      "type": "paragraph",
+      "level": 0,
+      "text": "看到“怎么表现某种材质”的题：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0275",
+      "type": "quote",
+      "level": 0,
+      "text": "1. 选什么材质类型（塑料/金属/玻璃/半透明）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0276",
+      "type": "quote",
+      "level": 0,
+      "text": "2. 调什么参数（漫反射颜色/粗糙度/IOR/凹凸贴图）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0277",
+      "type": "quote",
+      "level": 0,
+      "text": "3. 打什么光（区域光柔和/针状光锐利/HDR环境）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0278",
+      "type": "quote",
+      "level": 0,
+      "text": "4. 加什么特效（AO/贴图通道/体积光）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0279",
+      "type": "heading",
+      "level": 1,
+      "text": "四、记住这页纸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-06",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-006",
+      "title": "第六章 信息时代的工业与产业",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207",
+        "blk-0208",
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228",
+        "blk-0229",
+        "blk-0230",
+        "blk-0231",
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237",
+        "blk-0238",
+        "blk-0239",
+        "blk-0240"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0203",
+      "type": "heading",
+      "level": 2,
+      "text": "第六章 信息时代的工业与产业",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0204",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章每年分值22-26分，半导体、通信演进、光伏产业是重点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0205",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：第三次工业革命技术体系（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0206",
+      "type": "list_item",
+      "level": 0,
+      "text": "微电子技术：晶体管（1947）→集成电路（1958）→微处理器（1971）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0207",
+      "type": "paragraph",
+      "level": 0,
+      "text": "摩尔定律：集成电路晶体管数量每18-24个月翻一番",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0208",
+      "type": "list_item",
+      "level": 0,
+      "text": "计算机技术：大型机→个人计算机（IBM PC 1981）→软件革命",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0209",
+      "type": "list_item",
+      "level": 0,
+      "text": "通信技术：互联网（ARPANET 1969）、TCP/IP（1983）、万维网（1990）",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0210",
+      "type": "list_item",
+      "level": 0,
+      "text": "自动化技术：数控机床→工业机器人→柔性制造系统→计算机集成制造",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0211",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：半导体与芯片产业（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0212",
+      "type": "list_item",
+      "level": 0,
+      "text": "晶体管优势：体积1/200、功耗1/100、寿命10万小时+、开关速度快1000倍",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0213",
+      "type": "list_item",
+      "level": 0,
+      "text": "集成电路：基尔比（德州仪器）1958年发明，诺伊斯（仙童）1959年发明平面工艺",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0214",
+      "type": "list_item",
+      "level": 0,
+      "text": "产业格局：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0215",
+      "type": "paragraph",
+      "level": 0,
+      "text": "设计（Fabless）：美国高通、英伟达，中国华为海思",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0216",
+      "type": "paragraph",
+      "level": 0,
+      "text": "制造（Foundry）：台积电（全球55%+）、三星、中芯国际",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0217",
+      "type": "paragraph",
+      "level": 0,
+      "text": "设备：荷兰ASML（EUV光刻机垄断）、美国应用材料",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0218",
+      "type": "list_item",
+      "level": 0,
+      "text": "摩尔定律产业影响：性能价格比持续提升，投资门槛极高，设计与制造分离",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0219",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：无线通信演进（1G→5G）（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0220",
+      "type": "list_item",
+      "level": 0,
+      "text": "1G（1980s）：模拟语音，AMPS/NMT/TACS，砖头式“大哥大”",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0221",
+      "type": "list_item",
+      "level": 0,
+      "text": "2G（1990s）：数字语音+短信，GSM全球成功，诺基亚崛起",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0222",
+      "type": "list_item",
+      "level": 0,
+      "text": "3G（2000s）：移动多媒体，WCDMA/CDMA2000/TD-SCDMA，iPhone催化移动互联网",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0223",
+      "type": "list_item",
+      "level": 0,
+      "text": "4G（2010s）：移动宽带，OFDMA+MIMO，全IP网络，催生移动视频、支付、共享经济",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0224",
+      "type": "list_item",
+      "level": 0,
+      "text": "5G（2020s）：",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0225",
+      "type": "paragraph",
+      "level": 0,
+      "text": "三大场景：增强移动宽带（eMBB）、超可靠低时延（uRLLC）、海量机器通信（mMTC）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0226",
+      "type": "paragraph",
+      "level": 0,
+      "text": "关键技术：毫米波、大规模MIMO、网络切片、边缘计算",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0227",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中国领先：华为5G专利全球第一，建成全球最大5G网络",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0228",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：光伏产业（★★★★☆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0229",
+      "type": "list_item",
+      "level": 0,
+      "text": "技术原理：光伏效应（1839年发现），半导体PN结光照产生电流",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0230",
+      "type": "list_item",
+      "level": 0,
+      "text": "技术路线：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0231",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第一代晶硅电池：单晶硅（效率24%+）、多晶硅",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0232",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第二代薄膜电池：非晶硅、碲化镉、铜铟镓硒",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0233",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第三代新型电池：钙钛矿（效率从3.8%→25.7%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0234",
+      "type": "list_item",
+      "level": 0,
+      "text": "学习曲线效应：产量每翻一番，成本下降20-25%，1976-2020成本下降99.8%",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0235",
+      "type": "list_item",
+      "level": 0,
+      "text": "中国光伏崛起路径：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0236",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第一阶段（2004-2011）：两头在外，制造在中国",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0237",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第二阶段（2012-2018）：多晶硅国产化突破，单晶技术路线胜出",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0238",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第三阶段（2019至今）：全球主导，各环节份额70-90%",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0239",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】第三次工业微电计，晶体管集成电路摩尔定律；1G大哥大2G短信，3G多媒体4G宽带，5G三大场景切片边缘；光伏晶硅到钙钛矿，学习曲线成本降，中国光伏三阶段两头外到主导。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0240",
+      "type": "heading",
+      "level": 2,
+      "text": "第七章 信息时代的设计变革",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

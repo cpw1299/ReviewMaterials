@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-08",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-008",
+      "title": "第八章 智能时代的工业技术与应用",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0288",
+        "blk-0289",
+        "blk-0290",
+        "blk-0291",
+        "blk-0292",
+        "blk-0293",
+        "blk-0294",
+        "blk-0295",
+        "blk-0296",
+        "blk-0297",
+        "blk-0298",
+        "blk-0299",
+        "blk-0300",
+        "blk-0301",
+        "blk-0302",
+        "blk-0303",
+        "blk-0304",
+        "blk-0305",
+        "blk-0306",
+        "blk-0307",
+        "blk-0308",
+        "blk-0309",
+        "blk-0310",
+        "blk-0311",
+        "blk-0312",
+        "blk-0313",
+        "blk-0314",
+        "blk-0315",
+        "blk-0316",
+        "blk-0317",
+        "blk-0318",
+        "blk-0319",
+        "blk-0320",
+        "blk-0321",
+        "blk-0322",
+        "blk-0323",
+        "blk-0324",
+        "blk-0325",
+        "blk-0326",
+        "blk-0327",
+        "blk-0328",
+        "blk-0329",
+        "blk-0330",
+        "blk-0331",
+        "blk-0332",
+        "blk-0333",
+        "blk-0334",
+        "blk-0335",
+        "blk-0336",
+        "blk-0337",
+        "blk-0338",
+        "blk-0339",
+        "blk-0340"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0288",
+      "type": "heading",
+      "level": 2,
+      "text": "第八章 智能时代的工业技术与应用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0289",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】近5年分值22-26分，工业4.0、5G、机器人是重点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0290",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：工业4.0（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0291",
+      "type": "list_item",
+      "level": 0,
+      "text": "定义：德国2011年提出，以信息物理系统（CPS）为核心的第四次工业革命",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0292",
+      "type": "list_item",
+      "level": 0,
+      "text": "核心理念：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0293",
+      "type": "paragraph",
+      "level": 0,
+      "text": "横向集成：企业内外部价值链打通",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0294",
+      "type": "paragraph",
+      "level": 0,
+      "text": "纵向集成：设备层到企业层数据贯通",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0295",
+      "type": "paragraph",
+      "level": 0,
+      "text": "端到端集成：产品全生命周期贯通",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0296",
+      "type": "list_item",
+      "level": 0,
+      "text": "五大技术支柱：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0297",
+      "type": "paragraph",
+      "level": 0,
+      "text": "数字化制造：数字孪生（西门子宝马生产线虚拟调试）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0298",
+      "type": "paragraph",
+      "level": 0,
+      "text": "工业互联网：GE Predix、西门子MindSphere",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0299",
+      "type": "paragraph",
+      "level": 0,
+      "text": "绿色工业：能源管理系统、碳足迹追踪",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0300",
+      "type": "paragraph",
+      "level": 0,
+      "text": "3D打印：GE燃油喷嘴（20件合1）、拓扑优化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0301",
+      "type": "paragraph",
+      "level": 0,
+      "text": "大数据技术：预测性维护、质量控制、工艺优化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0302",
+      "type": "list_item",
+      "level": 0,
+      "text": "典型案例：三一重工“根云平台”（连接30万台设备）、海尔COSMOPlat",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0303",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：5G技术与应用（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0304",
+      "type": "list_item",
+      "level": 0,
+      "text": "5G三大场景：",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0305",
+      "type": "paragraph",
+      "level": 0,
+      "text": "eMBB（增强移动宽带）：8K直播、云游戏、AR/VR",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0306",
+      "type": "paragraph",
+      "level": 0,
+      "text": "uRLLC（超可靠低时延）：工业控制、自动驾驶、远程手术（时延<1ms）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0307",
+      "type": "paragraph",
+      "level": 0,
+      "text": "mMTC（海量机器通信）：智能表计、智慧农业、资产追踪",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0308",
+      "type": "list_item",
+      "level": 0,
+      "text": "关键技术：毫米波、大规模MIMO、网络切片、边缘计算",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0309",
+      "type": "list_item",
+      "level": 0,
+      "text": "中国5G领先：华为5G专利占34%，建成234万基站（全球60%），用户超7亿",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0310",
+      "type": "list_item",
+      "level": 0,
+      "text": "典型应用：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0311",
+      "type": "paragraph",
+      "level": 0,
+      "text": "华为5G智慧矿山（井下作业减少80%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0312",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中兴5G智能工厂（效率提升30%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0313",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中国移动5G智慧港口（吞吐量提升20%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0314",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：新能源与智慧交通（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0315",
+      "type": "list_item",
+      "level": 0,
+      "text": "新能源汽车技术路线：",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0316",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第一代混合动力（HEV）：丰田普锐斯（1997）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0317",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第二代纯电动（BEV）：特斯拉Model S（2012）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0318",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第三代智能化电动：蔚来ET7（激光雷达+高通8155）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0319",
+      "type": "list_item",
+      "level": 0,
+      "text": "中国新能源汽车：2023年销量950万辆（全球60%），比亚迪全产业链优势",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0320",
+      "type": "list_item",
+      "level": 0,
+      "text": "自动驾驶SAE分级：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0321",
+      "type": "paragraph",
+      "level": 0,
+      "text": "L0无自动化→L2部分自动化→L3条件自动化→L4高度自动化→L5完全自动化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0322",
+      "type": "list_item",
+      "level": 0,
+      "text": "技术路线竞争：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0323",
+      "type": "paragraph",
+      "level": 0,
+      "text": "特斯拉视觉路线：仅摄像头+AI，成本低",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0324",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Waymo多传感器融合：激光雷达+摄像头+毫米波雷达，可靠性高",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0325",
+      "type": "paragraph",
+      "level": 0,
+      "text": "华为车云一体：MDC平台+车联网+高精地图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0326",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：机器人产业（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0327",
+      "type": "list_item",
+      "level": 0,
+      "text": "发展历程：Unimate（1961首台工业机器人）→协作机器人→服务机器人",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0328",
+      "type": "list_item",
+      "level": 0,
+      "text": "工业机器人：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0329",
+      "type": "paragraph",
+      "level": 0,
+      "text": "类型：SCARA（装配）、六轴（焊接）、Delta（分拣）、协作机器人",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0330",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中国：2023年装机量占全球50%，埃斯顿、汇川技术、新松",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0331",
+      "type": "list_item",
+      "level": 0,
+      "text": "特种机器人：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0332",
+      "type": "paragraph",
+      "level": 0,
+      "text": "医疗机器人：达·芬奇手术机器人、康复机器人",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0333",
+      "type": "paragraph",
+      "level": 0,
+      "text": "救援机器人：蛇形机器人、消防机器人",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0334",
+      "type": "paragraph",
+      "level": 0,
+      "text": "空间深海：天和机械臂、奋斗者号",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0335",
+      "type": "list_item",
+      "level": 0,
+      "text": "服务机器人：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0336",
+      "type": "paragraph",
+      "level": 0,
+      "text": "家用：iRobot扫地机器人",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0337",
+      "type": "paragraph",
+      "level": 0,
+      "text": "商用：普渡送餐机器人",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0338",
+      "type": "paragraph",
+      "level": 0,
+      "text": "陪伴：索尼Aibo机器狗",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0339",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】工业4.0三集成，五大技术支柱立；数字孪生工业互联，3D打印大数据；5G三大场景eMBB uRLLC mMTC，华为专利全球领先；新能源汽车三代演进混动纯电智能，特斯拉Waymo两路线；机器人工业特种服务，达芬奇手术扫地机。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0340",
+      "type": "heading",
+      "level": 2,
+      "text": "第九章 智能时代的工业设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

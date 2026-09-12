@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-12",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-047",
+      "title": "4. 剖视种类",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0375",
+        "blk-0376",
+        "blk-0377"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0375",
+      "type": "heading",
+      "level": 1,
+      "text": "4. 剖视种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0376",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"全剖半剖局部剖，对称多用半剖；全剖用于非对称，局部灵活又清楚\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0377",
+      "type": "heading",
+      "level": 1,
+      "text": "5. 齿轮参数",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

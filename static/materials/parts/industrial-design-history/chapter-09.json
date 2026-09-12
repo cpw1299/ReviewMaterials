@@ -1,0 +1,1082 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-09",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-009",
+      "title": "第九章 智能时代的工业设计",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0340",
+        "blk-0341",
+        "blk-0342",
+        "blk-0343",
+        "blk-0344",
+        "blk-0345",
+        "blk-0346",
+        "blk-0347",
+        "blk-0348",
+        "blk-0349",
+        "blk-0350",
+        "blk-0351",
+        "blk-0352",
+        "blk-0353",
+        "blk-0354",
+        "blk-0355",
+        "blk-0356",
+        "blk-0357",
+        "blk-0358",
+        "blk-0359",
+        "blk-0360",
+        "blk-0361",
+        "blk-0362",
+        "blk-0363",
+        "blk-0364",
+        "blk-0365",
+        "blk-0366",
+        "blk-0367",
+        "blk-0368",
+        "blk-0369",
+        "blk-0370",
+        "blk-0371",
+        "blk-0372",
+        "blk-0373",
+        "blk-0374",
+        "blk-0375",
+        "blk-0376",
+        "blk-0377",
+        "blk-0378",
+        "blk-0379",
+        "blk-0380",
+        "blk-0381",
+        "blk-0382",
+        "blk-0383",
+        "blk-0384",
+        "blk-0385",
+        "blk-0386",
+        "blk-0387",
+        "blk-0388",
+        "blk-0389",
+        "blk-0390",
+        "blk-0391",
+        "blk-0392",
+        "blk-0393",
+        "blk-0394",
+        "blk-0395"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0340",
+      "type": "heading",
+      "level": 2,
+      "text": "第九章 智能时代的工业设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0341",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章为新增章节，近5年分值16-20分，AI辅助设计、设计维度拓展是重点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0342",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：人工智能辅助设计（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0343",
+      "type": "list_item",
+      "level": 0,
+      "text": "AIGC定义：AI生成内容（图像、文本、三维模型、视频）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0344",
+      "type": "list_item",
+      "level": 0,
+      "text": "AI在设计中应用：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0345",
+      "type": "paragraph",
+      "level": 0,
+      "text": "用户洞察：NLP分析用户评论（GPT分析电商评价）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0346",
+      "type": "paragraph",
+      "level": 0,
+      "text": "概念生成：生成式设计（GAN生成产品外观）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0347",
+      "type": "paragraph",
+      "level": 0,
+      "text": "设计优化：拓扑优化（轻量化结构）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0348",
+      "type": "paragraph",
+      "level": 0,
+      "text": "仿真测试：AI驱动人机交互仿真",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0349",
+      "type": "paragraph",
+      "level": 0,
+      "text": "制造准备：智能CAM（AI优化加工路径）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0350",
+      "type": "list_item",
+      "level": 0,
+      "text": "典型案例：Autodesk Dreamcatcher生成汽车造型",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0351",
+      "type": "list_item",
+      "level": 0,
+      "text": "人机协同模式：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0352",
+      "type": "paragraph",
+      "level": 0,
+      "text": "AI为主人类为“编辑”：AI生成方案，人类筛选精炼",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0353",
+      "type": "paragraph",
+      "level": 0,
+      "text": "人类为主AI为“助手”：人类主导，AI执行繁琐任务",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0354",
+      "type": "paragraph",
+      "level": 0,
+      "text": "双向协作循环：相互启发迭代",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0355",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：设计维度拓展（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0356",
+      "type": "list_item",
+      "level": 0,
+      "text": "扩展现实（XR）体系：",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0357",
+      "type": "paragraph",
+      "level": 0,
+      "text": "VR（虚拟现实）：完全沉浸虚拟环境",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0358",
+      "type": "paragraph",
+      "level": 0,
+      "text": "AR（增强现实）：真实世界叠加虚拟信息",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0359",
+      "type": "paragraph",
+      "level": 0,
+      "text": "MR（混合现实）：虚拟与真实深度交互",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0360",
+      "type": "list_item",
+      "level": 0,
+      "text": "工业设计应用：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0361",
+      "type": "paragraph",
+      "level": 0,
+      "text": "概念可视化：奥迪VR内饰评审（周期缩短60%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0362",
+      "type": "paragraph",
+      "level": 0,
+      "text": "装配指导：波音AR指导线缆安装（错误率降低50%）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0363",
+      "type": "paragraph",
+      "level": 0,
+      "text": "零售体验：宜家Place AR看家具",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0364",
+      "type": "list_item",
+      "level": 0,
+      "text": "多模态交互：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0365",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定义：通过多种感官通道（视觉、听觉、触觉）进行信息交换",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0366",
+      "type": "paragraph",
+      "level": 0,
+      "text": "应用：智能座舱（手势+语音+触控）、智能家居（语音+视觉反馈）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0367",
+      "type": "list_item",
+      "level": 0,
+      "text": "情感计算：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0368",
+      "type": "paragraph",
+      "level": 0,
+      "text": "技术：通过面部表情、语音语调、生理信号识别情绪",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0369",
+      "type": "paragraph",
+      "level": 0,
+      "text": "应用：Muse头戴设备（脑电图监测压力）、适应性界面设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0370",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：跨学科与社会创新（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0371",
+      "type": "list_item",
+      "level": 0,
+      "text": "跨学科设计模式：",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0372",
+      "type": "paragraph",
+      "level": 0,
+      "text": "苹果模式：工业设计+软件工程+材料科学+心理学整合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0373",
+      "type": "paragraph",
+      "level": 0,
+      "text": "谷歌ATAP：快速原型文化，设计师+工程师+人类学家",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0374",
+      "type": "list_item",
+      "level": 0,
+      "text": "参与式设计：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0375",
+      "type": "paragraph",
+      "level": 0,
+      "text": "乐高Ideas平台：用户提交创意，获万票后量产",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0376",
+      "type": "paragraph",
+      "level": 0,
+      "text": "小米MIUI论坛：数百万用户参与操作系统设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0377",
+      "type": "list_item",
+      "level": 0,
+      "text": "社会创新设计：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0378",
+      "type": "paragraph",
+      "level": 0,
+      "text": "公平手机（Fairphone）：模块化设计、材料溯源、工人权益",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0379",
+      "type": "paragraph",
+      "level": 0,
+      "text": "微软包容性设计：Xbox自适应控制器",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0380",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计伦理原则：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0381",
+      "type": "paragraph",
+      "level": 0,
+      "text": "透明性、可控性、公平性、问责原则、福祉原则",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0382",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：双碳目标与可持续设计（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0383",
+      "type": "list_item",
+      "level": 0,
+      "text": "双碳目标：2030碳达峰、2060碳中和",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0384",
+      "type": "list_item",
+      "level": 0,
+      "text": "低碳设计策略：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0385",
+      "type": "paragraph",
+      "level": 0,
+      "text": "材料创新（竹材、菌丝体）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0386",
+      "type": "paragraph",
+      "level": 0,
+      "text": "能效提升",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0387",
+      "type": "paragraph",
+      "level": 0,
+      "text": "轻量化设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0388",
+      "type": "paragraph",
+      "level": 0,
+      "text": "延长寿命（可维修、可升级）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0389",
+      "type": "paragraph",
+      "level": 0,
+      "text": "共享设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0390",
+      "type": "list_item",
+      "level": 0,
+      "text": "循环经济设计：",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0391",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Interface地毯“使命零”：模块化设计、废弃渔网回收尼龙、租赁模式",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0392",
+      "type": "paragraph",
+      "level": 0,
+      "text": "特斯拉可持续设计：垂直整合、软件优化效率、太阳能整合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0393",
+      "type": "list_item",
+      "level": 0,
+      "text": "乡村振兴设计：",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0394",
+      "type": "paragraph",
+      "level": 0,
+      "text": "浙江松阳“乡村建筑针灸”：少量精准介入激活村落",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0395",
+      "type": "paragraph",
+      "level": 0,
+      "text": "阿里巴巴“亩产一千美元”：数字技术连接农户与市场",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

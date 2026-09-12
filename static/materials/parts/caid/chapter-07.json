@@ -1,0 +1,1119 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-07",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-045",
+      "title": "第七章 小家电建模渲染实例（剃须刀/电熨斗）（⭐⭐⭐ 综合大题大结局）",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0207",
+        "blk-0208",
+        "blk-0209"
+      ]
+    },
+    {
+      "id": "sec-046",
+      "title": "一、人机工学 → 形态的具体转化（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218"
+      ]
+    },
+    {
+      "id": "sec-047",
+      "title": "二、多材料建模与装配",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224"
+      ]
+    },
+    {
+      "id": "sec-048",
+      "title": "三、防滑纹理的精确贴合",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228"
+      ]
+    },
+    {
+      "id": "sec-049",
+      "title": "四、情境化渲染",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0228",
+        "blk-0229",
+        "blk-0230",
+        "blk-0231",
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237"
+      ]
+    },
+    {
+      "id": "sec-050",
+      "title": "五、高光质感塑造",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0237",
+        "blk-0238",
+        "blk-0239",
+        "blk-0240",
+        "blk-0241",
+        "blk-0242",
+        "blk-0243"
+      ]
+    },
+    {
+      "id": "sec-051",
+      "title": "六、功能分区",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0243",
+        "blk-0244",
+        "blk-0245",
+        "blk-0246",
+        "blk-0247"
+      ]
+    },
+    {
+      "id": "sec-052",
+      "title": "七、安全设计",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0247",
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252"
+      ]
+    },
+    {
+      "id": "sec-053",
+      "title": "八、产品姿态",
+      "level": 2,
+      "parentId": "sec-045",
+      "blockIds": [
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256",
+        "blk-0257"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0207",
+      "type": "heading",
+      "level": 1,
+      "text": "第七章 小家电建模渲染实例（剃须刀/电熨斗）（⭐⭐⭐ 综合大题大结局）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0208",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】把人机工学、多材料建模、情境渲染全部融合，考的就是“综合能力”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0209",
+      "type": "heading",
+      "level": 2,
+      "text": "一、人机工学 → 形态的具体转化（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0210",
+      "type": "quote",
+      "level": 0,
+      "text": "剃须刀手柄为什么是“腰鼓形”？（两头粗、中间细）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0211",
+      "type": "paragraph",
+      "level": 0,
+      "text": "因为人手握拳时，虎口和掌心形成一个“环”，腰鼓形刚好贴合这个环 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0212",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "手的部位",
+        "手柄对应位置",
+        "形状要求"
+      ],
+      "rows": [
+        [
+          "虎口（大拇指和食指之间）",
+          "手柄上端",
+          "饱满贴合，防止前后滑"
+        ],
+        [
+          "掌心（握拳时凹陷处）",
+          "手柄中部",
+          "弧线收窄，刚好卡在掌心里"
+        ],
+        [
+          "小指侧（手掌根部）",
+          "手柄下端",
+          "微翘或加粗，防止脱手"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0213",
+      "type": "paragraph",
+      "level": 0,
+      "text": "怎么用Rhino表达 ？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0214",
+      "type": "list_item",
+      "level": 0,
+      "text": "用 放样 或 双轨扫掠 ，控制断面形状从圆→扁圆→圆的渐变",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0215",
+      "type": "list_item",
+      "level": 0,
+      "text": "用 控制点 拉出腰鼓曲线",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0216",
+      "type": "list_item",
+      "level": 0,
+      "text": "不断用3D打印手板让人握持测试，调整到舒服为止",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0217",
+      "type": "quote",
+      "level": 0,
+      "text": "考试答题模板 ：“该剃须刀手柄采用腰鼓形曲面设计，通过 双轨扫掠 构建从头部到尾部的渐变断面，截面直径变化范围为32mm-28mm-32mm，精确贴合人体虎口与掌心的凹陷区域，并利用 控制点调形 优化握持弧度，有效防止产品在使用中的旋转滑脱。”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0218",
+      "type": "heading",
+      "level": 2,
+      "text": "二、多材料建模与装配",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0219",
+      "type": "quote",
+      "level": 0,
+      "text": "“硬塑骨架 + 软胶皮肤”——这是小家电的经典结构。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0220",
+      "type": "paragraph",
+      "level": 0,
+      "text": "怎么建模？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0221",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "步骤",
+        "操作内容",
+        "Rhino命令"
+      ],
+      "rows": [
+        [
+          "1",
+          "制作硬质ABS塑料内壳（建骨架）",
+          "偏移曲面做薄壁"
+        ],
+        [
+          "2",
+          "在骨架上标记软胶包裹区域",
+          "分割曲面（Split）"
+        ],
+        [
+          "3",
+          "在标记区域覆盖一层TPU软胶",
+          "偏移曲面 + 布尔并集"
+        ],
+        [
+          "4",
+          "留装配间隙：软胶比硬胶缩进去0.1-0.3mm",
+          "偏移曲面（负值）"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0222",
+      "type": "paragraph",
+      "level": 0,
+      "text": "为什么要缩进去0.1-0.3mm？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0223",
+      "type": "quote",
+      "level": 0,
+      "text": "因为软胶（TPU）是二次注塑上去的，必须有“缝”让融化的塑料流进去。如果建模时分件面是零间隙（完全贴死），实际生产时就会“溢胶”或“装不进去”。     这就是工程合理性——建模不是画着好看，是要能生产的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0224",
+      "type": "heading",
+      "level": 2,
+      "text": "三、防滑纹理的精确贴合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0225",
+      "type": "paragraph",
+      "level": 0,
+      "text": "与刨皮刀类似，剃须刀手柄上的软胶防滑纹也要用      “沿曲面流动（FlowAlongSrf）”      命令。流程：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0226",
+      "type": "quote",
+      "level": 0,
+      "text": "画纹理（平面）→ 阵列复制 → 投影到曲面 → 沿曲面流动（贴合）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0227",
+      "type": "paragraph",
+      "level": 0,
+      "text": "纹理一般是菱形或六边形凸点，阵列布满手柄软胶区域，再用Flow命令让纹理跟着手柄的弧度走，完美贴合。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0228",
+      "type": "heading",
+      "level": 2,
+      "text": "四、情境化渲染",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0229",
+      "type": "quote",
+      "level": 0,
+      "text": "“情境化” = 产品不是在“空房间里”拍照，而是在“真实使用场景”里展示。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0230",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "产品",
+        "加什么特效",
+        "为什么"
+      ],
+      "rows": [
+        [
+          "剃须刀",
+          "水珠",
+          "告诉用户“全身水洗”情景暗示功能可视化"
+        ],
+        [
+          "电熨斗",
+          "蒸汽、衣物褶皱",
+          "告诉用户“能熨平衣服”"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0231",
+      "type": "paragraph",
+      "level": 0,
+      "text": "零基础理解     ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0232",
+      "type": "quote",
+      "level": 0,
+      "text": "- 拍美食要加“热气”（看起来刚出锅）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0233",
+      "type": "quote",
+      "level": 0,
+      "text": "- 拍饮料要加“水珠”（看起来冰爽）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0234",
+      "type": "quote",
+      "level": 0,
+      "text": "- 拍剃须刀要加“水珠”（看起来能水洗）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0235",
+      "type": "quote",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0236",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这就是情境化——产品不是在展示“它长什么样”，而是在讲“它怎么用”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0237",
+      "type": "heading",
+      "level": 2,
+      "text": "五、高光质感塑造",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0238",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表现不锈钢底板（如电熨斗底部），要：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0239",
+      "type": "quote",
+      "level": 0,
+      "text": "- 粗糙度 = 0.05-0.15（极低）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0240",
+      "type": "quote",
+      "level": 0,
+      "text": "- 用区域光打出柔和的高光条纹（宽幅连续高光）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0241",
+      "type": "quote",
+      "level": 0,
+      "text": "- 环境反射要丰富，让金属“活”起来",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0242",
+      "type": "paragraph",
+      "level": 0,
+      "text": "重点 ：高光的形状和边缘清晰度，是材质真实感的关键。柔和高光 = 拉丝不锈钢 + 区域光；锐利高光 = 镜面不锈钢 + 小光源（第4章讲过）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0243",
+      "type": "heading",
+      "level": 2,
+      "text": "六、功能分区",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0244",
+      "type": "paragraph",
+      "level": 0,
+      "text": "电熨斗按温度从低到高分三个区域：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0245",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "分区",
+        "位置",
+        "温度范围（单位：℃）",
+        "材料要求"
+      ],
+      "rows": [
+        [
+          "底板（高温区）",
+          "最底部接触衣物",
+          "100-200",
+          "不锈钢，耐高温"
+        ],
+        [
+          "主体（缓冲区）",
+          "中部水箱",
+          "40-60",
+          "透明PC/PP塑料，耐温100℃以上"
+        ],
+        [
+          "手柄（安全区）",
+          "最顶部手握持",
+          "室温-30",
+          "ABS塑料，隔热设计"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0246",
+      "type": "paragraph",
+      "level": 0,
+      "text": "考试逻辑 ：温度高的地方用金属 + 散热结构；安全区用塑料 + 防滑纹理。一切设计从“这地方多烫”出发。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0247",
+      "type": "heading",
+      "level": 2,
+      "text": "七、安全设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0248",
+      "type": "paragraph",
+      "level": 0,
+      "text": "所有外露边缘必须倒圆角（R角）      ——这是基本功中的基本功。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0249",
+      "type": "list_item",
+      "level": 0,
+      "text": "手柄边缘 R≥0.5mm（人手握持舒适）",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0250",
+      "type": "list_item",
+      "level": 0,
+      "text": "锐角必须完全消除，不能有尖角",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0251",
+      "type": "list_item",
+      "level": 0,
+      "text": "按钮和按键的边缘也要倒角，防止划伤手指",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0252",
+      "type": "heading",
+      "level": 2,
+      "text": "八、产品姿态",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0253",
+      "type": "paragraph",
+      "level": 0,
+      "text": "渲染时不要把产品“立正站好”（死板的正视图），要给它一个     生动的角度     ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0254",
+      "type": "list_item",
+      "level": 0,
+      "text": "剃须刀微微倾斜，刀头旋转15° → 暗示“它正在工作”",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0255",
+      "type": "list_item",
+      "level": 0,
+      "text": "电熨斗斜靠在熨衣板上 → 暗示“正在使用中”",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0256",
+      "type": "list_item",
+      "level": 0,
+      "text": "背景加手部模型握持 → 一目了然展示人机关系",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0257",
+      "type": "heading",
+      "level": 1,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

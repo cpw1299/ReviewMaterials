@@ -1,0 +1,946 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-08",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-037",
+      "title": "第八章 装配图",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0324",
+        "blk-0325"
+      ]
+    },
+    {
+      "id": "sec-038",
+      "title": "【8.1 装配图的作用和内容】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0325",
+        "blk-0326",
+        "blk-0327",
+        "blk-0328",
+        "blk-0329",
+        "blk-0330"
+      ]
+    },
+    {
+      "id": "sec-039",
+      "title": "【8.2 装配图的表达方法】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0330",
+        "blk-0331",
+        "blk-0332",
+        "blk-0333",
+        "blk-0334",
+        "blk-0335",
+        "blk-0336",
+        "blk-0337",
+        "blk-0338",
+        "blk-0339"
+      ]
+    },
+    {
+      "id": "sec-040",
+      "title": "【8.3 装配图的尺寸标注和技术要求】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0339",
+        "blk-0340",
+        "blk-0341",
+        "blk-0342",
+        "blk-0343",
+        "blk-0344",
+        "blk-0345",
+        "blk-0346",
+        "blk-0347",
+        "blk-0348"
+      ]
+    },
+    {
+      "id": "sec-041",
+      "title": "【8.4 装配图的零件序号、明细栏和标题栏】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0348",
+        "blk-0349",
+        "blk-0350",
+        "blk-0351",
+        "blk-0352",
+        "blk-0353",
+        "blk-0354",
+        "blk-0355"
+      ]
+    },
+    {
+      "id": "sec-042",
+      "title": "【8.5 装配工艺结构的合理性】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0355",
+        "blk-0356",
+        "blk-0357",
+        "blk-0358",
+        "blk-0359",
+        "blk-0360",
+        "blk-0361"
+      ]
+    },
+    {
+      "id": "sec-043",
+      "title": "【8.6 读装配图并拆画零件图】",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0361",
+        "blk-0362",
+        "blk-0363",
+        "blk-0364",
+        "blk-0365",
+        "blk-0366",
+        "blk-0367",
+        "blk-0368",
+        "blk-0369"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0324",
+      "type": "heading",
+      "level": 1,
+      "text": "第八章 装配图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0325",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.1 装配图的作用和内容】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0326",
+      "type": "heading",
+      "level": 3,
+      "text": "一、装配图的作用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0327",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表达机器或部件的装配关系、工作原理、技术要求",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0328",
+      "type": "heading",
+      "level": 3,
+      "text": "二、装配图的内容",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0329",
+      "type": "paragraph",
+      "level": 0,
+      "text": "一组视图、必要的尺寸、技术要求、零件编号、明细栏和标题栏",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0330",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.2 装配图的表达方法】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0331",
+      "type": "heading",
+      "level": 3,
+      "text": "一、规定画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0332",
+      "type": "paragraph",
+      "level": 0,
+      "text": "相邻零件的接触面或配合面只画一条线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0333",
+      "type": "paragraph",
+      "level": 0,
+      "text": "相邻零件剖面线方向相反或间隔不同",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0334",
+      "type": "paragraph",
+      "level": 0,
+      "text": "紧固件、实心件（轴、球）沿纵向剖切时按不剖处理",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0335",
+      "type": "heading",
+      "level": 3,
+      "text": "二、特殊画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0336",
+      "type": "paragraph",
+      "level": 0,
+      "text": "假想画法：表示运动极限位置，用双点画线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0337",
+      "type": "paragraph",
+      "level": 0,
+      "text": "拆卸画法：假想拆去某零件后画",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0338",
+      "type": "paragraph",
+      "level": 0,
+      "text": "夸大画法：薄片、间隙夸大画",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0339",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.3 装配图的尺寸标注和技术要求】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0340",
+      "type": "heading",
+      "level": 3,
+      "text": "一、装配图的尺寸类型",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0341",
+      "type": "paragraph",
+      "level": 0,
+      "text": "性能（规格）尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0342",
+      "type": "paragraph",
+      "level": 0,
+      "text": "装配尺寸（配合尺寸、相对位置尺寸）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0343",
+      "type": "paragraph",
+      "level": 0,
+      "text": "安装尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0344",
+      "type": "paragraph",
+      "level": 0,
+      "text": "外形尺寸（总长、总宽、总高）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0345",
+      "type": "heading",
+      "level": 3,
+      "text": "二、技术要求",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0346",
+      "type": "paragraph",
+      "level": 0,
+      "text": "装配要求、检验要求、使用要求等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0347",
+      "type": "paragraph",
+      "level": 0,
+      "text": "用文字写在标题栏上方",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0348",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.4 装配图的零件序号、明细栏和标题栏】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0349",
+      "type": "heading",
+      "level": 3,
+      "text": "一、零件序号",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0350",
+      "type": "paragraph",
+      "level": 0,
+      "text": "序号用细实线引出，末端用圆点或箭头",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0351",
+      "type": "paragraph",
+      "level": 0,
+      "text": "序号按顺时针或逆时针方向排列",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0352",
+      "type": "paragraph",
+      "level": 0,
+      "text": "字高比尺寸数字大一倍",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0353",
+      "type": "heading",
+      "level": 3,
+      "text": "二、明细栏",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0354",
+      "type": "paragraph",
+      "level": 0,
+      "text": "填写序号、代号、名称、数量、材料、备注等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0355",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.5 装配工艺结构的合理性】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0356",
+      "type": "paragraph",
+      "level": 0,
+      "text": "合理装配结构：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0357",
+      "type": "paragraph",
+      "level": 0,
+      "text": "接触面转折处应有倒角或圆角",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0358",
+      "type": "paragraph",
+      "level": 0,
+      "text": "便于装拆（如螺栓连接处留扳手空间）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0359",
+      "type": "paragraph",
+      "level": 0,
+      "text": "防松装置（弹簧垫圈、双螺母、开口销等）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0360",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定位结构（销、凸台等）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0361",
+      "type": "heading",
+      "level": 2,
+      "text": "【8.6 读装配图并拆画零件图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0362",
+      "type": "paragraph",
+      "level": 0,
+      "text": "读图步骤：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0363",
+      "type": "list_item",
+      "level": 0,
+      "text": "看标题栏和明细栏",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0364",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析表达方案",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0365",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析装配关系",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0366",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析工作原理",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0367",
+      "type": "list_item",
+      "level": 0,
+      "text": "拆画零件图：分离零件 → 补全结构 → 标注尺寸和技术要求",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0368",
+      "type": "paragraph",
+      "level": 0,
+      "text": "附录一：记忆口诀精选",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0369",
+      "type": "heading",
+      "level": 1,
+      "text": "1. 三视图规律",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

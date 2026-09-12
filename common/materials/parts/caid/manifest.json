@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "caid",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "chapters": [
+    {
+      "id": "caid-chapter-01",
+      "title": "第一章 计算机辅助工业设计概述",
+      "file": "chapter-01.json",
+      "sectionCount": 6,
+      "blockCount": 43
+    },
+    {
+      "id": "caid-chapter-02",
+      "title": "第二章 初识 Rhino 5.0（⭐⭐ 考选择/填空）",
+      "file": "chapter-02.json",
+      "sectionCount": 6,
+      "blockCount": 30
+    },
+    {
+      "id": "caid-chapter-03",
+      "title": "第三章 Rhino 建模基础",
+      "file": "chapter-03.json",
+      "sectionCount": 7,
+      "blockCount": 32
+    },
+    {
+      "id": "caid-chapter-04",
+      "title": "第四章 KeyShot 渲染基础（⭐⭐ 考选择/简答）",
+      "file": "chapter-04.json",
+      "sectionCount": 9,
+      "blockCount": 34
+    },
+    {
+      "id": "caid-chapter-05",
+      "title": "第五章 小产品建模渲染实例（刨皮刀）（⭐⭐⭐ 考简答/综合）",
+      "file": "chapter-05.json",
+      "sectionCount": 8,
+      "blockCount": 26
+    },
+    {
+      "id": "caid-chapter-06",
+      "title": "第六章 数码产品设计实例（打印机/投影仪）（⭐⭐⭐ 考综合）",
+      "file": "chapter-06.json",
+      "sectionCount": 8,
+      "blockCount": 47
+    },
+    {
+      "id": "caid-chapter-07",
+      "title": "第七章 小家电建模渲染实例（剃须刀/电熨斗）（⭐⭐⭐ 综合大题大结局）",
+      "file": "chapter-07.json",
+      "sectionCount": 9,
+      "blockCount": 51
+    },
+    {
+      "id": "caid-chapter-08",
+      "title": "【本章必背一句话总结】",
+      "file": "chapter-08.json",
+      "sectionCount": 4,
+      "blockCount": 23
+    },
+    {
+      "id": "caid-chapter-09",
+      "title": "四、记住这页纸",
+      "file": "chapter-09.json",
+      "sectionCount": 1,
+      "blockCount": 2
+    }
+  ]
+}

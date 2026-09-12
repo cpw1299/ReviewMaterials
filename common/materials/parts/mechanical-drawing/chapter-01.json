@@ -1,0 +1,939 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-01",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "第一章 制图的基本知识",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002"
+      ]
+    },
+    {
+      "id": "sec-002",
+      "title": "【1.1 国家标准的基本规定】",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0002",
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020",
+        "blk-0021",
+        "blk-0022"
+      ]
+    },
+    {
+      "id": "sec-003",
+      "title": "【1.2 几何作图】",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029",
+        "blk-0030",
+        "blk-0031"
+      ]
+    },
+    {
+      "id": "sec-004",
+      "title": "【1.3 平面图形的作图方法及尺寸标注】",
+      "level": 2,
+      "parentId": "sec-001",
+      "blockIds": [
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043",
+        "blk-0044",
+        "blk-0045"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 1,
+      "text": "第一章 制图的基本知识",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 2,
+      "text": "【1.1 国家标准的基本规定】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0003",
+      "type": "heading",
+      "level": 3,
+      "text": "一、图纸幅面",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0004",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A0（841×1189）、A1（594×841）、A2（420×594）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0005",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A3（297×420）、A4（210×297）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0006",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A1面积为A0的一半，依此类推",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0007",
+      "type": "heading",
+      "level": 3,
+      "text": "二、比例",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0008",
+      "type": "paragraph",
+      "level": 0,
+      "text": "原值比例：1:1",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0009",
+      "type": "paragraph",
+      "level": 0,
+      "text": "放大比例：2:1、5:1等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0010",
+      "type": "paragraph",
+      "level": 0,
+      "text": "缩小比例：1:2、1:5等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0011",
+      "type": "heading",
+      "level": 3,
+      "text": "三、字体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0012",
+      "type": "paragraph",
+      "level": 0,
+      "text": "汉字：长仿宋体，高度h≥3.5mm",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0013",
+      "type": "paragraph",
+      "level": 0,
+      "text": "数字和字母：可直体或斜体（斜体字头向右倾斜75°）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0014",
+      "type": "heading",
+      "level": 3,
+      "text": "四、图线（8种常用）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0015",
+      "type": "paragraph",
+      "level": 0,
+      "text": "图线相关信息表",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0016",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "图线名称",
+        "线型",
+        "主要用途"
+      ],
+      "rows": [
+        [
+          "粗实线",
+          "连续粗线",
+          "可见轮廓线"
+        ],
+        [
+          "细实线",
+          "连续细线",
+          "尺寸线、剖面线"
+        ],
+        [
+          "虚线",
+          "断续细线",
+          "不可见轮廓线"
+        ],
+        [
+          "点画线",
+          "细点划线",
+          "轴线、对称中心线"
+        ],
+        [
+          "双点画线",
+          "双点划线",
+          "相邻辅助零件"
+        ],
+        [
+          "波浪线",
+          "波浪线",
+          "断裂边界"
+        ],
+        [
+          "双折线",
+          "双折线",
+          "断裂边界"
+        ],
+        [
+          "粗点画线",
+          "粗点划线",
+          "特殊要求"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0017",
+      "type": "heading",
+      "level": 3,
+      "text": "五、尺寸标注基本规则",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0018",
+      "type": "list_item",
+      "level": 0,
+      "text": "尺寸数字写在尺寸线上方或中断处",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0019",
+      "type": "list_item",
+      "level": 0,
+      "text": "线性尺寸数字：水平朝上，垂直朝左",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0020",
+      "type": "paragraph",
+      "level": 0,
+      "text": "3，角度尺寸线为圆弧，数字水平书写在尺寸线中断处或上方。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0021",
+      "type": "paragraph",
+      "level": 0,
+      "text": "4，直径标\"φ\"，半径标\"R\"，球面标\"Sφ\"或\"SR\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0022",
+      "type": "heading",
+      "level": 2,
+      "text": "【1.2 几何作图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0023",
+      "type": "heading",
+      "level": 3,
+      "text": "一、斜度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0024",
+      "type": "paragraph",
+      "level": 0,
+      "text": "一直线（或平面）对另一直线（或平面）的倾斜程度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0025",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标注为\"∠1:n\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0026",
+      "type": "heading",
+      "level": 3,
+      "text": "二、锥度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0027",
+      "type": "paragraph",
+      "level": 0,
+      "text": "圆锥底面直径与高度之比",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0028",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标注为\"◁1:n\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0029",
+      "type": "heading",
+      "level": 3,
+      "text": "三、圆弧连接",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0030",
+      "type": "paragraph",
+      "level": 0,
+      "text": "关键是准确找出连接圆弧的圆心和切点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0031",
+      "type": "heading",
+      "level": 2,
+      "text": "【1.3 平面图形的作图方法及尺寸标注】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0032",
+      "type": "heading",
+      "level": 3,
+      "text": "一、尺寸分析",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0033",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定形尺寸：确定形状大小的尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0034",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定位尺寸：确定各部分相对位置的尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0035",
+      "type": "paragraph",
+      "level": 0,
+      "text": "尺寸基准：标注定位尺寸的起点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0036",
+      "type": "heading",
+      "level": 3,
+      "text": "二、线段分析",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0037",
+      "type": "paragraph",
+      "level": 0,
+      "text": "已知线段：定形、定位尺寸齐全，可直接画出",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0038",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中间线段：有一个方向定位尺寸缺失",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0039",
+      "type": "paragraph",
+      "level": 0,
+      "text": "连接线段：两个方向定位尺寸均缺失",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0040",
+      "type": "heading",
+      "level": 3,
+      "text": "三、平面图形作图步骤",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0041",
+      "type": "paragraph",
+      "level": 0,
+      "text": "画基准线 → 画已知线段 → 画中间线段 → 画连接线段 → 检查整理",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0042",
+      "type": "heading",
+      "level": 3,
+      "text": "四、徒手绘图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0043",
+      "type": "paragraph",
+      "level": 0,
+      "text": "徒手画直线：眼睛注视终端，手腕悬空，从左到右画",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0044",
+      "type": "paragraph",
+      "level": 0,
+      "text": "徒手画圆：先画中心线，再画正方形，最后画圆",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0045",
+      "type": "heading",
+      "level": 1,
+      "text": "第二章 正投影基本知识",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

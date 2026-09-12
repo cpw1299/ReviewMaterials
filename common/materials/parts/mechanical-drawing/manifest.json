@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "chapters": [
+    {
+      "id": "mechanical-drawing-chapter-01",
+      "title": "第一章 制图的基本知识",
+      "file": "chapter-01.json",
+      "sectionCount": 4,
+      "blockCount": 45
+    },
+    {
+      "id": "mechanical-drawing-chapter-02",
+      "title": "第二章 正投影基本知识",
+      "file": "chapter-02.json",
+      "sectionCount": 5,
+      "blockCount": 56
+    },
+    {
+      "id": "mechanical-drawing-chapter-03",
+      "title": "第三章 基本形体的投影与立体表面交线",
+      "file": "chapter-03.json",
+      "sectionCount": 4,
+      "blockCount": 38
+    },
+    {
+      "id": "mechanical-drawing-chapter-04",
+      "title": "第四章 组合体",
+      "file": "chapter-04.json",
+      "sectionCount": 5,
+      "blockCount": 42
+    },
+    {
+      "id": "mechanical-drawing-chapter-05",
+      "title": "第五章 工程图样的表达方法",
+      "file": "chapter-05.json",
+      "sectionCount": 6,
+      "blockCount": 54
+    },
+    {
+      "id": "mechanical-drawing-chapter-06",
+      "title": "第六章 标准件和常用件",
+      "file": "chapter-06.json",
+      "sectionCount": 6,
+      "blockCount": 50
+    },
+    {
+      "id": "mechanical-drawing-chapter-07",
+      "title": "第七章 零件图",
+      "file": "chapter-07.json",
+      "sectionCount": 6,
+      "blockCount": 45
+    },
+    {
+      "id": "mechanical-drawing-chapter-08",
+      "title": "第八章 装配图",
+      "file": "chapter-08.json",
+      "sectionCount": 7,
+      "blockCount": 46
+    },
+    {
+      "id": "mechanical-drawing-chapter-09",
+      "title": "1. 三视图规律",
+      "file": "chapter-09.json",
+      "sectionCount": 1,
+      "blockCount": 3
+    },
+    {
+      "id": "mechanical-drawing-chapter-10",
+      "title": "2. 螺纹画法",
+      "file": "chapter-10.json",
+      "sectionCount": 1,
+      "blockCount": 3
+    },
+    {
+      "id": "mechanical-drawing-chapter-11",
+      "title": "3. 尺寸标注",
+      "file": "chapter-11.json",
+      "sectionCount": 1,
+      "blockCount": 3
+    },
+    {
+      "id": "mechanical-drawing-chapter-12",
+      "title": "4. 剖视种类",
+      "file": "chapter-12.json",
+      "sectionCount": 1,
+      "blockCount": 3
+    },
+    {
+      "id": "mechanical-drawing-chapter-13",
+      "title": "5. 齿轮参数",
+      "file": "chapter-13.json",
+      "sectionCount": 1,
+      "blockCount": 3
+    },
+    {
+      "id": "mechanical-drawing-chapter-14",
+      "title": "6. 圆锥截交线",
+      "file": "chapter-14.json",
+      "sectionCount": 1,
+      "blockCount": 5
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "chapters": [
+    {
+      "id": "industrial-design-history-chapter-01",
+      "title": "第一章 设计与工业设计",
+      "file": "chapter-01.json",
+      "sectionCount": 1,
+      "blockCount": 29
+    },
+    {
+      "id": "industrial-design-history-chapter-02",
+      "title": "第二章 蒸汽时代的工业与产业",
+      "file": "chapter-02.json",
+      "sectionCount": 1,
+      "blockCount": 38
+    },
+    {
+      "id": "industrial-design-history-chapter-03",
+      "title": "第三章 蒸汽时代的设计变革",
+      "file": "chapter-03.json",
+      "sectionCount": 1,
+      "blockCount": 34
+    },
+    {
+      "id": "industrial-design-history-chapter-04",
+      "title": "第四章 电气时代的工业与产业",
+      "file": "chapter-04.json",
+      "sectionCount": 1,
+      "blockCount": 39
+    },
+    {
+      "id": "industrial-design-history-chapter-05",
+      "title": "第五章 电气时代的设计变革",
+      "file": "chapter-05.json",
+      "sectionCount": 1,
+      "blockCount": 67
+    },
+    {
+      "id": "industrial-design-history-chapter-06",
+      "title": "第六章 信息时代的工业与产业",
+      "file": "chapter-06.json",
+      "sectionCount": 1,
+      "blockCount": 38
+    },
+    {
+      "id": "industrial-design-history-chapter-07",
+      "title": "第七章 信息时代的设计变革",
+      "file": "chapter-07.json",
+      "sectionCount": 1,
+      "blockCount": 49
+    },
+    {
+      "id": "industrial-design-history-chapter-08",
+      "title": "第八章 智能时代的工业技术与应用",
+      "file": "chapter-08.json",
+      "sectionCount": 1,
+      "blockCount": 53
+    },
+    {
+      "id": "industrial-design-history-chapter-09",
+      "title": "第九章 智能时代的工业设计",
+      "file": "chapter-09.json",
+      "sectionCount": 1,
+      "blockCount": 56
+    }
+  ]
+}

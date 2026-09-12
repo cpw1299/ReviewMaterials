@@ -1,0 +1,761 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-03",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-013",
+      "title": "第三章 Rhino 建模基础",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0072",
+        "blk-0073",
+        "blk-0074"
+      ]
+    },
+    {
+      "id": "sec-014",
+      "title": "一、NURBS是什么？（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0074",
+        "blk-0075",
+        "blk-0076",
+        "blk-0077",
+        "blk-0078",
+        "blk-0079",
+        "blk-0080"
+      ]
+    },
+    {
+      "id": "sec-015",
+      "title": "二、曲线的构成要素（⭐⭐ 理解）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0080",
+        "blk-0081",
+        "blk-0082",
+        "blk-0083"
+      ]
+    },
+    {
+      "id": "sec-016",
+      "title": "三、曲线连续性（⭐⭐⭐ 必考！最最重要的概念！）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0083",
+        "blk-0084",
+        "blk-0085",
+        "blk-0086",
+        "blk-0087",
+        "blk-0088",
+        "blk-0089",
+        "blk-0090",
+        "blk-0091",
+        "blk-0092",
+        "blk-0093"
+      ]
+    },
+    {
+      "id": "sec-017",
+      "title": "四、常用的曲线/曲面创建命令（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0093",
+        "blk-0094",
+        "blk-0095",
+        "blk-0096",
+        "blk-0097"
+      ]
+    },
+    {
+      "id": "sec-018",
+      "title": "五、曲面编辑核心命令（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0097",
+        "blk-0098",
+        "blk-0099"
+      ]
+    },
+    {
+      "id": "sec-019",
+      "title": "六、曲线/曲面质量检测工具（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-013",
+      "blockIds": [
+        "blk-0099",
+        "blk-0100",
+        "blk-0101",
+        "blk-0102",
+        "blk-0103"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0072",
+      "type": "heading",
+      "level": 1,
+      "text": "第三章 Rhino 建模基础",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0073",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】Rhino的核心是NURBS曲线，一切模型从曲线开始，曲线决定曲面质量。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0074",
+      "type": "heading",
+      "level": 2,
+      "text": "一、NURBS是什么？（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0075",
+      "type": "paragraph",
+      "level": 0,
+      "text": "NURBS  = Non-Uniform Rational B-Spline（非均匀有理B样条）。不用背全称，但要知道 两大核心优势 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0076",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "优势",
+        "大白话",
+        "为什么重要"
+      ],
+      "rows": [
+        [
+          "数学精确",
+          "电脑算出来就是准的",
+          "模型可以直接拿去CNC加工，不会变形"
+        ],
+        [
+          "局部调整",
+          "拽一个控制点，只影响一小块",
+          "改一个地方不用重做整个模型"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0077",
+      "type": "quote",
+      "level": 0,
+      "text": "零基础理解 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0078",
+      "type": "quote",
+      "level": 0,
+      "text": "把NURBS曲线想象成一根 铁丝 ，上面焊着很多 小磁铁 （控制点）。你推拉其中一块磁铁，只有那附近的铁丝弯了，远处的不动——这就是“局部调整”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0079",
+      "type": "quote",
+      "level": 0,
+      "text": "对比一下：你拉一张 网格纸 （Mesh模型）的一个角，整张纸都会跟着变形，这就是NURBS比网格高级的地方。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0080",
+      "type": "heading",
+      "level": 2,
+      "text": "二、曲线的构成要素（⭐⭐ 理解）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0081",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "要素",
+        "是什么",
+        "大白话"
+      ],
+      "rows": [
+        [
+          "控制点（CV点）",
+          "不在曲线上 ，是用来“拽”曲线的",
+          "像木偶的提线，你拉线，木偶动"
+        ],
+        [
+          "编辑点",
+          "在曲线上 ，曲线必须穿过它",
+          "像串珠子的线，珠子（编辑点）在线上面"
+        ],
+        [
+          "阶数",
+          "数字越高曲线越平滑",
+          "1阶是折线（三角），3阶是平滑曲线（圆），但越高越难控制"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0082",
+      "type": "quote",
+      "level": 0,
+      "text": "举个例子 ：阶数 = 1 是三角形（硬折角），阶数 = 3 是圆形（平滑）。考试不会让你算阶数，但要懂“越高越平滑”这个关系。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0083",
+      "type": "heading",
+      "level": 2,
+      "text": "三、曲线连续性（⭐⭐⭐ 必考！最最重要的概念！）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0084",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这是整个Rhino曲面建模的 命门 ——两条线/两个面怎么“接”才顺滑。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0085",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "级别",
+        "肉眼判定特征",
+        "手感/功能特征",
+        "斑马纹判定特征"
+      ],
+      "rows": [
+        [
+          "G0（位置连续）",
+          "两条线碰在一起了，但有折角",
+          "摸起来有个坎",
+          "斑马纹断开"
+        ],
+        [
+          "G1（切线连续）",
+          "接上了，没有折角，但拐弯的力道变了",
+          "摸起来平滑但视觉上有一条棱",
+          "斑马纹错位但连续"
+        ],
+        [
+          "G2（曲率连续）",
+          "极致平滑，接缝处跟没接一样",
+          "摸不出、看也看不出接缝",
+          "斑马纹完美对齐且平滑"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0086",
+      "type": "quote",
+      "level": 0,
+      "text": "举个例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0087",
+      "type": "quote",
+      "level": 0,
+      "text": "-  G0  = 两节铁轨 没对齐 ，火车过去“哐当”一下",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0088",
+      "type": "quote",
+      "level": 0,
+      "text": "-  G1  = 铁轨 对齐了 ，但接口处有个焊疤，火车过去“咯噔”一下但能走",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0089",
+      "type": "quote",
+      "level": 0,
+      "text": "-  G2  = 铁轨 无缝焊接 ，打磨光滑，火车过去毫无感觉",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0090",
+      "type": "paragraph",
+      "level": 0,
+      "text": "产品应用 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0091",
+      "type": "list_item",
+      "level": 0,
+      "text": "刨皮刀刀刃必须  G1以上  → 否则刮起来“跳刀”，不顺滑",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0092",
+      "type": "list_item",
+      "level": 0,
+      "text": "汽车车身必须  G2  → 否则高级感全无，缝隙一眼就能看出来",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0093",
+      "type": "heading",
+      "level": 2,
+      "text": "四、常用的曲线/曲面创建命令（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0094",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "命令",
+        "使用方法",
+        "适用场景",
+        "示意图理解"
+      ],
+      "rows": [
+        [
+          "放样（Loft）",
+          "选多个横截面曲线 → Rhino自动“撑”出曲面，注意断面方向和顺序要统一，否则会扭转",
+          "做渐变的瓶子、花瓶",
+          "像用一堆不同大小的圆环撑出一个葫芦"
+        ],
+        [
+          "双轨扫掠（Sweep2）�最重点",
+          "选两条轨道曲线（确定走向）+ 多条断面曲线（确定形状）→ Rhino铺面",
+          "做复杂的自由曲面：鼠标、耳机、汽车",
+          "像建桥：两条钢索（轨道）+ 多个横梁（断面）→ 桥面自动生成"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0095",
+      "type": "quote",
+      "level": 0,
+      "text": "双轨扫掠的例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0096",
+      "type": "quote",
+      "level": 0,
+      "text": "做一个鼠标。两条轨道 = 鼠标正面轮廓线和底面轮廓线；断面 = 鼠标头部、中部、尾部的横截面形状。Rhino自动把整个鼠标“皮”给铺出来——这就是双轨扫掠的魔法。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0097",
+      "type": "heading",
+      "level": 2,
+      "text": "五、曲面编辑核心命令（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0098",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "命令",
+        "作用",
+        "适用场景"
+      ],
+      "rows": [
+        [
+          "衔接曲面（MatchSrf）",
+          "把两个曲面粘起来，可设G1/G2连续",
+          "做高端产品曲面拼接"
+        ],
+        [
+          "混接曲面（BlendSrf）",
+          "在两个曲面之间“桥接”出一个过渡面",
+          "做柔和的形态过渡"
+        ],
+        [
+          "曲面圆角（FilletSrf）",
+          "给棱角倒圆",
+          "所有产品都必须倒角，否则割手"
+        ],
+        [
+          "偏移曲面（OffsetSrf）",
+          "做一个平行的“复制品”，保持固定距离",
+          "做薄壳、抽壳，实现轻量化"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0099",
+      "type": "heading",
+      "level": 2,
+      "text": "六、曲线/曲面质量检测工具（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0100",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "工具",
+        "检测维度",
+        "合格判定标准"
+      ],
+      "rows": [
+        [
+          "曲率梳",
+          "曲线的平滑度",
+          "梳齿均匀顺滑，没有突变"
+        ],
+        [
+          "斑马纹分析",
+          "曲面的连续性",
+          "条纹顺滑连续，没有断开或错位"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0101",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0102",
+      "type": "quote",
+      "level": 0,
+      "text": "NURBS两大优势：精确 + 局部调整；连续性三兄弟：G0（碰一起但折角）、G1（平滑接但有棱）、G2（完美无缝，斑马纹对齐）；曲面两大招：放样（撑出来）和双轨扫掠（沿轨道铺出来）。高端曲面看G2，双轨扫掠是神器。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0103",
+      "type": "heading",
+      "level": 1,
+      "text": "第四章 KeyShot 渲染基础（⭐⭐ 考选择/简答）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-03",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-010",
+      "title": "第三章 基本形体的投影与立体表面交线",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0100",
+        "blk-0101"
+      ]
+    },
+    {
+      "id": "sec-011",
+      "title": "【3.1 平面立体的投影】",
+      "level": 2,
+      "parentId": "sec-010",
+      "blockIds": [
+        "blk-0101",
+        "blk-0102",
+        "blk-0103",
+        "blk-0104",
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109",
+        "blk-0110",
+        "blk-0111"
+      ]
+    },
+    {
+      "id": "sec-012",
+      "title": "【3.2 曲面立体的投影】",
+      "level": 2,
+      "parentId": "sec-010",
+      "blockIds": [
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121",
+        "blk-0122",
+        "blk-0123",
+        "blk-0124",
+        "blk-0125",
+        "blk-0126",
+        "blk-0127"
+      ]
+    },
+    {
+      "id": "sec-013",
+      "title": "【3.3 立体与立体相交】",
+      "level": 2,
+      "parentId": "sec-010",
+      "blockIds": [
+        "blk-0127",
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136",
+        "blk-0137"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0100",
+      "type": "heading",
+      "level": 1,
+      "text": "第三章 基本形体的投影与立体表面交线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0101",
+      "type": "heading",
+      "level": 2,
+      "text": "【3.1 平面立体的投影】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0102",
+      "type": "heading",
+      "level": 3,
+      "text": "一、棱柱",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0103",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影特点：上下底面为多边形（反映实形），棱线为垂直线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0104",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表面取点：利用积聚性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0105",
+      "type": "heading",
+      "level": 3,
+      "text": "二、棱锥",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0106",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影特点：底面为多边形，侧面为三角形",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0107",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表面取点：辅助线法（过锥顶作辅助线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0108",
+      "type": "heading",
+      "level": 3,
+      "text": "三、平面体切割（截交线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0109",
+      "type": "paragraph",
+      "level": 0,
+      "text": "截交线是封闭的平面多边形",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0110",
+      "type": "paragraph",
+      "level": 0,
+      "text": "作图步骤：求交点 → 连点 → 判断可见性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0111",
+      "type": "heading",
+      "level": 2,
+      "text": "【3.2 曲面立体的投影】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0112",
+      "type": "heading",
+      "level": 3,
+      "text": "一、圆柱",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0113",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形成：母线绕平行轴线旋转",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0114",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影：一个圆（积聚性）+ 两个矩形",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0115",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表面取点：利用积聚性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0116",
+      "type": "heading",
+      "level": 3,
+      "text": "二、圆锥",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0117",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形成：母线绕相交轴线旋转",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0118",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影：一个圆 + 两个三角形",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0119",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表面取点：辅助素线法、辅助圆法（纬圆法）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0120",
+      "type": "heading",
+      "level": 3,
+      "text": "三、球体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0121",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形成：半圆绕直径旋转",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0122",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影：三个投影均为等径圆",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0123",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表面取点：辅助圆法（水平圆、正平圆、侧平圆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0124",
+      "type": "heading",
+      "level": 3,
+      "text": "四、曲面体切割（截交线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0125",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形体截交线信息表",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0126",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "形体",
+        "截平面位置",
+        "截交线形状"
+      ],
+      "rows": [
+        [
+          "圆柱",
+          "平行于轴线",
+          "矩形"
+        ],
+        [
+          "圆柱",
+          "垂直于轴线",
+          "圆"
+        ],
+        [
+          "圆柱",
+          "倾斜于轴线",
+          "椭圆"
+        ],
+        [
+          "圆锥",
+          "垂直于轴线",
+          "圆"
+        ],
+        [
+          "圆锥",
+          "倾斜(θ>α)",
+          "椭圆"
+        ],
+        [
+          "圆锥",
+          "平行于素线(θ=α)",
+          "抛物线"
+        ],
+        [
+          "圆锥",
+          "平行于轴线(θ=0)",
+          "双曲线"
+        ],
+        [
+          "圆锥",
+          "过锥顶",
+          "三角形"
+        ],
+        [
+          "球体",
+          "任意",
+          "圆"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0127",
+      "type": "heading",
+      "level": 2,
+      "text": "【3.3 立体与立体相交】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0128",
+      "type": "heading",
+      "level": 3,
+      "text": "一、相贯线概念",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0129",
+      "type": "paragraph",
+      "level": 0,
+      "text": "两立体表面相交产生的交线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0130",
+      "type": "heading",
+      "level": 3,
+      "text": "二、相贯线性质",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0131",
+      "type": "paragraph",
+      "level": 0,
+      "text": "封闭的空间曲线（一般情况）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0132",
+      "type": "paragraph",
+      "level": 0,
+      "text": "共有线（同时属于两立体表面）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0133",
+      "type": "heading",
+      "level": 3,
+      "text": "三、特殊情况",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0134",
+      "type": "paragraph",
+      "level": 0,
+      "text": "两等径圆柱正交时，相贯线为两个垂直的椭圆",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0135",
+      "type": "heading",
+      "level": 3,
+      "text": "四、求相贯线的方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0136",
+      "type": "paragraph",
+      "level": 0,
+      "text": "积聚性法、辅助平面法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0137",
+      "type": "heading",
+      "level": 1,
+      "text": "第四章 组合体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-02",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-005",
+      "title": "第二章 正投影基本知识",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0045",
+        "blk-0046"
+      ]
+    },
+    {
+      "id": "sec-006",
+      "title": "【2.1 三投影面体系与三视图】",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0046",
+        "blk-0047",
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059"
+      ]
+    },
+    {
+      "id": "sec-007",
+      "title": "【2.2 点的投影】",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0059",
+        "blk-0060",
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066",
+        "blk-0067",
+        "blk-0068",
+        "blk-0069"
+      ]
+    },
+    {
+      "id": "sec-008",
+      "title": "【2.3 直线的投影】",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0069",
+        "blk-0070",
+        "blk-0071",
+        "blk-0072",
+        "blk-0073",
+        "blk-0074",
+        "blk-0075",
+        "blk-0076",
+        "blk-0077",
+        "blk-0078",
+        "blk-0079",
+        "blk-0080",
+        "blk-0081",
+        "blk-0082",
+        "blk-0083",
+        "blk-0084",
+        "blk-0085",
+        "blk-0086",
+        "blk-0087",
+        "blk-0088",
+        "blk-0089",
+        "blk-0090"
+      ]
+    },
+    {
+      "id": "sec-009",
+      "title": "【2.4 平面的投影】",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0090",
+        "blk-0091",
+        "blk-0092",
+        "blk-0093",
+        "blk-0094",
+        "blk-0095",
+        "blk-0096",
+        "blk-0097",
+        "blk-0098",
+        "blk-0099",
+        "blk-0100"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0045",
+      "type": "heading",
+      "level": 1,
+      "text": "第二章 正投影基本知识",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0046",
+      "type": "heading",
+      "level": 2,
+      "text": "【2.1 三投影面体系与三视图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0047",
+      "type": "heading",
+      "level": 3,
+      "text": "一、三投影面体系",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0048",
+      "type": "paragraph",
+      "level": 0,
+      "text": "V 面（正立投影面）→ 主视图（从前向后看）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "H面（水平投影面）→ 俯视图（从上向下看）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0050",
+      "type": "paragraph",
+      "level": 0,
+      "text": "W面（侧立投影面）→ 左视图（从左向右看）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0051",
+      "type": "heading",
+      "level": 3,
+      "text": "二、三视图投影规律（重点记忆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0052",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【长对正】：主、俯视图长度相等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0053",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【高平齐】：主、左视图高度相等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0054",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【宽相等】：俯、左视图宽度相等",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0055",
+      "type": "heading",
+      "level": 3,
+      "text": "三、方位对应关系",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0056",
+      "type": "paragraph",
+      "level": 0,
+      "text": "主视图：反映上下、左右",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0057",
+      "type": "paragraph",
+      "level": 0,
+      "text": "俯视图：反映左右、前后",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0058",
+      "type": "paragraph",
+      "level": 0,
+      "text": "左视图：反映上下、前后",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0059",
+      "type": "heading",
+      "level": 2,
+      "text": "【2.2 点的投影】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0060",
+      "type": "heading",
+      "level": 3,
+      "text": "一、点的三面投影",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0061",
+      "type": "paragraph",
+      "level": 0,
+      "text": "空间点A(x,y,z) → 正面投影 a'、水平投影 a、侧面投影 a''",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0062",
+      "type": "heading",
+      "level": 3,
+      "text": "二、点的投影规律",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0063",
+      "type": "paragraph",
+      "level": 0,
+      "text": "a a' ⊥ OX轴",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0064",
+      "type": "paragraph",
+      "level": 0,
+      "text": "a' a\" ⊥ OZ轴",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0065",
+      "type": "heading",
+      "level": 3,
+      "text": "三、重影点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0066",
+      "type": "paragraph",
+      "level": 0,
+      "text": "空间两点在某投影面上的投影重合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0067",
+      "type": "paragraph",
+      "level": 0,
+      "text": "判断可见性：坐标值大的可见",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0068",
+      "type": "paragraph",
+      "level": 0,
+      "text": "不可见的点加括号表示",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0069",
+      "type": "heading",
+      "level": 2,
+      "text": "【2.3 直线的投影】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0070",
+      "type": "heading",
+      "level": 3,
+      "text": "一、直线分类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0071",
+      "type": "heading",
+      "level": 4,
+      "text": "1. 投影面平行线（平行于一个投影面）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0072",
+      "type": "list_item",
+      "level": 0,
+      "text": "水平线（∥H）：水平投影反映实长",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0073",
+      "type": "list_item",
+      "level": 0,
+      "text": "正平线（∥V）：正面投影反映实长",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0074",
+      "type": "list_item",
+      "level": 0,
+      "text": "侧平线（∥W）：侧面投影反映实长",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0075",
+      "type": "heading",
+      "level": 4,
+      "text": "2. 投影面垂直线（垂直于一个投影面）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0076",
+      "type": "list_item",
+      "level": 0,
+      "text": "铅垂线（⊥H）：水平投影积聚为点",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0077",
+      "type": "list_item",
+      "level": 0,
+      "text": "正垂线（⊥V）：正面投影积聚为点",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0078",
+      "type": "list_item",
+      "level": 0,
+      "text": "侧垂线（⊥W）：侧面投影积聚为点",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0079",
+      "type": "heading",
+      "level": 4,
+      "text": "3. 一般位置直线：三个投影均倾斜",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0080",
+      "type": "heading",
+      "level": 3,
+      "text": "二、直线上的点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0081",
+      "type": "paragraph",
+      "level": 0,
+      "text": "点的投影在直线的同面投影上，且符合定比性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0082",
+      "type": "heading",
+      "level": 3,
+      "text": "三、两直线相对位置",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0083",
+      "type": "paragraph",
+      "level": 0,
+      "text": "平行、相交、交叉",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0084",
+      "type": "heading",
+      "level": 3,
+      "text": "四、直角投影定理",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0085",
+      "type": "paragraph",
+      "level": 0,
+      "text": "两直线垂直（相交或交叉），且其中一条平行于某投影面时",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0086",
+      "type": "paragraph",
+      "level": 0,
+      "text": "在该投影面上的投影仍垂直",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0087",
+      "type": "heading",
+      "level": 3,
+      "text": "五、直角三角形法求实长",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0088",
+      "type": "paragraph",
+      "level": 0,
+      "text": "直角三角形相关参数表格",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0089",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "所求参数",
+        "计算所需条件"
+      ],
+      "rows": [
+        [
+          "实长及与H面夹角α",
+          "水平投影长 + z坐标差"
+        ],
+        [
+          "实长及与V面夹角β",
+          "正面投影长 + y坐标差"
+        ],
+        [
+          "实长及与W面夹角γ",
+          "侧面投影长 + x坐标差"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0090",
+      "type": "heading",
+      "level": 2,
+      "text": "【2.4 平面的投影】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0091",
+      "type": "heading",
+      "level": 3,
+      "text": "一、各种位置平面的投影特点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0092",
+      "type": "paragraph",
+      "level": 0,
+      "text": "平面类型与投影特性表",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0093",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "平面类型",
+        "投影特性"
+      ],
+      "rows": [
+        [
+          "水平面(∥H)",
+          "水平投影反映实形"
+        ],
+        [
+          "正平面(∥V)",
+          "正面投影反映实形"
+        ],
+        [
+          "侧平面(∥W)",
+          "侧面投影反映实形"
+        ],
+        [
+          "铅垂面(⊥H)",
+          "水平投影积聚为斜线"
+        ],
+        [
+          "正垂面(⊥V)",
+          "正面投影积聚为斜线"
+        ],
+        [
+          "侧垂面(⊥W)",
+          "侧面投影积聚为斜线"
+        ],
+        [
+          "一般位置平面",
+          "三个投影均为类似形"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0094",
+      "type": "heading",
+      "level": 3,
+      "text": "二、平面上的点和直线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0095",
+      "type": "paragraph",
+      "level": 0,
+      "text": "点在平面上：必在该平面的一条直线上",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0096",
+      "type": "paragraph",
+      "level": 0,
+      "text": "直线在平面上：过平面上的两点，或过一点平行于平面上一直线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0097",
+      "type": "heading",
+      "level": 3,
+      "text": "三、应用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0098",
+      "type": "paragraph",
+      "level": 0,
+      "text": "直线与平面相交：求交点，判断可见性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0099",
+      "type": "paragraph",
+      "level": 0,
+      "text": "平面与平面相交：求交线，判断可见性",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0100",
+      "type": "heading",
+      "level": 1,
+      "text": "第三章 基本形体的投影与立体表面交线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

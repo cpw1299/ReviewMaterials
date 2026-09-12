@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-14",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-049",
+      "title": "6. 圆锥截交线",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0379",
+        "blk-0380",
+        "blk-0381",
+        "blk-0382",
+        "blk-0383"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0379",
+      "type": "heading",
+      "level": 1,
+      "text": "6. 圆锥截交线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0380",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"圆竖椭圆斜，平行素线抛，平行轴线双，过锥顶三角\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0381",
+      "type": "paragraph",
+      "level": 0,
+      "text": "附录二：常见错误与避免方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0382",
+      "type": "paragraph",
+      "level": 0,
+      "text": "错误类型及避免方法表",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0383",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "错误类型",
+        "避免方法"
+      ],
+      "rows": [
+        [
+          "投影关系错误",
+          "牢记\"长对正、高平齐、宽相等\""
+        ],
+        [
+          "线型混淆",
+          "粗实线0.7mm，细实线0.25mm"
+        ],
+        [
+          "剖视中虚线滥用",
+          "剖视后虚线一般不画"
+        ],
+        [
+          "尺寸标注重复遗漏",
+          "先分析定形、定位尺寸，避免封闭尺寸链"
+        ],
+        [
+          "螺纹画法错误",
+          "记住口诀\"外大粗内小细，内小粗大细\""
+        ],
+        [
+          "三视图方位混乱",
+          "俯视图前边在下，后边在上"
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

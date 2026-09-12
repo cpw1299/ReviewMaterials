@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "product-design",
+  "title": "产品设计程序与复习资料",
+  "subject": "产品设计程序",
+  "chapters": [
+    {
+      "id": "product-design-chapter-01",
+      "title": "第一章 产品设计与设计学",
+      "file": "chapter-01.json",
+      "sectionCount": 6,
+      "blockCount": 183
+    }
+  ]
+}

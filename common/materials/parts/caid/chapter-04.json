@@ -1,0 +1,839 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-04",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-020",
+      "title": "第四章 KeyShot 渲染基础（⭐⭐ 考选择/简答）",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0103",
+        "blk-0104",
+        "blk-0105"
+      ]
+    },
+    {
+      "id": "sec-021",
+      "title": "一、PBR是什么？（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109"
+      ]
+    },
+    {
+      "id": "sec-022",
+      "title": "二、四大核心材质参数",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0109",
+        "blk-0110",
+        "blk-0111"
+      ]
+    },
+    {
+      "id": "sec-023",
+      "title": "三、三大基础材质",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117"
+      ]
+    },
+    {
+      "id": "sec-024",
+      "title": "四、五大贴图类型/映射模式",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121"
+      ]
+    },
+    {
+      "id": "sec-025",
+      "title": "五、【项目】面板五大选项卡（⭐⭐）",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0121",
+        "blk-0122",
+        "blk-0123"
+      ]
+    },
+    {
+      "id": "sec-026",
+      "title": "六、渲染设置关键参数（⭐⭐）",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0123",
+        "blk-0124",
+        "blk-0125"
+      ]
+    },
+    {
+      "id": "sec-027",
+      "title": "七、灯光材质（⭐⭐）",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0125",
+        "blk-0126",
+        "blk-0127",
+        "blk-0128"
+      ]
+    },
+    {
+      "id": "sec-028",
+      "title": "八、关于硅胶材质的特别提醒",
+      "level": 2,
+      "parentId": "sec-020",
+      "blockIds": [
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0103",
+      "type": "heading",
+      "level": 1,
+      "text": "第四章 KeyShot 渲染基础（⭐⭐ 考选择/简答）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0104",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】告诉电脑“这是什么材料”，电脑按真实物理规则算出光效（PBR）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0105",
+      "type": "heading",
+      "level": 2,
+      "text": "一、PBR是什么？（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0106",
+      "type": "paragraph",
+      "level": 0,
+      "text": "PBR  = Physically Based Rendering（基于物理的渲染）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0107",
+      "type": "quote",
+      "level": 0,
+      "text": "大白话 ：以前的渲染是你手动调“高光有多亮”“反射有多强”，全靠经验和手感。PBR是 你告诉电脑这是什么材料（比如不锈钢），电脑根据真实物理公式自动算出它应该怎么反射、怎么折射 。你只需要调“粗糙度”这种物理参数就行。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0108",
+      "type": "paragraph",
+      "level": 0,
+      "text": "比如你调粗糙度=0.1，电脑自动给出“亮面金属”的效果；调粗糙度=0.8，自动给出“磨砂金属”的效果。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0109",
+      "type": "heading",
+      "level": 2,
+      "text": "二、四大核心材质参数",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0110",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "参数",
+        "控制什么",
+        "数值/例子"
+      ],
+      "rows": [
+        [
+          "漫反射",
+          "物体本来的固有色",
+          "红色塑料就是红色漫反射"
+        ],
+        [
+          "粗糙度",
+          "表面光滑还是磨砂",
+          "0=镜面（光可鉴人），1=粗砂纸（完全哑光）"
+        ],
+        [
+          "折射率（IOR）",
+          "光线穿过透明物体时怎么“拐弯”",
+          "空气=1.0，水≈1.33，玻璃≈1.5，钻石≈2.4"
+        ],
+        [
+          "凹凸/法线",
+          "表面纹理（用贴图“骗”眼睛）",
+          "模型的几何不变，但看起来有荔枝纹、木纹"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0111",
+      "type": "heading",
+      "level": 2,
+      "text": "三、三大基础材质",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0112",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "材质",
+        "关键参数",
+        "适合用途"
+      ],
+      "rows": [
+        [
+          "塑料",
+          "漫反射 + 粗糙度",
+          "绝大多数产品外壳"
+        ],
+        [
+          "金属",
+          "漫反射（基础色）+ 粗糙度（极低）+ 环境反射",
+          "不锈钢、铝、铜"
+        ],
+        [
+          "玻璃",
+          "IOR（折射率）最关键 + 粗糙度",
+          "透明产品、镜头、灯泡"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0113",
+      "type": "quote",
+      "level": 0,
+      "text": "举个例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0114",
+      "type": "quote",
+      "level": 0,
+      "text": "- 一个 磨砂白色塑料壳 ：漫反射=白色，粗糙度=0.4",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0115",
+      "type": "quote",
+      "level": 0,
+      "text": "- 一个 亮面不锈钢 ：漫反射=银灰色，粗糙度=0.05，环境光要丰富才好看",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0116",
+      "type": "quote",
+      "level": 0,
+      "text": "- 一个 透明玻璃杯 ：IOR=1.5，粗糙度=0，折射打开",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0117",
+      "type": "heading",
+      "level": 2,
+      "text": "四、五大贴图类型/映射模式",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0118",
+      "type": "paragraph",
+      "level": 0,
+      "text": "贴图就是把一张平面图片“包”到3D模型上。不同类型的映射适合不同形状：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0119",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "映射类型",
+        "适用形状",
+        "示例"
+      ],
+      "rows": [
+        [
+          "平面映射",
+          "平面或轻微弧面",
+          "平面上的Logo"
+        ],
+        [
+          "盒映射",
+          "方方正正的盒子",
+          "包装盒六个面"
+        ],
+        [
+          "球形映射",
+          "球体",
+          "地球仪、球类"
+        ],
+        [
+          "圆柱形映射",
+          "圆柱体",
+          "保温杯的标签、瓶子"
+        ],
+        [
+          "UV映射",
+          "不规则自由曲面",
+          "鼠标上的防滑纹理"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0120",
+      "type": "quote",
+      "level": 0,
+      "text": "记住这个例子 ：给保温杯贴一圈标签 → 用 圆柱形映射 。这是考试最爱考的场景。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0121",
+      "type": "heading",
+      "level": 2,
+      "text": "五、【项目】面板五大选项卡（⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0122",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "选项卡",
+        "管理内容"
+      ],
+      "rows": [
+        [
+          "场景",
+          "模型本身 + 环境背景"
+        ],
+        [
+          "材质",
+          "给模型赋什么材料"
+        ],
+        [
+          "环境",
+          "灯光怎么打、HDR环境图"
+        ],
+        [
+          "相机",
+          "从哪个角度看、焦距、景深"
+        ],
+        [
+          "图像",
+          "输出分辨率、曝光、对比度"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0123",
+      "type": "heading",
+      "level": 2,
+      "text": "六、渲染设置关键参数（⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0124",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "参数",
+        "作用",
+        "注意事项"
+      ],
+      "rows": [
+        [
+          "分辨率",
+          "图片大小（像素）",
+          "1920×1080是高清，4000×4000是印刷级"
+        ],
+        [
+          "采样值",
+          "越高噪点越少、越清晰",
+          "越高渲染越慢，一般设置50-200"
+        ],
+        [
+          "降噪",
+          "自动去除噪点",
+          "开启后效率大增，建议开启"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0125",
+      "type": "heading",
+      "level": 2,
+      "text": "七、灯光材质（⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0126",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "灯光类型",
+        "效果",
+        "适用场景"
+      ],
+      "rows": [
+        [
+          "区域光",
+          "柔和阴影，像摄影棚柔光箱",
+          "最常用，室内产品打光首选"
+        ],
+        [
+          "针状光/小点光",
+          "锐利高光，阴影硬",
+          "表现不锈钢镜面的锐利反射"
+        ],
+        [
+          "HDR环境光",
+          "模拟真实环境的全局光照",
+          "产品渲染最常用的光照方式"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0127",
+      "type": "quote",
+      "level": 0,
+      "text": "重要更正 ：如果要表现 不锈钢高光条纹（锐利的）  ，用 针状光 或 小半径点光 ，不是区域光！区域光出的是柔和高光。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0128",
+      "type": "heading",
+      "level": 2,
+      "text": "八、关于硅胶材质的特别提醒",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0129",
+      "type": "quote",
+      "level": 0,
+      "text": "很多同学会写“硅胶 = 塑料材质 + 次表面散射（SSS）” —— 这是错的！",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0130",
+      "type": "paragraph",
+      "level": 0,
+      "text": "KeyShot标准 “塑料”材质没有SSS通道 。正确做法是：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0131",
+      "type": "quote",
+      "level": 0,
+      "text": "- 使用  “半透明材质（Translucent）” 或  “漫反射材质（Diffuse）”  并开启SSS",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0132",
+      "type": "quote",
+      "level": 0,
+      "text": "- 或者直接用材质库里的  “软胶（Silicone/Soft Touch）”  预设",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0133",
+      "type": "quote",
+      "level": 0,
+      "text": "硅胶的特点是半透明、亲肤、光线能透进去一点点，所以要用SSS来模拟那种“透光感”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0134",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0135",
+      "type": "quote",
+      "level": 0,
+      "text": "KeyShot核心是PBR（物理渲染）；材质四大参数 = 漫反射（固有色）+ 粗糙度（光滑/磨砂）+ IOR（折射率）+ 凹凸（纹理）；三大材质 = 塑料 + 金属 + 玻璃；贴保温杯标签用 圆柱形映射 ；硅胶用半透明材质（带SSS），不是塑料。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0136",
+      "type": "heading",
+      "level": 1,
+      "text": "第五章 小产品建模渲染实例（刨皮刀）（⭐⭐⭐ 考简答/综合）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

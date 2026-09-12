@@ -1,0 +1,1089 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-05",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-019",
+      "title": "第五章 工程图样的表达方法",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0178",
+        "blk-0179"
+      ]
+    },
+    {
+      "id": "sec-020",
+      "title": "【5.1 视图】",
+      "level": 2,
+      "parentId": "sec-019",
+      "blockIds": [
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191",
+        "blk-0192"
+      ]
+    },
+    {
+      "id": "sec-021",
+      "title": "【5.2 剖视图】",
+      "level": 2,
+      "parentId": "sec-019",
+      "blockIds": [
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202",
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207",
+        "blk-0208",
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212"
+      ]
+    },
+    {
+      "id": "sec-022",
+      "title": "【5.3 断面图】",
+      "level": 2,
+      "parentId": "sec-019",
+      "blockIds": [
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221"
+      ]
+    },
+    {
+      "id": "sec-023",
+      "title": "【5.4 规定画法和简化画法】",
+      "level": 2,
+      "parentId": "sec-019",
+      "blockIds": [
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228",
+        "blk-0229"
+      ]
+    },
+    {
+      "id": "sec-024",
+      "title": "【5.5 局部放大图】",
+      "level": 2,
+      "parentId": "sec-019",
+      "blockIds": [
+        "blk-0229",
+        "blk-0230",
+        "blk-0231"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0178",
+      "type": "heading",
+      "level": 1,
+      "text": "第五章 工程图样的表达方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0179",
+      "type": "heading",
+      "level": 2,
+      "text": "【5.1 视图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0180",
+      "type": "heading",
+      "level": 3,
+      "text": "一、基本视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0181",
+      "type": "paragraph",
+      "level": 0,
+      "text": "主、俯、左、右、仰、后六个视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0182",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中国采用第一角画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0183",
+      "type": "heading",
+      "level": 3,
+      "text": "二、向视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0184",
+      "type": "paragraph",
+      "level": 0,
+      "text": "可以自由配置的基本视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0185",
+      "type": "paragraph",
+      "level": 0,
+      "text": "需标注投影方向和名称",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0186",
+      "type": "heading",
+      "level": 3,
+      "text": "三、局部视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0187",
+      "type": "paragraph",
+      "level": 0,
+      "text": "只画机件某一部分",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0188",
+      "type": "paragraph",
+      "level": 0,
+      "text": "用波浪线或双折线断开",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0189",
+      "type": "heading",
+      "level": 3,
+      "text": "四、斜视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0190",
+      "type": "paragraph",
+      "level": 0,
+      "text": "表达倾斜结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0191",
+      "type": "paragraph",
+      "level": 0,
+      "text": "向不平行于基本投影面的平面投影",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0192",
+      "type": "heading",
+      "level": 2,
+      "text": "【5.2 剖视图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0193",
+      "type": "heading",
+      "level": 3,
+      "text": "一、剖视图概念",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0194",
+      "type": "paragraph",
+      "level": 0,
+      "text": "假想用剖切平面剖开机件",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0195",
+      "type": "paragraph",
+      "level": 0,
+      "text": "移去观察者与剖切面之间的部分",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0196",
+      "type": "paragraph",
+      "level": 0,
+      "text": "画出剩余部分的投影",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0197",
+      "type": "heading",
+      "level": 3,
+      "text": "二、剖面符号",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0198",
+      "type": "paragraph",
+      "level": 0,
+      "text": "金属材料用45°细实线（同一零件方向一致）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0199",
+      "type": "heading",
+      "level": 3,
+      "text": "三、剖视图种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0200",
+      "type": "paragraph",
+      "level": 0,
+      "text": "全剖视图：用剖切平面完全剖开机件",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0201",
+      "type": "paragraph",
+      "level": 0,
+      "text": "半剖视图：一半画剖视，一半画视图（用于对称机件）注意：当轮廓线与细点画线重合时，分界线应改用波浪线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0202",
+      "type": "paragraph",
+      "level": 0,
+      "text": "局部剖视图：局部剖开，用波浪线分界",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0203",
+      "type": "heading",
+      "level": 3,
+      "text": "四、剖切面的种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0204",
+      "type": "paragraph",
+      "level": 0,
+      "text": "单一剖切面",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0205",
+      "type": "paragraph",
+      "level": 0,
+      "text": "几个平行的剖切平面（阶梯剖）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0206",
+      "type": "paragraph",
+      "level": 0,
+      "text": "几个相交的剖切平面（旋转剖）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0207",
+      "type": "heading",
+      "level": 3,
+      "text": "五、剖视图标注",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0208",
+      "type": "paragraph",
+      "level": 0,
+      "text": "剖切符号（粗短线表示剖切位置，箭头表示投影方向）+ 字母",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0209",
+      "type": "heading",
+      "level": 3,
+      "text": "六、注意事项",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0210",
+      "type": "paragraph",
+      "level": 0,
+      "text": "剖切面后的可见部分都要画出",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0211",
+      "type": "paragraph",
+      "level": 0,
+      "text": "虚线一般不画（除非表达需要）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0212",
+      "type": "heading",
+      "level": 2,
+      "text": "【5.3 断面图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0213",
+      "type": "heading",
+      "level": 3,
+      "text": "一、断面图概念",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0214",
+      "type": "paragraph",
+      "level": 0,
+      "text": "仅画出剖切面与机件接触部分的图形",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0215",
+      "type": "heading",
+      "level": 3,
+      "text": "二、断面图与剖视图的区别",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0216",
+      "type": "paragraph",
+      "level": 0,
+      "text": "断面图：只画断面形状",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0217",
+      "type": "paragraph",
+      "level": 0,
+      "text": "剖视图：还要画断面后的结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0218",
+      "type": "heading",
+      "level": 3,
+      "text": "三、分类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0219",
+      "type": "paragraph",
+      "level": 0,
+      "text": "移出断面：画在视图之外，轮廓用粗实线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0220",
+      "type": "paragraph",
+      "level": 0,
+      "text": "重合断面：画在视图之内，轮廓用细实线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0221",
+      "type": "heading",
+      "level": 2,
+      "text": "【5.4 规定画法和简化画法】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0222",
+      "type": "heading",
+      "level": 3,
+      "text": "一、规定画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0223",
+      "type": "paragraph",
+      "level": 0,
+      "text": "肋板、轮辐在剖视图中不画剖面线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0224",
+      "type": "paragraph",
+      "level": 0,
+      "text": "剖切平面沿纵向剖肋板时，肋板按不剖处理",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0225",
+      "type": "heading",
+      "level": 3,
+      "text": "二、简化画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0226",
+      "type": "paragraph",
+      "level": 0,
+      "text": "对称图形可只画一半或四分之一",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0227",
+      "type": "paragraph",
+      "level": 0,
+      "text": "相同结构可只画一个并标明数量",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0228",
+      "type": "paragraph",
+      "level": 0,
+      "text": "长零件可折断绘制",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0229",
+      "type": "heading",
+      "level": 2,
+      "text": "【5.5 局部放大图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0230",
+      "type": "paragraph",
+      "level": 0,
+      "text": "将机件的细小结构放大画出，用罗马数字标识（如Ⅰ、Ⅱ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0231",
+      "type": "heading",
+      "level": 1,
+      "text": "第六章 标准件和常用件",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

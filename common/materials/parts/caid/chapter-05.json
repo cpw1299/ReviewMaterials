@@ -1,0 +1,589 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-05",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-029",
+      "title": "第五章 小产品建模渲染实例（刨皮刀）（⭐⭐⭐ 考简答/综合）",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0136",
+        "blk-0137",
+        "blk-0138"
+      ]
+    },
+    {
+      "id": "sec-030",
+      "title": "一、连续性对功能的影响（⭐⭐⭐）",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141"
+      ]
+    },
+    {
+      "id": "sec-031",
+      "title": "二、布尔运算的应用",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144"
+      ]
+    },
+    {
+      "id": "sec-032",
+      "title": "三、薄壁结构",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0144",
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148"
+      ]
+    },
+    {
+      "id": "sec-033",
+      "title": "四、防滑纹建模流程",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152"
+      ]
+    },
+    {
+      "id": "sec-034",
+      "title": "五、合模线",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0152",
+        "blk-0153",
+        "blk-0154"
+      ]
+    },
+    {
+      "id": "sec-035",
+      "title": "六、贴图通道综合应用",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159"
+      ]
+    },
+    {
+      "id": "sec-036",
+      "title": "【本章必背一句话总结】",
+      "level": 2,
+      "parentId": "sec-029",
+      "blockIds": [
+        "blk-0159",
+        "blk-0160",
+        "blk-0161"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0136",
+      "type": "heading",
+      "level": 1,
+      "text": "第五章 小产品建模渲染实例（刨皮刀）（⭐⭐⭐ 考简答/综合）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0137",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】把第3、4章的抽象概念用到具体产品上，用实际案例说明“建模有什么用”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0138",
+      "type": "heading",
+      "level": 2,
+      "text": "一、连续性对功能的影响（⭐⭐⭐）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0139",
+      "type": "quote",
+      "level": 0,
+      "text": "刀刃必须G1以上连续  → 否则刮皮的时候会“跳刀”，一下深一下浅，用户体验极差。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0140",
+      "type": "paragraph",
+      "level": 0,
+      "text": "考试答题模板 ：刨皮刀的刀刃曲面，在建模时必须使用 衔接曲面（MatchSrf）  或 双轨扫掠 保证G1以上连续性，并在KeyShot中用 斑马纹 检测确认。G0的刀刃在斑马纹上会显示条纹断开，反映到功能上就是切削不顺滑。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0141",
+      "type": "heading",
+      "level": 2,
+      "text": "二、布尔运算的应用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0142",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "操作",
+        "布尔运算类型",
+        "实际场景"
+      ],
+      "rows": [
+        [
+          "在刀身上挖安装槽",
+          "差集",
+          "刨皮刀要装刀片进去，得有槽"
+        ],
+        [
+          "把锯齿合并成整体",
+          "并集",
+          "多个锯齿分别建模，最后合并成一个刀头"
+        ],
+        [
+          "在刀柄上挖防滑纹凹槽",
+          "差集",
+          "用纹理形状去减刀柄表面"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0143",
+      "type": "quote",
+      "level": 0,
+      "text": "� 举个例子 ：刨皮刀的刀片安装槽，就是先建一个刀片形状的实体，再用“刀身 - 刀片实体”（差集），完美挖出形状吻合的槽。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0144",
+      "type": "heading",
+      "level": 2,
+      "text": "三、薄壁结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0145",
+      "type": "paragraph",
+      "level": 0,
+      "text": "用偏移曲面（OffsetSrf）做一个外壳，厚度一般0.5mm-2mm。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0146",
+      "type": "quote",
+      "level": 0,
+      "text": "为什么要做薄壁？  产品要轻量化，省材料，还要给内部零件（如刀片卡扣）留空间。全实心的产品既重又浪费材料，也不真实。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0147",
+      "type": "paragraph",
+      "level": 0,
+      "text": "考试答题模板 ：刨皮刀刀体使用 偏移曲面 命令，向内偏移0.5-1.0mm，形成薄壁外壳结构，实现产品轻量化设计，同时为内部刀片组件提供安装空间。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0148",
+      "type": "heading",
+      "level": 2,
+      "text": "四、防滑纹建模流程",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0149",
+      "type": "quote",
+      "level": 0,
+      "text": "绘制纹理 → 阵列 → 投影到曲面 → 沿曲面流动（FlowAlongSrf）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0150",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这里的核心是  “沿曲面流动”  ：你在平面上画的纹路（比如菱形格子），用这个命令可以完美“贴”到弯曲的刀柄表面上，纹路跟着曲面走，不会变形。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0151",
+      "type": "paragraph",
+      "level": 0,
+      "text": "考试答题模板 ：刀柄防滑纹的建模流程为：①在平面上绘制菱形纹理单元 → ②使用矩形阵列复制成纹理网格 → ③将纹理 投影 到刀柄曲面 → ④使用 沿曲面流动（FlowAlongSrf）  命令，使纹理精确贴合曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0152",
+      "type": "heading",
+      "level": 2,
+      "text": "五、合模线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0153",
+      "type": "paragraph",
+      "level": 0,
+      "text": "注塑产品上那条细细的“脊”，是模具上下两半闭合的痕迹。建模时用 0.1-0.2mm微小凸起 表现，边缘倒圆角。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0154",
+      "type": "heading",
+      "level": 2,
+      "text": "六、贴图通道综合应用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0155",
+      "type": "paragraph",
+      "level": 0,
+      "text": "用一张黑白贴图，同时接入 凹凸通道 和 粗糙度通道 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0156",
+      "type": "list_item",
+      "level": 0,
+      "text": "白色区域 → 凹下去 + 粗糙（磨损处）",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0157",
+      "type": "list_item",
+      "level": 0,
+      "text": "黑色区域 → 平整 + 光滑（未磨损处）",
+      "label": "",
+      "marker": "-",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0158",
+      "type": "quote",
+      "level": 0,
+      "text": "效果 ：刀身用久了有划痕和磨损，磨损处更粗糙、反光更弱，这样金属就有了“故事感”，不是全新的工业品，而是被用过的、真实的工具。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0159",
+      "type": "heading",
+      "level": 2,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0160",
+      "type": "quote",
+      "level": 0,
+      "text": "刨皮刀实例 = 刀刃G1连续保顺滑 + 布尔差集挖槽装刀片 + 偏移曲面做薄壁轻量化 + 流动命令贴防滑纹 + 贴图通道模拟磨损。三个“性”：建模的功能性、细节的工艺性、渲染的材料性。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0161",
+      "type": "heading",
+      "level": 1,
+      "text": "第六章 数码产品设计实例（打印机/投影仪）（⭐⭐⭐ 考综合）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

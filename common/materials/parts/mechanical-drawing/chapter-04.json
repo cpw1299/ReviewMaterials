@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-04",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-014",
+      "title": "第四章 组合体",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0137",
+        "blk-0138"
+      ]
+    },
+    {
+      "id": "sec-015",
+      "title": "【4.1 组合形式及表面连接关系】",
+      "level": 2,
+      "parentId": "sec-014",
+      "blockIds": [
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144",
+        "blk-0145"
+      ]
+    },
+    {
+      "id": "sec-016",
+      "title": "【4.2 组合体画图】",
+      "level": 2,
+      "parentId": "sec-014",
+      "blockIds": [
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152",
+        "blk-0153",
+        "blk-0154"
+      ]
+    },
+    {
+      "id": "sec-017",
+      "title": "【4.3 组合体尺寸标注】",
+      "level": 2,
+      "parentId": "sec-014",
+      "blockIds": [
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159",
+        "blk-0160",
+        "blk-0161",
+        "blk-0162",
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167"
+      ]
+    },
+    {
+      "id": "sec-018",
+      "title": "【4.4 组合体读图】",
+      "level": 2,
+      "parentId": "sec-014",
+      "blockIds": [
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0137",
+      "type": "heading",
+      "level": 1,
+      "text": "第四章 组合体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0138",
+      "type": "heading",
+      "level": 2,
+      "text": "【4.1 组合形式及表面连接关系】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0139",
+      "type": "heading",
+      "level": 3,
+      "text": "一、组合形式",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0140",
+      "type": "paragraph",
+      "level": 0,
+      "text": "叠加、切割、综合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0141",
+      "type": "heading",
+      "level": 3,
+      "text": "二、表面连接关系",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0142",
+      "type": "paragraph",
+      "level": 0,
+      "text": "平齐（共面）：无线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0143",
+      "type": "paragraph",
+      "level": 0,
+      "text": "光滑相切：无线（注意区分直角相切与圆弧相切）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0144",
+      "type": "paragraph",
+      "level": 0,
+      "text": "相交：有交线（直线或曲线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0145",
+      "type": "heading",
+      "level": 2,
+      "text": "【4.2 组合体画图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0146",
+      "type": "heading",
+      "level": 3,
+      "text": "一、分析方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0147",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形体分析法：假想把组合体分解为若干基本形体",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0148",
+      "type": "paragraph",
+      "level": 0,
+      "text": "线面分析法：分析各表面的投影",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0149",
+      "type": "heading",
+      "level": 3,
+      "text": "二、画图步骤",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0150",
+      "type": "paragraph",
+      "level": 0,
+      "text": "选主视图 → 定比例、图幅 → 画基准线 → 逐个画基本形体 → 检查、加深",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0151",
+      "type": "heading",
+      "level": 3,
+      "text": "三、主视图选择原则",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0152",
+      "type": "paragraph",
+      "level": 0,
+      "text": "反映形状特征最明显",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0153",
+      "type": "paragraph",
+      "level": 0,
+      "text": "符合工作位置",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0154",
+      "type": "heading",
+      "level": 2,
+      "text": "【4.3 组合体尺寸标注】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0155",
+      "type": "heading",
+      "level": 3,
+      "text": "一、基本要求",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0156",
+      "type": "paragraph",
+      "level": 0,
+      "text": "正确、完整、清晰",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0157",
+      "type": "heading",
+      "level": 3,
+      "text": "二、尺寸分类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0158",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定形尺寸：确定基本形体大小的尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0159",
+      "type": "paragraph",
+      "level": 0,
+      "text": "定位尺寸：确定基本形体相对位置的尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0160",
+      "type": "paragraph",
+      "level": 0,
+      "text": "总体尺寸：确定总长、总宽、总高的尺寸",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0161",
+      "type": "heading",
+      "level": 3,
+      "text": "三、尺寸基准",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0162",
+      "type": "paragraph",
+      "level": 0,
+      "text": "长、宽、高三个方向的基准",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0163",
+      "type": "paragraph",
+      "level": 0,
+      "text": "（对称面、底面、端面、轴线等）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0164",
+      "type": "heading",
+      "level": 3,
+      "text": "四、注意事项",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0165",
+      "type": "paragraph",
+      "level": 0,
+      "text": "避免封闭尺寸链",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0166",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标注清晰，便于测量",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0167",
+      "type": "heading",
+      "level": 2,
+      "text": "【4.4 组合体读图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0168",
+      "type": "heading",
+      "level": 3,
+      "text": "一、读图方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0169",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形体分析法：分线框、对投影、想形状",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0170",
+      "type": "paragraph",
+      "level": 0,
+      "text": "线面分析法：分析复杂交线、斜面的投影",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0171",
+      "type": "heading",
+      "level": 3,
+      "text": "二、读图要点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0172",
+      "type": "paragraph",
+      "level": 0,
+      "text": "从特征视图入手",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0173",
+      "type": "paragraph",
+      "level": 0,
+      "text": "多个视图对照看",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0174",
+      "type": "paragraph",
+      "level": 0,
+      "text": "注意虚实线变化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0175",
+      "type": "paragraph",
+      "level": 0,
+      "text": "利用\"三等\"规律",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0176",
+      "type": "heading",
+      "level": 3,
+      "text": "三、应用",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0177",
+      "type": "paragraph",
+      "level": 0,
+      "text": "根据两个视图补画第三视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0178",
+      "type": "heading",
+      "level": 1,
+      "text": "第五章 工程图样的表达方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

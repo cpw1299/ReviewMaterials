@@ -1,0 +1,759 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-04",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-004",
+      "title": "第四章 电气时代的工业与产业",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0099",
+        "blk-0100",
+        "blk-0101",
+        "blk-0102",
+        "blk-0103",
+        "blk-0104",
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109",
+        "blk-0110",
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121",
+        "blk-0122",
+        "blk-0123",
+        "blk-0124",
+        "blk-0125",
+        "blk-0126",
+        "blk-0127",
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136",
+        "blk-0137"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0099",
+      "type": "heading",
+      "level": 2,
+      "text": "第四章 电气时代的工业与产业",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0100",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章每年分值16-18分，福特制和汽车产业是高频考点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0101",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：电气时代核心技术集群（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0102",
+      "type": "list_item",
+      "level": 0,
+      "text": "电力：柔性动力，电动机使工厂布局解放，催生家电产业",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0103",
+      "type": "paragraph",
+      "level": 0,
+      "text": "西门子发电机（1866）、爱迪生珍珠街电站（1882）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0104",
+      "type": "list_item",
+      "level": 0,
+      "text": "内燃机：使个体自由移动成为可能，催生汽车产业",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0105",
+      "type": "paragraph",
+      "level": 0,
+      "text": "奥托四冲程发动机、本茨与戴姆勒汽车",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0106",
+      "type": "list_item",
+      "level": 0,
+      "text": "新材料：合成塑料（酚醛树脂）解放产品形态",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0107",
+      "type": "paragraph",
+      "level": 0,
+      "text": "利奥·贝克兰1907年发明酚醛树脂（电木）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0108",
+      "type": "paragraph",
+      "level": 0,
+      "text": "特性：绝缘、耐热、可塑性强、色彩丰富",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0109",
+      "type": "list_item",
+      "level": 0,
+      "text": "通信技术：电报、电话改变信息传递方式",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0110",
+      "type": "paragraph",
+      "level": 0,
+      "text": "贝尔电话（1876）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0111",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：泰勒制与福特制（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0112",
+      "type": "list_item",
+      "level": 0,
+      "text": "泰勒制（科学管理，1911）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0113",
+      "type": "paragraph",
+      "level": 0,
+      "text": "核心：将劳动过程分解、标准化，通过时间与动作研究确定“唯一最佳方法”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0114",
+      "type": "paragraph",
+      "level": 0,
+      "text": "对设计影响：使设计活动本身可以被分析、优化，推动设计方法论形成",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0115",
+      "type": "list_item",
+      "level": 0,
+      "text": "福特制（流水线大规模生产，1913）",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0116",
+      "type": "paragraph",
+      "level": 0,
+      "text": "核心：移动装配流水线，每个工人固定工位重复简单动作",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0117",
+      "type": "paragraph",
+      "level": 0,
+      "text": "与设计的闭环逻辑：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0118",
+      "type": "paragraph",
+      "level": 0,
+      "text": "设计必须为制造而设计（极简结构、标准化零件）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0119",
+      "type": "paragraph",
+      "level": 0,
+      "text": "规模化倒逼标准化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0120",
+      "type": "paragraph",
+      "level": 0,
+      "text": "低成本实现大众市场",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0121",
+      "type": "list_item",
+      "level": 0,
+      "text": "福特T型车（1908-1927）",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0122",
+      "type": "paragraph",
+      "level": 0,
+      "text": "设计哲学：“一款适合所有人的汽车”——单一型号、单一颜色（黑色）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0123",
+      "type": "paragraph",
+      "level": 0,
+      "text": "生产革命：装配时间从12.5小时缩短至1.5小时",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0124",
+      "type": "paragraph",
+      "level": 0,
+      "text": "社会影响：汽车从奢侈品变为大众消费品",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0125",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：通用汽车与设计职业化（★★★★☆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0126",
+      "type": "list_item",
+      "level": 0,
+      "text": "阿尔弗雷德·斯隆：年度车型更换、品牌分层（雪佛兰→凯迪拉克）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0127",
+      "type": "list_item",
+      "level": 0,
+      "text": "哈利·厄尔：首位全职汽车设计师，成立“艺术与色彩部”",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0128",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计角色转变：从工程师主导到职业设计师主导，设计成为市场营销核心工具",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0129",
+      "type": "list_item",
+      "level": 0,
+      "text": "有计划商品废止制萌芽：通过外观变化刺激消费",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0130",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：家电产业与材料革命（★★★★☆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0131",
+      "type": "list_item",
+      "level": 0,
+      "text": "电气化家庭：电力入户催生冰箱、洗衣机、吸尘器等新品类",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0132",
+      "type": "list_item",
+      "level": 0,
+      "text": "早期家电设计特征：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0133",
+      "type": "paragraph",
+      "level": 0,
+      "text": "从“机器”到“家具”的伪装（冰箱做成木柜样式）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0134",
+      "type": "paragraph",
+      "level": 0,
+      "text": "白色成为主流（象征清洁、卫生）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0135",
+      "type": "list_item",
+      "level": 0,
+      "text": "塑料的应用：酚醛树脂用于电话机、收音机外壳，实现一体化造型",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0136",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】电气时代四大件，电力内燃新材料加通信；泰勒制科学管理，福特制流水线；T型车黑漆单一号，通用汽车年度换型；家电伪装成家具，塑料解放产品形。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0137",
+      "type": "heading",
+      "level": 2,
+      "text": "第五章 电气时代的设计变革",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

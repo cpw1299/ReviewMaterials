@@ -1,0 +1,1013 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-06",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-025",
+      "title": "第六章 标准件和常用件",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0231",
+        "blk-0232"
+      ]
+    },
+    {
+      "id": "sec-026",
+      "title": "【6.1 螺纹及螺纹紧固件】",
+      "level": 2,
+      "parentId": "sec-025",
+      "blockIds": [
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237",
+        "blk-0238",
+        "blk-0239",
+        "blk-0240",
+        "blk-0241",
+        "blk-0242",
+        "blk-0243",
+        "blk-0244",
+        "blk-0245",
+        "blk-0246",
+        "blk-0247",
+        "blk-0248"
+      ]
+    },
+    {
+      "id": "sec-027",
+      "title": "【6.2 键连接】",
+      "level": 2,
+      "parentId": "sec-025",
+      "blockIds": [
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256"
+      ]
+    },
+    {
+      "id": "sec-028",
+      "title": "【6.3 销连接】",
+      "level": 2,
+      "parentId": "sec-025",
+      "blockIds": [
+        "blk-0256",
+        "blk-0257",
+        "blk-0258",
+        "blk-0259"
+      ]
+    },
+    {
+      "id": "sec-029",
+      "title": "【6.4 齿轮】",
+      "level": 2,
+      "parentId": "sec-025",
+      "blockIds": [
+        "blk-0259",
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273"
+      ]
+    },
+    {
+      "id": "sec-030",
+      "title": "【6.5 弹簧】",
+      "level": 2,
+      "parentId": "sec-025",
+      "blockIds": [
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279",
+        "blk-0280"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0231",
+      "type": "heading",
+      "level": 1,
+      "text": "第六章 标准件和常用件",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0232",
+      "type": "heading",
+      "level": 2,
+      "text": "【6.1 螺纹及螺纹紧固件】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0233",
+      "type": "heading",
+      "level": 3,
+      "text": "一、螺纹要素",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0234",
+      "type": "paragraph",
+      "level": 0,
+      "text": "牙型、公称直径（大径）、螺距、线数、旋向",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0235",
+      "type": "heading",
+      "level": 3,
+      "text": "二、螺纹分类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0236",
+      "type": "paragraph",
+      "level": 0,
+      "text": "普通螺纹（M）：牙型角60°，用于连接",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0237",
+      "type": "paragraph",
+      "level": 0,
+      "text": "管螺纹（G、Rc）：牙型角55°，用于管件连接",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0238",
+      "type": "paragraph",
+      "level": 0,
+      "text": "梯形螺纹（Tr）：牙型角30°，用于传动",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0239",
+      "type": "heading",
+      "level": 3,
+      "text": "三、螺纹标记示例",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0240",
+      "type": "paragraph",
+      "level": 0,
+      "text": "M20×1.5-6H",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0241",
+      "type": "paragraph",
+      "level": 0,
+      "text": "（M：普通螺纹，20：大径，1.5：螺距，6H：公差带）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0242",
+      "type": "heading",
+      "level": 3,
+      "text": "四、规定画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0243",
+      "type": "paragraph",
+      "level": 0,
+      "text": "外螺纹：大径用粗实线，小径用细实线（约0.85倍大径）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0244",
+      "type": "paragraph",
+      "level": 0,
+      "text": "内螺纹（剖视）：大径用细实线，小径用粗实线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0245",
+      "type": "paragraph",
+      "level": 0,
+      "text": "螺纹连接：旋合部分按外螺纹画",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0246",
+      "type": "heading",
+      "level": 3,
+      "text": "五、螺纹紧固件连接",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0247",
+      "type": "paragraph",
+      "level": 0,
+      "text": "螺栓连接、双头螺柱连接、螺钉连接",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0248",
+      "type": "heading",
+      "level": 2,
+      "text": "【6.2 键连接】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0249",
+      "type": "heading",
+      "level": 3,
+      "text": "一、键的种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0250",
+      "type": "paragraph",
+      "level": 0,
+      "text": "平键、半圆键、楔键",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0251",
+      "type": "heading",
+      "level": 3,
+      "text": "二、标记示例",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0252",
+      "type": "paragraph",
+      "level": 0,
+      "text": "键 10×8×100 GB/T 1096-2003（宽×高×长）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0253",
+      "type": "heading",
+      "level": 3,
+      "text": "三、画法要点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0254",
+      "type": "paragraph",
+      "level": 0,
+      "text": "键的顶面与轮毂键槽底面：有间隙（画两条线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0255",
+      "type": "paragraph",
+      "level": 0,
+      "text": "侧面与轴槽、轮毂槽：紧密接触（画一条线）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0256",
+      "type": "heading",
+      "level": 2,
+      "text": "【6.3 销连接】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0257",
+      "type": "heading",
+      "level": 3,
+      "text": "一、销的种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0258",
+      "type": "paragraph",
+      "level": 0,
+      "text": "圆柱销、圆锥销",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0259",
+      "type": "heading",
+      "level": 2,
+      "text": "【6.4 齿轮】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0260",
+      "type": "heading",
+      "level": 3,
+      "text": "一、圆柱齿轮基本参数",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0261",
+      "type": "paragraph",
+      "level": 0,
+      "text": "齿数z、模数m、压力角α（标准20°）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0262",
+      "type": "heading",
+      "level": 3,
+      "text": "二、计算公式（重点记忆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0263",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【分度圆直径】d = m × z",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0264",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【齿顶圆直径】da = m(z+2)",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0265",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【齿根圆直径】df = m(z-2.5）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0266",
+      "type": "paragraph",
+      "level": 0,
+      "text": "齿距 p = πm",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0267",
+      "type": "paragraph",
+      "level": 0,
+      "text": "齿高 h = 2.25m",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0268",
+      "type": "heading",
+      "level": 3,
+      "text": "三、规定画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0269",
+      "type": "paragraph",
+      "level": 0,
+      "text": "齿顶圆：粗实线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0270",
+      "type": "paragraph",
+      "level": 0,
+      "text": "分度圆：细点画线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0271",
+      "type": "paragraph",
+      "level": 0,
+      "text": "齿根圆：细实线（或省略）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0272",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【记忆口诀】\"齿顶圆粗，分度圆点画，齿根圆细实\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0273",
+      "type": "heading",
+      "level": 2,
+      "text": "【6.5 弹簧】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0274",
+      "type": "heading",
+      "level": 3,
+      "text": "一、圆柱螺旋压缩弹簧的规定画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0275",
+      "type": "paragraph",
+      "level": 0,
+      "text": "各圈用直线表示（近似画法）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0276",
+      "type": "paragraph",
+      "level": 0,
+      "text": "有效圈数≥4圈时，每端只画1-2圈，中间用细点画线通过簧丝中心",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0277",
+      "type": "paragraph",
+      "level": 0,
+      "text": "弹簧两端并紧磨平",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0278",
+      "type": "heading",
+      "level": 3,
+      "text": "二、作图步骤",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0279",
+      "type": "paragraph",
+      "level": 0,
+      "text": "先画支承圈 → 再画有效圈 → 最后画弹簧轴线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0280",
+      "type": "heading",
+      "level": 1,
+      "text": "第七章 零件图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

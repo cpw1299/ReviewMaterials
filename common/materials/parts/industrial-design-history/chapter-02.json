@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-02",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-002",
+      "title": "第二章 蒸汽时代的工业与产业",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0029",
+        "blk-0030",
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043",
+        "blk-0044",
+        "blk-0045",
+        "blk-0046",
+        "blk-0047",
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059",
+        "blk-0060",
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0029",
+      "type": "heading",
+      "level": 2,
+      "text": "第二章 蒸汽时代的工业与产业",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0030",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章每年分值16-20分，题型覆盖选择题、填空题、简答题。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0031",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：蒸汽时代三大技术基石（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0032",
+      "type": "list_item",
+      "level": 0,
+      "text": "动力革命：瓦特蒸汽机（万能原动机）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0033",
+      "type": "paragraph",
+      "level": 0,
+      "text": "使工厂脱离地理束缚，实现集中化生产",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0034",
+      "type": "paragraph",
+      "level": 0,
+      "text": "1765年分离冷凝器，1782年双动式作功，1788年离心调速器",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0035",
+      "type": "list_item",
+      "level": 0,
+      "text": "工具革命：莫兹利全金属螺纹车床（精密制造之母）",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0036",
+      "type": "paragraph",
+      "level": 0,
+      "text": "1800年发明，实现精密螺丝和标准化螺纹加工",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0037",
+      "type": "paragraph",
+      "level": 0,
+      "text": "使标准化、可互换零件成为可能",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0038",
+      "type": "list_item",
+      "level": 0,
+      "text": "材料革命：钢铁的规模化生产",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0039",
+      "type": "paragraph",
+      "level": 0,
+      "text": "科特搅炼法：生铁精炼成熟铁",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0040",
+      "type": "paragraph",
+      "level": 0,
+      "text": "贝塞麦转炉（1856）：首次实现钢的廉价大规模生产",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0041",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：工厂制度的确立与设计分化（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0042",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计与制造分离：工匠时代设计与制作合一，工厂时代设计在图纸上完成，制造由机器完成",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0043",
+      "type": "list_item",
+      "level": 0,
+      "text": "标准化生产：可互换零件理念（惠特尼），为福特流水线奠定基础",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0044",
+      "type": "list_item",
+      "level": 0,
+      "text": "城市化与市场扩张：铁路和蒸汽轮船形成全球市场，产品设计趋向普适化",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0045",
+      "type": "list_item",
+      "level": 0,
+      "text": "消费社会萌芽：新兴中产阶级通过消费彰显社会地位",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0046",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：1851年水晶宫博览会（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0047",
+      "type": "list_item",
+      "level": 0,
+      "text": "建筑奇迹：约瑟夫·帕克斯顿设计，铸铁+玻璃预制化建造，标准化装配典范",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0048",
+      "type": "list_item",
+      "level": 0,
+      "text": "暴露的危机：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "机器展区：功能理性，无意中形成“机器美学”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0050",
+      "type": "paragraph",
+      "level": 0,
+      "text": "消费品展区：装饰堆砌、风格混乱、历史主义大杂烩",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0051",
+      "type": "paragraph",
+      "level": 0,
+      "text": "核心矛盾：先进生产技术 vs 落后审美趣味",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0052",
+      "type": "list_item",
+      "level": 0,
+      "text": "历史意义：首次将“工业化条件下设计应该是什么”的问题摆在世人面前，直接催生设计改革运动",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0053",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：产业转型典型案例（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0054",
+      "type": "list_item",
+      "level": 0,
+      "text": "托耐特曲木家具（技术创新驱动新形式）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0055",
+      "type": "paragraph",
+      "level": 0,
+      "text": "蒸汽弯曲层压木技术（山毛榉木条蒸汽弯曲）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0056",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14号椅（1859）：6个部件+10个螺丝+2个垫圈，可平板包装",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0057",
+      "type": "paragraph",
+      "level": 0,
+      "text": "首个真正成功的工业化家具，证明工业化能创造新设计语言",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0058",
+      "type": "list_item",
+      "level": 0,
+      "text": "韦奇伍德陶瓷（工业化管理+市场细分）",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0059",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标准化石膏模具、转移印花术实现装饰批量复制",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0060",
+      "type": "paragraph",
+      "level": 0,
+      "text": "工厂化分工（70多道工序）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0061",
+      "type": "paragraph",
+      "level": 0,
+      "text": "产品分层：“女王牌”供贵族、“碧玉炻器”供中产、实用陶器供大众",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0062",
+      "type": "list_item",
+      "level": 0,
+      "text": "机器制造：结构理性主义，无意识的“机器美学”（Nasmyth蒸汽锤）",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0063",
+      "type": "list_item",
+      "level": 0,
+      "text": "交通工具：铁路机车（速度与进步的象征）、轮船（技术外壳+文化内装割裂）",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0064",
+      "type": "list_item",
+      "level": 0,
+      "text": "日用五金：功能主导、标准化、工业化美学（辛格缝纫机的“伪装”策略）",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0065",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】三大基石动工材，瓦特机床贝塞麦；工厂制分设计与制造，水晶宫展矛盾显；托耐特曲木平板装，韦奇伍德模具印花术。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0066",
+      "type": "heading",
+      "level": 2,
+      "text": "第三章 蒸汽时代的设计变革",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

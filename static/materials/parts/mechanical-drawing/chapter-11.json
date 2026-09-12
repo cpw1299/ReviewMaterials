@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-11",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-046",
+      "title": "3. 尺寸标注",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0373",
+        "blk-0374",
+        "blk-0375"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0373",
+      "type": "heading",
+      "level": 1,
+      "text": "3. 尺寸标注",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0374",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"完整不重复，清晰要合理，基准先确定，加总不封闭\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0375",
+      "type": "heading",
+      "level": 1,
+      "text": "4. 剖视种类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "id": "industrial-design-history-chapter-01",
+  "title": "工业设计史复习资料",
+  "subject": "工业设计史",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "第一章 设计与工业设计",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002",
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020",
+        "blk-0021",
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 2,
+      "text": "第一章 设计与工业设计",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【考情分析】本章每年分值14-16分，题型覆盖选择题、填空题、简答题。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0003",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点一：设计的本质与双重属性（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0004",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计的本质：有目的地解决问题，在约束条件下创造性地满足需求",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0005",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计的双重属性：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0006",
+      "type": "paragraph",
+      "level": 0,
+      "text": "实用属性：满足功能、技术、经济等需求",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0007",
+      "type": "paragraph",
+      "level": 0,
+      "text": "审美属性：赋予产品以情感、文化与象征意义",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0008",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计与艺术的区别：设计有明确的功能目的，艺术更注重自我表达",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0009",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计与工程的区别：设计关注用户体验和审美，工程关注技术实现",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0010",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点二：工业设计的概念与核心任务（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0011",
+      "type": "list_item",
+      "level": 0,
+      "text": "工业设计定义：针对批量化生产的工业产品，从用户需求出发，综合运用技术、艺术、经济等知识，进行功能、形态、结构、材料、工艺等方面的系统规划与设计",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0012",
+      "type": "list_item",
+      "level": 0,
+      "text": "工业设计核心任务：",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0013",
+      "type": "paragraph",
+      "level": 0,
+      "text": "优化功能与使用体验",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0014",
+      "type": "paragraph",
+      "level": 0,
+      "text": "塑造产品形态与品牌识别",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0015",
+      "type": "paragraph",
+      "level": 0,
+      "text": "协调材料、工艺与成本",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0016",
+      "type": "paragraph",
+      "level": 0,
+      "text": "关注全生命周期影响",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0017",
+      "type": "list_item",
+      "level": 0,
+      "text": "工业设计诞生的条件：批量化生产、设计与制造分离、市场竞争需求",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0018",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点三：设计的价值维度（★★★★★）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0019",
+      "type": "list_item",
+      "level": 0,
+      "text": "经济价值：提升产品附加值、增强市场竞争力、缩短研发周期、降低生产成本",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0020",
+      "type": "list_item",
+      "level": 0,
+      "text": "社会价值：改善生活质量、提升公共服务效能、促进包容性设计",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0021",
+      "type": "list_item",
+      "level": 0,
+      "text": "文化价值：传承与创新文化遗产、塑造生活方式与审美风尚",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0022",
+      "type": "list_item",
+      "level": 0,
+      "text": "生态价值：推行绿色设计、降低资源消耗、倡导循环经济",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0023",
+      "type": "heading",
+      "level": 4,
+      "text": "核心考点四：中国工业设计发展脉络（★★★★☆）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0024",
+      "type": "list_item",
+      "level": 0,
+      "text": "萌芽期（1950-1970s）：以工艺美术与轻工产品为主，设计意识薄弱",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0025",
+      "type": "list_item",
+      "level": 0,
+      "text": "引进期（1980-1990s）：高校设立工业设计专业，企业开始设立设计部门",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0026",
+      "type": "list_item",
+      "level": 0,
+      "text": "成长期（2000-2010s）：政策推动（中国设计红星奖）、设计公司兴起",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0027",
+      "type": "list_item",
+      "level": 0,
+      "text": "创新期（2010s至今）：设计驱动创新，中国品牌走向世界（华为、小米、大疆）",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0028",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【速记口诀】设计本质解问题，双重属性实与美；工业设计批量产，功能体验品牌显；价值四维经社文生，中国四期萌引成创。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0029",
+      "type": "heading",
+      "level": 2,
+      "text": "第二章 蒸汽时代的工业与产业",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-07",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-031",
+      "title": "第七章 零件图",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0280",
+        "blk-0281"
+      ]
+    },
+    {
+      "id": "sec-032",
+      "title": "【7.1 零件图的内容】",
+      "level": 2,
+      "parentId": "sec-031",
+      "blockIds": [
+        "blk-0281",
+        "blk-0282",
+        "blk-0283",
+        "blk-0284",
+        "blk-0285",
+        "blk-0286"
+      ]
+    },
+    {
+      "id": "sec-033",
+      "title": "【7.2 零件图的视图选择和尺寸标注】",
+      "level": 2,
+      "parentId": "sec-031",
+      "blockIds": [
+        "blk-0286",
+        "blk-0287",
+        "blk-0288",
+        "blk-0289",
+        "blk-0290",
+        "blk-0291",
+        "blk-0292",
+        "blk-0293",
+        "blk-0294",
+        "blk-0295",
+        "blk-0296",
+        "blk-0297",
+        "blk-0298"
+      ]
+    },
+    {
+      "id": "sec-034",
+      "title": "【7.3 零件图上常见的工艺结构】",
+      "level": 2,
+      "parentId": "sec-031",
+      "blockIds": [
+        "blk-0298",
+        "blk-0299",
+        "blk-0300",
+        "blk-0301",
+        "blk-0302",
+        "blk-0303",
+        "blk-0304",
+        "blk-0305"
+      ]
+    },
+    {
+      "id": "sec-035",
+      "title": "【7.4 零件图中的技术要求】",
+      "level": 2,
+      "parentId": "sec-031",
+      "blockIds": [
+        "blk-0305",
+        "blk-0306",
+        "blk-0307",
+        "blk-0308",
+        "blk-0309",
+        "blk-0310",
+        "blk-0311",
+        "blk-0312",
+        "blk-0313",
+        "blk-0314",
+        "blk-0315",
+        "blk-0316",
+        "blk-0317"
+      ]
+    },
+    {
+      "id": "sec-036",
+      "title": "【7.5 读零件图】",
+      "level": 2,
+      "parentId": "sec-031",
+      "blockIds": [
+        "blk-0317",
+        "blk-0318",
+        "blk-0319",
+        "blk-0320",
+        "blk-0321",
+        "blk-0322",
+        "blk-0323",
+        "blk-0324"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0280",
+      "type": "heading",
+      "level": 1,
+      "text": "第七章 零件图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0281",
+      "type": "heading",
+      "level": 2,
+      "text": "【7.1 零件图的内容】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0282",
+      "type": "heading",
+      "level": 3,
+      "text": "一、零件的分类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0283",
+      "type": "paragraph",
+      "level": 0,
+      "text": "轴类、盘盖类、叉架类、箱体类",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0284",
+      "type": "heading",
+      "level": 3,
+      "text": "二、零件图的内容",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0285",
+      "type": "paragraph",
+      "level": 0,
+      "text": "一组视图、完整的尺寸、技术要求、标题栏",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0286",
+      "type": "heading",
+      "level": 2,
+      "text": "【7.2 零件图的视图选择和尺寸标注】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0287",
+      "type": "heading",
+      "level": 3,
+      "text": "一、主视图选择原则",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0288",
+      "type": "paragraph",
+      "level": 0,
+      "text": "最能反映形状特征",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0289",
+      "type": "paragraph",
+      "level": 0,
+      "text": "符合工作位置或加工位置",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0290",
+      "type": "heading",
+      "level": 3,
+      "text": "二、各类零件的表达方法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0291",
+      "type": "paragraph",
+      "level": 0,
+      "text": "轴类：主视图按加工位置（水平放置）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0292",
+      "type": "paragraph",
+      "level": 0,
+      "text": "盘盖类：主视图轴线水平",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0293",
+      "type": "paragraph",
+      "level": 0,
+      "text": "箱体类：主视图反映工作位置，需多个视图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0294",
+      "type": "heading",
+      "level": 3,
+      "text": "三、尺寸标注要点",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0295",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标注设计基准或工艺基准",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0296",
+      "type": "paragraph",
+      "level": 0,
+      "text": "避免封闭尺寸链",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0297",
+      "type": "paragraph",
+      "level": 0,
+      "text": "便于测量和加工",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0298",
+      "type": "heading",
+      "level": 2,
+      "text": "【7.3 零件图上常见的工艺结构】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0299",
+      "type": "heading",
+      "level": 3,
+      "text": "一、铸造工艺结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0300",
+      "type": "paragraph",
+      "level": 0,
+      "text": "拔模斜度、铸造圆角、加强筋",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0301",
+      "type": "heading",
+      "level": 3,
+      "text": "二、机械加工工艺结构",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0302",
+      "type": "paragraph",
+      "level": 0,
+      "text": "倒角（C×45°）、圆角",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0303",
+      "type": "paragraph",
+      "level": 0,
+      "text": "退刀槽、砂轮越程槽",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0304",
+      "type": "paragraph",
+      "level": 0,
+      "text": "中心孔",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0305",
+      "type": "heading",
+      "level": 2,
+      "text": "【7.4 零件图中的技术要求】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0306",
+      "type": "heading",
+      "level": 3,
+      "text": "一、表面结构（粗糙度）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0307",
+      "type": "paragraph",
+      "level": 0,
+      "text": "符号：基本符号（仅表示需加工）、去除材料符号（加一短横）、不去除材料符号（加圆圈）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0308",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参数：Ra（轮廓算术平均偏差），数值越小越光滑",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0309",
+      "type": "paragraph",
+      "level": 0,
+      "text": "示例：Ra 3.2表示较粗糙，Ra 0.8表示较光滑",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0310",
+      "type": "heading",
+      "level": 3,
+      "text": "二、极限与配合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0311",
+      "type": "paragraph",
+      "level": 0,
+      "text": "配合种类：间隙配合、过盈配合、过渡配合",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0312",
+      "type": "paragraph",
+      "level": 0,
+      "text": "标注示例：φ30H7（孔）、φ30h6（轴）大写=孔，小写=轴",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0313",
+      "type": "heading",
+      "level": 3,
+      "text": "三、几何公差（形位公差）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0314",
+      "type": "paragraph",
+      "level": 0,
+      "text": "形状公差：直线度、平面度、圆度、圆柱度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0315",
+      "type": "paragraph",
+      "level": 0,
+      "text": "位置公差：平行度、垂直度、同轴度、对称度",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0316",
+      "type": "paragraph",
+      "level": 0,
+      "text": "跳动公差：圆跳动、全跳动",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0317",
+      "type": "heading",
+      "level": 2,
+      "text": "【7.5 读零件图】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0318",
+      "type": "paragraph",
+      "level": 0,
+      "text": "读图步骤：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0319",
+      "type": "list_item",
+      "level": 0,
+      "text": "看标题栏（名称、材料、比例）",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0320",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析视图（主视图、其他视图）",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0321",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析尺寸（基准、主要尺寸）",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0322",
+      "type": "list_item",
+      "level": 0,
+      "text": "分析技术要求（粗糙度、公差）",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0323",
+      "type": "list_item",
+      "level": 0,
+      "text": "综合想象立体形状",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0324",
+      "type": "heading",
+      "level": 1,
+      "text": "第八章 装配图",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

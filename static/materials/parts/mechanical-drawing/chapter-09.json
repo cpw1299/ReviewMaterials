@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-09",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-044",
+      "title": "1. 三视图规律",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0369",
+        "blk-0370",
+        "blk-0371"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0369",
+      "type": "heading",
+      "level": 1,
+      "text": "1. 三视图规律",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0370",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"长对正、高平齐、宽相等\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0371",
+      "type": "heading",
+      "level": 1,
+      "text": "2. 螺纹画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

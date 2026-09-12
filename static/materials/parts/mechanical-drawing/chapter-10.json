@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanical-drawing-chapter-10",
+  "title": "机械制图基础（本）复习资料",
+  "subject": "机械制图基础",
+  "sections": [
+    {
+      "id": "sec-045",
+      "title": "2. 螺纹画法",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0371",
+        "blk-0372",
+        "blk-0373"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0371",
+      "type": "heading",
+      "level": 1,
+      "text": "2. 螺纹画法",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0372",
+      "type": "paragraph",
+      "level": 0,
+      "text": "\"外螺纹：大粗小细；内螺纹：小粗大细；旋合区：按外画\"",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0373",
+      "type": "heading",
+      "level": 1,
+      "text": "3. 尺寸标注",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

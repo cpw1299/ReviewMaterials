@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-chapter-06",
+  "title": "计算机辅助产品设计复习资料",
+  "subject": "计算机辅助产品设计",
+  "sections": [
+    {
+      "id": "sec-037",
+      "title": "第六章 数码产品设计实例（打印机/投影仪）（⭐⭐⭐ 考综合）",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0161",
+        "blk-0162",
+        "blk-0163"
+      ]
+    },
+    {
+      "id": "sec-038",
+      "title": "一、CMF驱动分件 + 美工线",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171"
+      ]
+    },
+    {
+      "id": "sec-039",
+      "title": "二、人机交互面布局",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178",
+        "blk-0179"
+      ]
+    },
+    {
+      "id": "sec-040",
+      "title": "三、功能特征形态化",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187"
+      ]
+    },
+    {
+      "id": "sec-041",
+      "title": "四、形态语义",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191"
+      ]
+    },
+    {
+      "id": "sec-042",
+      "title": "五、场景化渲染",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0191",
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196"
+      ]
+    },
+    {
+      "id": "sec-043",
+      "title": "六、环境光遮蔽（AO）",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202"
+      ]
+    },
+    {
+      "id": "sec-044",
+      "title": "七、打印机实例建模常用命令",
+      "level": 2,
+      "parentId": "sec-037",
+      "blockIds": [
+        "blk-0202",
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0161",
+      "type": "heading",
+      "level": 1,
+      "text": "第六章 数码产品设计实例（打印机/投影仪）（⭐⭐⭐ 考综合）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0162",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【核心逻辑】数码产品设计不是“拍脑袋长出来的”，而是由CMF、人机、结构、语义 共同推导 出来的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0163",
+      "type": "heading",
+      "level": 2,
+      "text": "一、CMF驱动分件 + 美工线",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0164",
+      "type": "paragraph",
+      "level": 0,
+      "text": "CMF  = Color（色彩）+ Material（材料）+ Finishing（工艺）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0165",
+      "type": "quote",
+      "level": 0,
+      "text": "什么叫“分件”？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0166",
+      "type": "quote",
+      "level": 0,
+      "text": "一台打印机，前面板是 白色亮面塑料 ，侧盖是 灰色磨砂塑料 ，操作面板是 黑色钢琴烤漆 ——三种不同颜色/材料的零件，不可能长成一个整体，所以必须分开建模。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0167",
+      "type": "paragraph",
+      "level": 0,
+      "text": "分件之间的那条缝，叫“美工线”  （也叫分件槽）：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0168",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "概念",
+        "是什么",
+        "怎么建模"
+      ],
+      "rows": [
+        [
+          "美工线",
+          "主动设计的凹槽，用来区分不同材质/颜色的零件",
+          "建模时在零件交界处做一条0.5-1mm宽的凹槽"
+        ],
+        [
+          "分模线",
+          "工艺残留，模具开模留下的痕迹",
+          "建模时尽量隐藏或做小，实在不行用0.1-0.2mm凸起"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0169",
+      "type": "quote",
+      "level": 0,
+      "text": "考试重点 ：美工线是 主动设计的装饰 ，分模线是 被动留下的痕迹 。前者是美学，后者是工艺。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0170",
+      "type": "paragraph",
+      "level": 0,
+      "text": "举个例子 ：iPhone 4的不锈钢中框和前后玻璃面板之间那条细细的缝隙，就是美工线——它在告诉你“这里是金属和玻璃的交界处”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0171",
+      "type": "heading",
+      "level": 2,
+      "text": "二、人机交互面布局",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0172",
+      "type": "paragraph",
+      "level": 0,
+      "text": "屏幕和按键必须在 用户的正面视野内 + 手指自然可及的区域 。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0173",
+      "type": "paragraph",
+      "level": 0,
+      "text": "打印机例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0174",
+      "type": "quote",
+      "level": 0,
+      "text": "- 控制面板一定在 打印机前方偏上 ——用户站着操作，屏幕刚好在视线水平",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0175",
+      "type": "quote",
+      "level": 0,
+      "text": "- 按键间距不小于 8mm ——防止手指粗的人误触",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0176",
+      "type": "quote",
+      "level": 0,
+      "text": "- USB接口在前方或侧面伸手可及处——不用钻到机器后面去插",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0177",
+      "type": "quote",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0178",
+      "type": "paragraph",
+      "level": 0,
+      "text": "这叫“结构合理性”——每一个特征的位置，都是有依据的，不是随便放的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0179",
+      "type": "heading",
+      "level": 2,
+      "text": "三、功能特征形态化",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0180",
+      "type": "paragraph",
+      "level": 0,
+      "text": "散热孔、镜头、接口这些功能件， 不要当“补丁”一样贴上去 ，要让它们成为设计语言的一部分。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0181",
+      "type": "paragraph",
+      "level": 0,
+      "text": "投影仪例子 ：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0182",
+      "type": "quote",
+      "level": 0,
+      "text": "-  镜头  = 视觉中心，是“眼睛”，必须突出，周围做同心圆环装饰",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0183",
+      "type": "quote",
+      "level": 0,
+      "text": "-  散热格栅  = 设计成动感线条，从侧面延伸到后面，像跑车的进气口",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0184",
+      "type": "quote",
+      "level": 0,
+      "text": "-  指示灯  = 镶嵌在美工线里，不额外开孔",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0185",
+      "type": "quote",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0186",
+      "type": "quote",
+      "level": 0,
+      "text": "答题模板 ：“该投影仪将散热孔设计为参数化渐变的斜向格栅，既满足空气对流需求，同时通过阵列元素形成速度感的视觉符号，实现了功能与形态的融合。”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0187",
+      "type": "heading",
+      "level": 2,
+      "text": "四、形态语义",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0188",
+      "type": "paragraph",
+      "level": 0,
+      "text": "产品造型会“说话”——用户看到形状就能猜到它的性格。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0189",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "造型倾向",
+        "语义（用户感觉）",
+        "适用产品"
+      ],
+      "rows": [
+        [
+          "前倾、有棱角",
+          "主动、高效、专业",
+          "办公打印机、游戏设备"
+        ],
+        [
+          "圆润、曲线多",
+          "亲和、家居、安全",
+          "家用电器、儿童产品"
+        ],
+        [
+          "极简、方正",
+          "现代、科技、冷静",
+          "苹果风格产品"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0190",
+      "type": "quote",
+      "level": 0,
+      "text": "举个例子 ：戴森风扇那个“无叶”圆环造型 → 语义是“未来感、黑科技”；小米空气净化器那个圆润柱体 → 语义是“简约、家居百搭”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0191",
+      "type": "heading",
+      "level": 2,
+      "text": "五、场景化渲染",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0192",
+      "type": "paragraph",
+      "level": 0,
+      "text": "渲染不是把产品“立正站好”拍个白底图就完了，而是 把产品放在它的使用环境里 。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0193",
+      "type": "quote",
+      "level": 0,
+      "text": "� 投影仪  → 必须在 暗环境 下渲染，加上 体积光（光锥效果）  ，屏幕投射出画面。这样一眼就能看出“这是个投影仪”。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0194",
+      "type": "quote",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0195",
+      "type": "quote",
+      "level": 0,
+      "text": "如果放在亮堂堂的摄影棚里，投影仪跟个黑色方盒子没区别，谁也不知道它是干嘛的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0196",
+      "type": "heading",
+      "level": 2,
+      "text": "六、环境光遮蔽（AO）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0197",
+      "type": "paragraph",
+      "level": 0,
+      "text": "AO  = Ambient Occlusion（环境光遮蔽）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0198",
+      "type": "quote",
+      "level": 0,
+      "text": "什么效果？  让模型缝隙、转角、零件交界处有自然的阴影，看着更“扎实”、更有体积感。没有AO的效果是“飘”在画面上的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0199",
+      "type": "quote",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0200",
+      "type": "quote",
+      "level": 0,
+      "text": "KeyShot里直接勾选开启就行，不用调参数。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0201",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题模板 ：“在产品渲染中开启 环境光遮蔽（AO）通道 ，能够增强模型转折面的立体感，使形体关系更加清晰，视觉上更加真实、厚重。”",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0202",
+      "type": "heading",
+      "level": 2,
+      "text": "七、打印机实例建模常用命令",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0203",
+      "type": "table",
+      "level": 0,
+      "text": "",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        "命令",
+        "适用场景"
+      ],
+      "rows": [
+        [
+          "放样（Loft）",
+          "打印机主体曲面（有机形态的机身）"
+        ],
+        [
+          "布尔差集",
+          "屏幕凹槽、散热孔、接口开孔"
+        ],
+        [
+          "投影（Project）",
+          "在曲面上精确定位Logo、指示灯位置"
+        ],
+        [
+          "挤出（Extrude）",
+          "出纸托盘、进纸槽"
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0204",
+      "type": "paragraph",
+      "level": 0,
+      "text": "建模逻辑 ：先做“大面”（主体外壳），再做“细节”（按键、屏幕槽、散热孔），最后做“分件”（用布尔差集切出美工线沟槽）。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0205",
+      "type": "paragraph",
+      "level": 0,
+      "text": "【本章必背一句话总结】",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0206",
+      "type": "quote",
+      "level": 0,
+      "text": "数码产品设计 = CMF驱动分件（美工线区分材料）+ 人机约束布局（按键屏幕在好用的位置）+ 功能形态化（散热孔变设计元素）+ 语义表达（前倾=高效，圆润=亲和）+ 场景化渲染（投影仪配体积光）。每一处设计都要有“为什么”。答综合题就按这个逻辑展开。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0207",
+      "type": "heading",
+      "level": 1,
+      "text": "第七章 小家电建模渲染实例（剃须刀/电熨斗）（⭐⭐⭐ 综合大题大结局）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}
