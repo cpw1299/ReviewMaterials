@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 资料生成源：doc/MarkdownFiles；输出同时生成合并 Web 数据和按大章节拆分的 App 数据。
 import json,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; SRC=ROOT/'doc'/'MarkdownFiles'; OUT=ROOT/'common'/'materials'; PARTS=OUT/'parts'
@@ -29,7 +30,8 @@ def parse_md(text):
     def add(typ,level=0,text='',label='',marker='',ordered=False,headers=None,rows=None):
         nonlocal n
         b={'id':f'blk-{n:04d}','type':typ,'level':level,'text':clean_inline(text),'label':clean_inline(label),'marker':marker,'ordered':ordered,'headers':headers or [''],'rows':rows or [['']],'depth':0}; n+=1; blocks.append(b)
-        if current is not None: current['blockIds'].append(b['id'])
+        if current is not None: current['blockIds'].append(b['id']
+        )
     while i<len(lines):
         line=lines[i]
         if not line.strip(): i+=1; continue
