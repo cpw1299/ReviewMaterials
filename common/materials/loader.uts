@@ -1,5 +1,4 @@
-// Web 端保留静态 import，避免引入文件系统 API；Android/App 端改为运行时读取 static 资源，
-// 防止大 JSON 被编译进 Kotlin 的 <clinit>，同时避免 UTSJSONObject 直接 as 自定义类型。
+// Web 端读取合并后的轻量兼容 JSON；App 端读取按大章节拆分的静态资源。
 // #ifdef WEB
 import indexRaw from './index.json'
 import mechanicalRaw from './mechanical-drawing.json'
@@ -8,7 +7,7 @@ import industrialRaw from './industrial-design-history.json'
 import productRaw from './product-design.json'
 // #endif
 
-import { MaterialIndex, Material, MaterialSection, ContentBlock } from './types.uts'
+import { MaterialIndex, Material, MaterialSection, ContentBlock, MaterialManifest } from './types.uts'
 
 let cachedIndex : MaterialIndex | null = null
 const materialCache = new Map<string, Material>()
@@ -19,28 +18,33 @@ const readableCache = new Map<string, MaterialSection[]>()
 // #ifdef APP
 function readStaticJson(path : string) : string {
 	const fs = uni.getFileSystemManager()
-	const raw = fs.readFileSync(path, 'utf-8')
-	return raw as string
+	return fs.readFileSync(path, 'utf-8') as string
 }
 
 function parseStaticJson<T>(path : string) : T {
 	const parsed = JSON.parse<T>(readStaticJson(path))
-	if (parsed == null) {
-		throw new Error('资料 JSON 解析失败: ' + path)
-	}
+	if (parsed == null) throw new Error('资料 JSON 解析失败: ' + path)
 	return parsed!
+}
+
+function loadSplitMaterial(id : string) : Material | null {
+	const manifest = parseStaticJson<MaterialManifest>('/static/materials/parts/' + id + '/manifest.json')
+	const sections : MaterialSection[] = []
+	const blocks : ContentBlock[] = []
+	for (let i = 0; i < manifest.chapters.length; i++) {
+		const part = parseStaticJson<Material>('/static/materials/parts/' + id + '/' + manifest.chapters[i].file)
+		for (let j = 0; j < part.sections.length; j++) sections.push(part.sections[j])
+		for (let j = 0; j < part.blocks.length; j++) blocks.push(part.blocks[j])
+	}
+	return { schemaVersion: manifest.schemaVersion, id: manifest.id, title: manifest.title, subject: manifest.subject, sections, blocks }
 }
 // #endif
 
 function parseImportedJson<T>(raw : any) : T {
 	const text = JSON.stringify(raw)
-	if (text == null) {
-		throw new Error('资料 JSON 序列化失败')
-	}
+	if (text == null) throw new Error('资料 JSON 序列化失败')
 	const parsed = JSON.parse<T>(text!)
-	if (parsed == null) {
-		throw new Error('资料 JSON 类型转换失败')
-	}
+	if (parsed == null) throw new Error('资料 JSON 类型转换失败')
 	return parsed!
 }
 
@@ -58,50 +62,30 @@ export function loadMaterialIndex() : MaterialIndex {
 
 export function loadMaterial(id : string) : Material | null {
 	const hit = materialCache.get(id)
-	if (hit != null) {
-		return hit
-	}
-
+	if (hit != null) return hit
 	let material : Material | null = null
 
 	// #ifdef APP
-	if (id == 'mechanical-drawing') {
-		material = parseStaticJson<Material>('/static/materials/mechanical-drawing.json')
-	} else if (id == 'caid') {
-		material = parseStaticJson<Material>('/static/materials/caid.json')
-	} else if (id == 'industrial-design-history') {
-		material = parseStaticJson<Material>('/static/materials/industrial-design-history.json')
-	} else if (id == 'product-design') {
-		material = parseStaticJson<Material>('/static/materials/product-design.json')
+	if (id == 'mechanical-drawing' || id == 'caid' || id == 'industrial-design-history' || id == 'product-design') {
+		material = loadSplitMaterial(id)
 	}
 	// #endif
 
 	// #ifdef WEB
-	if (id == 'mechanical-drawing') {
-		material = parseImportedJson<Material>(mechanicalRaw)
-	} else if (id == 'caid') {
-		material = parseImportedJson<Material>(caidRaw)
-	} else if (id == 'industrial-design-history') {
-		material = parseImportedJson<Material>(industrialRaw)
-	} else if (id == 'product-design') {
-		material = parseImportedJson<Material>(productRaw)
-	}
+	if (id == 'mechanical-drawing') material = parseImportedJson<Material>(mechanicalRaw)
+	else if (id == 'caid') material = parseImportedJson<Material>(caidRaw)
+	else if (id == 'industrial-design-history') material = parseImportedJson<Material>(industrialRaw)
+	else if (id == 'product-design') material = parseImportedJson<Material>(productRaw)
 	// #endif
 
-	if (material == null) {
-		return null
-	}
+	if (material == null) return null
 	materialCache.set(id, material!)
 	return material
 }
 
 export function chapters(material : Material) : MaterialSection[] {
 	const result : MaterialSection[] = []
-	for (let i = 0; i < material.sections.length; i++) {
-		if (material.sections[i].level == 1) {
-			result.push(material.sections[i])
-		}
-	}
+	for (let i = 0; i < material.sections.length; i++) if (material.sections[i].level == 1) result.push(material.sections[i])
 	return result
 }
 
@@ -109,42 +93,26 @@ function blockIndex(material : Material) : Map<string, ContentBlock> {
 	let idx = blockIndexCache.get(material.id)
 	if (idx == null) {
 		idx = new Map<string, ContentBlock>()
-		for (let i = 0; i < material.blocks.length; i++) {
-			idx.set(material.blocks[i].id, material.blocks[i])
-		}
+		for (let i = 0; i < material.blocks.length; i++) idx.set(material.blocks[i].id, material.blocks[i])
 		blockIndexCache.set(material.id, idx)
 	}
 	return blockIndexCache.get(material.id)!
 }
 
-/**
- * 阅读单元 = 拥有非 heading 内容的章节。
- * 不能按 level 判断：机械制图「附录二」是 level 1 且无子节点，
- * 另外三份资料的 level 1 章节各自带一段【考情分析】/【核心逻辑】导语。
- */
 export function isReadable(material : Material, section : MaterialSection) : boolean {
 	const idx = blockIndex(material)
 	for (let i = 0; i < section.blockIds.length; i++) {
 		const b = idx.get(section.blockIds[i])
-		if (b != null && b!.type != 'heading') {
-			return true
-		}
+		if (b != null && b!.type != 'heading') return true
 	}
 	return false
 }
 
 export function readableSections(material : Material) : MaterialSection[] {
 	const hit = readableCache.get(material.id)
-	if (hit != null) {
-		return hit
-	}
+	if (hit != null) return hit
 	const result : MaterialSection[] = []
-	for (let i = 0; i < material.sections.length; i++) {
-		const s = material.sections[i]
-		if (isReadable(material, s)) {
-			result.push(s)
-		}
-	}
+	for (let i = 0; i < material.sections.length; i++) if (isReadable(material, material.sections[i])) result.push(material.sections[i])
 	readableCache.set(material.id, result)
 	return result
 }
@@ -153,37 +121,25 @@ export function childrenOf(material : Material, parentId : string) : MaterialSec
 	const result : MaterialSection[] = []
 	for (let i = 0; i < material.sections.length; i++) {
 		const s = material.sections[i]
-		if (s.level == 2 && s.parentId == parentId) {
-			result.push(s)
-		}
+		if (s.level == 2 && s.parentId == parentId) result.push(s)
 	}
 	return result
 }
 
 export function sectionById(material : Material, id : string) : MaterialSection | null {
-	for (let i = 0; i < material.sections.length; i++) {
-		if (material.sections[i].id == id) {
-			return material.sections[i]
-		}
-	}
+	for (let i = 0; i < material.sections.length; i++) if (material.sections[i].id == id) return material.sections[i]
 	return null
 }
 
 export function chapterOf(material : Material, section : MaterialSection) : MaterialSection | null {
-	if (section.parentId == null) {
-		return section
-	}
+	if (section.parentId == null) return section
 	return sectionById(material, section.parentId!)
 }
 
 export function blocksOf(material : Material, section : MaterialSection) : ContentBlock[] {
-	const idx = blockIndex(material)
-	const result : ContentBlock[] = []
+	const idx = blockIndex(material); const result : ContentBlock[] = []
 	for (let i = 0; i < section.blockIds.length; i++) {
-		const b = idx.get(section.blockIds[i])
-		if (b != null) {
-			result.push(b!)
-		}
+		const b = idx.get(section.blockIds[i]); if (b != null) result.push(b!)
 	}
 	return result
 }
@@ -192,12 +148,7 @@ function sectionOfBlock(material : Material) : Map<string, string> {
 	let idx = sectionOfBlockCache.get(material.id)
 	if (idx == null) {
 		idx = new Map<string, string>()
-		for (let i = 0; i < material.sections.length; i++) {
-			const s = material.sections[i]
-			for (let j = 0; j < s.blockIds.length; j++) {
-				idx.set(s.blockIds[j], s.id)
-			}
-		}
+		for (let i = 0; i < material.sections.length; i++) for (let j = 0; j < material.sections[i].blockIds.length; j++) idx.set(material.sections[i].blockIds[j], material.sections[i].id)
 		sectionOfBlockCache.set(material.id, idx)
 	}
 	return sectionOfBlockCache.get(material.id)!
@@ -205,38 +156,24 @@ function sectionOfBlock(material : Material) : Map<string, string> {
 
 export function sectionOfBlockId(material : Material, blockId : string) : MaterialSection | null {
 	const sid = sectionOfBlock(material).get(blockId)
-	if (sid == null) {
-		return null
-	}
+	if (sid == null) return null
 	return sectionById(material, sid)
 }
 
 export function prevSection(material : Material, sectionId : string) : MaterialSection | null {
 	const list = readableSections(material)
-	for (let i = 1; i < list.length; i++) {
-		if (list[i].id == sectionId) {
-			return list[i - 1]
-		}
-	}
+	for (let i = 1; i < list.length; i++) if (list[i].id == sectionId) return list[i - 1]
 	return null
 }
 
 export function nextSection(material : Material, sectionId : string) : MaterialSection | null {
 	const list = readableSections(material)
-	for (let i = 0; i < list.length - 1; i++) {
-		if (list[i].id == sectionId) {
-			return list[i + 1]
-		}
-	}
+	for (let i = 0; i < list.length - 1; i++) if (list[i].id == sectionId) return list[i + 1]
 	return null
 }
 
 export function sectionPosition(material : Material, sectionId : string) : string {
 	const list = readableSections(material)
-	for (let i = 0; i < list.length; i++) {
-		if (list[i].id == sectionId) {
-			return (i + 1).toString() + ' / ' + list.length.toString()
-		}
-	}
+	for (let i = 0; i < list.length; i++) if (list[i].id == sectionId) return (i + 1).toString() + ' / ' + list.length.toString()
 	return ''
 }
