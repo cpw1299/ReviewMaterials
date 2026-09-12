@@ -62,11 +62,6 @@
     materialTitle.value = m.title
   })
 
-  /** onShow 重建：从阅读页返回时刷新已复习标记与继续学习入口 */
-  onShow(() => {
-    rebuild()
-  })
-
   function rebuild() {
     const m = material.value
     if (m == null) {
@@ -130,6 +125,11 @@
     }
     uni.navigateTo({ url: '/pages/material/read?materialId=' + m.id + '&sectionId=' + sectionId })
   }
+
+  /** onShow 重建：从阅读页返回时刷新已复习标记与继续学习入口 */
+  onShow(() => {
+    rebuild()
+  })
 </script>
 
 <style>
