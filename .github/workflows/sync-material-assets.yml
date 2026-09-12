@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - dev
+    paths:
+      - 'common/materials/**'
 
 permissions:
   contents: write
@@ -15,14 +17,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Copy material JSON into static assets
+      - name: Build static material package
         run: |
+          rm -rf static/materials
           mkdir -p static/materials
           cp common/materials/index.json static/materials/index.json
-          cp common/materials/mechanical-drawing.json static/materials/mechanical-drawing.json
-          cp common/materials/caid.json static/materials/caid.json
-          cp common/materials/industrial-design-history.json static/materials/industrial-design-history.json
-          cp common/materials/product-design.json static/materials/product-design.json
+          cp -R common/materials/parts static/materials/parts
 
       - name: Commit synced assets
         run: |
@@ -33,5 +33,5 @@ jobs:
             echo "No material asset changes."
             exit 0
           fi
-          git commit -m "chore: sync material JSON assets"
+          git commit -m "chore: rebuild chapter-split material assets"
           git push
