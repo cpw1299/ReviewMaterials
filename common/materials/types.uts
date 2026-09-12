@@ -21,10 +21,6 @@ export type MaterialSection = {
 	blockIds : string[]
 }
 
-/**
- * 所有 block 形状统一（缺省字段也给默认值），保证 JSON 可以整体 as ContentBlock[] 转型。
- * type 取值：heading / paragraph / kv / list_item / table / quote
- */
 export type ContentBlock = {
 	id : string
 	type : string
@@ -45,4 +41,20 @@ export type Material = {
 	subject : string
 	sections : MaterialSection[]
 	blocks : ContentBlock[]
+}
+
+export type MaterialChapterManifestItem = {
+	id : string
+	title : string
+	file : string
+	sectionCount : number
+	blockCount : number
+}
+
+export type MaterialManifest = {
+	schemaVersion : number
+	id : string
+	title : string
+	subject : string
+	chapters : MaterialChapterManifestItem[]
 }
