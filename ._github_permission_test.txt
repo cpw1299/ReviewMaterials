@@ -1,0 +1,2 @@
+GitHub connector read/write permission test.
+Created on 2026-09-12.
