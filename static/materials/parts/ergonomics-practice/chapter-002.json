@@ -1,0 +1,816 @@
+{
+  "schemaVersion": 1,
+  "id": "ergonomics-practice",
+  "title": "人机工程学应用（实践）复习题库",
+  "subject": "人机工程学应用（实践）",
+  "sections": [
+    {
+      "id": "sec-002",
+      "title": "第二部分判断题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0243",
+        "blk-0244",
+        "blk-0245",
+        "blk-0246",
+        "blk-0247",
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256",
+        "blk-0257",
+        "blk-0258",
+        "blk-0259",
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279",
+        "blk-0280",
+        "blk-0281",
+        "blk-0282",
+        "blk-0283",
+        "blk-0284"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0243",
+      "type": "heading",
+      "level": 1,
+      "text": "第二部分判断题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0244",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：听着合理、严谨、符合常识的打√；听着绝对、离谱、太片面的打×。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0245",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 正确 人机工程学是研究人、机器和环境三者之间相互关系的学科。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0246",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 错误 人机工程学只研究机器性能，不关心人的因素。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0247",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 正确 人机工程学的核心目标是让机器适应人，而不是让人适应机器。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0248",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 错误 人机工程学就是研究怎么训练人更快适应机器。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0249",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 正确 人体尺寸测量数据通常用百分位表示，第50百分位代表中等身材。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0250",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 错误 设计产品时用平均身高数据就能满足所有用户需求。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0251",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 正确 人体尺寸受年龄、性别、地域等因素影响，设计时要考虑目标群体特征。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0252",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 错误 成年人的身高从20岁到60岁基本不会发生变化。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0253",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第9题 正确 视觉是人获取信息最重要的感觉通道，约80%的信息通过视觉获得。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0254",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第10题 错误 听觉在人机系统中的作用比视觉更重要。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0255",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第11题 正确 人的视野范围有限，重要信息应放在视野中心区域。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0256",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第12题 错误 人眼可以同时看清视野内所有位置的细节。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0257",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第13题 正确 操纵装置的设计应该符合人的操作习惯和生理特征。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0258",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14题 错误 所有操纵装置都应设计成相同形状，方便统一操作。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0259",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第15题 正确 控制器的运动方向应与被控对象的运动方向一致，如方向盘左转车向左。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0260",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第16题 错误 控制器和显示器可以随意布局，不需要考虑对应关系。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0261",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第17题 正确 人机界面设计要考虑信息显示的清晰性、可读性和可理解性。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0262",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第18题 错误 界面上信息越多越好，用户自己会筛选。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0263",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第19题 正确 坐姿作业时，座椅高度应使大腿基本水平，小腿自然垂直。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0264",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第20题 错误 站立作业时工作台越高越好，这样可以挺直腰板。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0265",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第21题 正确 作业空间设计要考虑人的活动范围，包括最大触及范围和舒适操作范围。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0266",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第22题 错误 人的手臂可以无限伸展，作业空间不需要考虑触及范围。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0267",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第23题 正确 认知负荷是指人在处理信息时大脑所承受的负担。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0268",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第24题 错误 认知负荷越高越好，说明信息量丰富。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0269",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第25题 正确 心理模型是用户对产品如何工作的内在理解和预期。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0270",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第26题 错误 设计师的心理模型和用户的心理模型总是一样的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0271",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第27题 正确 可穿戴设备设计要考虑佩戴舒适性、运动适应性和交互便捷性。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0272",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第28题 错误 可穿戴设备只要功能强大就行，舒不舒服不重要。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0273",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第29题 正确 老年人的人体尺寸和生理特征与年轻人不同，设计时要区别对待。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0274",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第30题 错误 残疾人的需求是少数人的需求，设计时不需要考虑。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0275",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第31题 正确 人机系统设计的目标是提高效率、保证安全和提升舒适性。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0276",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第32题 错误 人机系统设计只需考虑机器性能，人的因素不重要。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0277",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第33题 正确 显示装置设计要符合人的视觉特性，如字体大小、对比度和颜色搭配。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0278",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第34题 错误 显示装置上的文字越小越好，这样可以显示更多信息。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0279",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第35题 正确 人体测量数据有局限性，不同国家、地区、民族的数据可能不同。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0280",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第36题 错误 中国的人体尺寸数据和美国完全一样，可以直接套用。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0281",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第37题 正确 作业环境中的照明、噪音、温度等因素都会影响工作效率和舒适性。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0282",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第38题 错误 作业环境只要不太冷不太热就行，照明和噪音不影响工作。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0283",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第39题 正确 人机交互设计要关注用户的使用场景、操作习惯和心理预期。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0284",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第40题 错误 人机交互设计就是设计好看的界面，和用户习惯无关。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}
