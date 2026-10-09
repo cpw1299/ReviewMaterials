@@ -2,8 +2,9 @@
 # 资料生成源：doc/MarkdownFiles；输出同时生成合并 Web 数据和按大章节拆分的 App 数据。
 import json,re
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]; SRC=ROOT/'doc'/'MarkdownFiles'; OUT=ROOT/'common'/'materials'; PARTS=OUT/'parts'
+ROOT=Path(__file__).resolve().parents[1]; SRC=ROOT/'doc'/'MarkdownFiles'; PRACTICE_SRC=ROOT/'doc'/'20261009MarkdownFlies'; OUT=ROOT/'common'/'materials'; PARTS=OUT/'parts'
 MAPPING={'产品设计程序与_复习资料.md':('product-design','产品设计程序与复习资料','产品设计程序'),'工业设计史_复习资料.md':('industrial-design-history','工业设计史复习资料','工业设计史'),'机械制图基础(本)_复习资料.md':('mechanical-drawing','机械制图基础（本）复习资料','机械制图基础'),'计算机辅助产品设计_复习资料.md':('caid','计算机辅助产品设计复习资料','计算机辅助产品设计')}
+PRACTICE_MAPPING={'《产品设计程序与方法（实践）》复习题库.md':('product-design-practice','产品设计程序与方法（实践）复习题库','产品设计程序与方法（实践）'),'《人机工程学应用（实践）》复习题库.md':('ergonomics-practice','人机工程学应用（实践）复习题库','人机工程学应用（实践）'),'《可持续设计（实践）》复习题库.md':('sustainable-design-practice','可持续设计（实践）复习题库','可持续设计（实践）'),'《计算机辅助产品设计（实践）》复习题库.md':('caid-practice','计算机辅助产品设计（实践）复习题库','计算机辅助产品设计（实践）')}
 
 def clean_inline(s):
     s=s.strip(); s=re.sub(r'!\[([^]]*)\]\([^)]*\)',r'\1',s); s=re.sub(r'\[([^]]+)\]\([^)]*\)',r'\1',s); s=re.sub(r'`([^`]+)`',r'\1',s); s=re.sub(r'\*\*([^*]+)\*\*',r'\1',s); s=re.sub(r'__([^_]+)__',r'\1',s); s=re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)',r'\1',s); s=re.sub(r'(?<!_)_([^_]+)_(?!_)',r'\1',s); s=re.sub(r'<br\s*/?>','\n',s,flags=re.I); return s.replace('\u00a0',' ').replace('\u3000',' ').strip()
@@ -72,8 +73,9 @@ def chapter_data(mid,title,subject,ci,root,sections,blocks):
 
 def main():
     OUT.mkdir(parents=True,exist_ok=True); PARTS.mkdir(parents=True,exist_ok=True); index=[]; missing=[]
-    for fn,(mid,title,subject) in MAPPING.items():
-        p=SRC/fn
+    sources=[(SRC,fn,meta) for fn,meta in MAPPING.items()]+[(PRACTICE_SRC,fn,meta) for fn,meta in PRACTICE_MAPPING.items()]
+    for src_dir,fn,(mid,title,subject) in sources:
+        p=src_dir/fn
         if not p.exists(): missing.append(fn); continue
         sections,blocks=parse_md(p.read_text(encoding='utf-8')); data={'schemaVersion':1,'id':mid,'title':title,'subject':subject,'sections':sections,'blocks':blocks}
         (OUT/f'{mid}.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -85,7 +87,7 @@ def main():
             (part_dir/fn_part).write_text(json.dumps(part,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
             entries.append({'id':part['id'],'title':ch['title'],'file':fn_part,'sectionCount':len(part['sections']),'blockCount':len(part['blocks'])})
         (part_dir/'manifest.json').write_text(json.dumps({'schemaVersion':1,'id':mid,'title':title,'subject':subject,'chapters':entries},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-        index.append({'id':mid,'title':title,'subject':subject,'file':f'{mid}.json','sectionCount':len(sections),'blockCount':len(blocks),'updatedAt':'2026-09-12'})
+        index.append({'id':mid,'title':title,'subject':subject,'file':f'{mid}.json','sectionCount':len(sections),'blockCount':len(blocks),'updatedAt':'2026-10-09' if src_dir == PRACTICE_SRC else '2026-09-12'})
     if missing: raise SystemExit('Missing Markdown: '+', '.join(missing))
     (OUT/'index.json').write_text(json.dumps({'schemaVersion':1,'materials':index},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 if __name__=='__main__': main()
