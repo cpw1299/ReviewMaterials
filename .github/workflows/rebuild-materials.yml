@@ -1,11 +1,7 @@
 name: rebuild-materials
 on:
-  push:
-    branches: [dev]
-    paths:
-      - 'doc/MarkdownFiles/**'
-      - 'doc/20261009MarkdownFlies/**'
-      - 'scripts/prepare_materials.py'
+  # Material generation and static sync are handled by sync-material-assets.yml.
+  # Keep manual dispatch for maintainers who want to rebuild the JSON bundle only.
   workflow_dispatch:
 permissions:
   contents: write
