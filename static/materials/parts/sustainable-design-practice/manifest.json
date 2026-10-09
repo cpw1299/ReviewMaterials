@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "sustainable-design-practice",
+  "title": "可持续设计（实践）复习题库",
+  "subject": "可持续设计（实践）",
+  "chapters": [
+    {
+      "id": "sec-001",
+      "title": "第一部分：答题技巧速记",
+      "file": "chapter-001.json",
+      "sectionCount": 1,
+      "blockCount": 5
+    },
+    {
+      "id": "sec-002",
+      "title": "第二部分：选择题",
+      "file": "chapter-002.json",
+      "sectionCount": 1,
+      "blockCount": 241
+    },
+    {
+      "id": "sec-003",
+      "title": "第三部分：判断题",
+      "file": "chapter-003.json",
+      "sectionCount": 1,
+      "blockCount": 42
+    },
+    {
+      "id": "sec-004",
+      "title": "第四部分：简答题",
+      "file": "chapter-004.json",
+      "sectionCount": 1,
+      "blockCount": 59
+    },
+    {
+      "id": "sec-005",
+      "title": "第五部分：论述题",
+      "file": "chapter-005.json",
+      "sectionCount": 1,
+      "blockCount": 138
+    }
+  ]
+}
