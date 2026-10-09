@@ -1,0 +1,1253 @@
+{
+  "schemaVersion": 1,
+  "id": "ergonomics-practice",
+  "title": "人机工程学应用（实践）复习题库",
+  "subject": "人机工程学应用（实践）",
+  "sections": [
+    {
+      "id": "sec-003",
+      "title": "简答题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0285",
+        "blk-0286",
+        "blk-0287",
+        "blk-0288",
+        "blk-0289",
+        "blk-0290",
+        "blk-0291",
+        "blk-0292",
+        "blk-0293",
+        "blk-0294",
+        "blk-0295",
+        "blk-0296",
+        "blk-0297",
+        "blk-0298",
+        "blk-0299",
+        "blk-0300",
+        "blk-0301",
+        "blk-0302",
+        "blk-0303",
+        "blk-0304",
+        "blk-0305",
+        "blk-0306",
+        "blk-0307",
+        "blk-0308",
+        "blk-0309",
+        "blk-0310",
+        "blk-0311",
+        "blk-0312",
+        "blk-0313",
+        "blk-0314",
+        "blk-0315",
+        "blk-0316",
+        "blk-0317",
+        "blk-0318",
+        "blk-0319",
+        "blk-0320",
+        "blk-0321",
+        "blk-0322",
+        "blk-0323",
+        "blk-0324",
+        "blk-0325",
+        "blk-0326",
+        "blk-0327",
+        "blk-0328",
+        "blk-0329",
+        "blk-0330",
+        "blk-0331",
+        "blk-0332",
+        "blk-0333",
+        "blk-0334",
+        "blk-0335",
+        "blk-0336",
+        "blk-0337",
+        "blk-0338",
+        "blk-0339",
+        "blk-0340",
+        "blk-0341",
+        "blk-0342",
+        "blk-0343",
+        "blk-0344",
+        "blk-0345",
+        "blk-0346",
+        "blk-0347",
+        "blk-0348",
+        "blk-0349"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0285",
+      "type": "heading",
+      "level": 1,
+      "text": "简答题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0286",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：每题写3到5条，每条写一句话。结合生活经验回答",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0287",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 请结合你的生活经验，说说什么是人机工程学，并举一个你生活中遇到的人机工程学问题的例子。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0288",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0289",
+      "type": "list_item",
+      "level": 0,
+      "text": "人机工程学是研究人、机器和环境之间关系的学科。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0290",
+      "type": "list_item",
+      "level": 0,
+      "text": "目的是让机器适应人，让人用起来舒服、安全、高效。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0291",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：椅子坐久了腰疼，说明椅子没有考虑人的脊柱曲线。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0292",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：手机屏幕在阳光下看不清，说明显示设计没有考虑使用环境。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0293",
+      "type": "list_item",
+      "level": 0,
+      "text": "人机工程学就是让产品好用、好操作、不累人。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0294",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 你平时用的椅子坐着舒服吗？请从人机工程学角度分析，一把好椅子应该具备哪些特点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0295",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0296",
+      "type": "list_item",
+      "level": 0,
+      "text": "椅背有腰托，支撑腰椎，维持脊柱自然曲线。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0297",
+      "type": "list_item",
+      "level": 0,
+      "text": "坐垫软硬适中，久坐不塌陷。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0298",
+      "type": "list_item",
+      "level": 0,
+      "text": "座椅高度可调，让大腿基本水平、小腿自然垂直。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0299",
+      "type": "list_item",
+      "level": 0,
+      "text": "扶手高度合适，手臂自然放松。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0300",
+      "type": "list_item",
+      "level": 0,
+      "text": "椅背可后仰，缓解长时间坐姿的疲劳。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0301",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 请举例说明你生活中遇到的显示装置设计不合理的问题，并说说应该怎么改进。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0302",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0303",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：手机在阳光下屏幕看不清，亮度不够、反光严重。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0304",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：提高屏幕亮度，增加防眩光涂层。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0305",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：遥控器按键太小，图标看不清。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0306",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：常用按键做大、字迹清晰、颜色对比强。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0307",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：电梯楼层显示字体太小，老人看不清。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0308",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：加大字体，提高对比度。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0309",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 你平时用手机时，哪些操作让你觉得不顺手？请从人机交互角度分析，并说说怎么改进。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0310",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0311",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：手机太大，单手够不到屏幕另一侧。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0312",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：把常用功能放在拇指容易够到的区域。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0313",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：App按钮太小，容易点错。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0314",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：按钮至少大于手指指腹面积，通常不小于44像素。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0315",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：指纹解锁手湿就解不开。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0316",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：增加面部识别等多种解锁方式。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0317",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 请举例说明你生活中遇到的操纵装置设计不合理的问题，并说说应该怎么改进。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0318",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0319",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：门把手是圆球形，手湿拧不开。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0320",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：换成杠杆式下压把手，更省力。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0321",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：炒锅手柄太细，端起来勒手。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0322",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：手柄加粗，增加防滑软垫。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0323",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：水杯盖子太紧，老人拧不开。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0324",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：增加摩擦力，或改成按压式开盖。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0325",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 你戴过可穿戴设备吗？比如智能手表、手环。请从人机工程学角度说说，好的可穿戴设备应该注意什么。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0326",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0327",
+      "type": "list_item",
+      "level": 0,
+      "text": "佩戴舒适，表带柔软贴合，不勒手腕。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0328",
+      "type": "list_item",
+      "level": 0,
+      "text": "重量轻，不增加手腕负担。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0329",
+      "type": "list_item",
+      "level": 0,
+      "text": "屏幕在阳光下能看清，夜晚不刺眼。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0330",
+      "type": "list_item",
+      "level": 0,
+      "text": "操作简单，抬手就能看信息。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0331",
+      "type": "list_item",
+      "level": 0,
+      "text": "续航时间长，不用天天充电。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0332",
+      "type": "list_item",
+      "level": 0,
+      "text": "运动时不会滑落，防水防汗。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0333",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 你去过商场、医院、地铁站等公共场所，有没有发现空间设计不合理的地方？请举例说明并给出改进建议。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0334",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0335",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：地铁扶手太高，矮个子够不到。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0336",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：增加拉环或降低扶手高度。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0337",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：医院座椅没有扶手，老人起身困难。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0338",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：加装扶手，方便起身。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0339",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：商场洗手间洗手台太高，小孩够不到。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0340",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：增加儿童洗手台或脚踏。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0341",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 如果你要设计一款给老年人用的手机，你会从人机工程学角度考虑哪些方面？请列出至少5点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0342",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0343",
+      "type": "list_item",
+      "level": 0,
+      "text": "字体大，看得清，默认大字号。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0344",
+      "type": "list_item",
+      "level": 0,
+      "text": "声音大，听得见，通话音量放大。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0345",
+      "type": "list_item",
+      "level": 0,
+      "text": "图标简单，容易理解，不要复杂层级。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0346",
+      "type": "list_item",
+      "level": 0,
+      "text": "按钮大，方便手指按，不要小触控点。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0347",
+      "type": "list_item",
+      "level": 0,
+      "text": "操作步骤少，每一步有明确提示。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0348",
+      "type": "list_item",
+      "level": 0,
+      "text": "可以设置紧急联系人一键呼叫。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0349",
+      "type": "list_item",
+      "level": 0,
+      "text": "手机重量轻，方便握持，不容易滑落。",
+      "label": "",
+      "marker": "7.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}
