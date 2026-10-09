@@ -5,6 +5,10 @@ import mechanicalRaw from './mechanical-drawing.json'
 import caidRaw from './caid.json'
 import industrialRaw from './industrial-design-history.json'
 import productRaw from './product-design.json'
+import productPracticeRaw from './product-design-practice.json'
+import ergonomicsPracticeRaw from './ergonomics-practice.json'
+import sustainablePracticeRaw from './sustainable-design-practice.json'
+import caidPracticeRaw from './caid-practice.json'
 // #endif
 
 import { MaterialIndex, Material, MaterialSection, ContentBlock, MaterialManifest } from './types.uts'
@@ -66,7 +70,7 @@ export function loadMaterial(id : string) : Material | null {
 	let material : Material | null = null
 
 	// #ifdef APP
-	if (id == 'mechanical-drawing' || id == 'caid' || id == 'industrial-design-history' || id == 'product-design') {
+	if (id == 'mechanical-drawing' || id == 'caid' || id == 'industrial-design-history' || id == 'product-design' || id == 'product-design-practice' || id == 'ergonomics-practice' || id == 'sustainable-design-practice' || id == 'caid-practice') {
 		material = loadSplitMaterial(id)
 	}
 	// #endif
@@ -76,6 +80,10 @@ export function loadMaterial(id : string) : Material | null {
 	else if (id == 'caid') material = parseImportedJson<Material>(caidRaw)
 	else if (id == 'industrial-design-history') material = parseImportedJson<Material>(industrialRaw)
 	else if (id == 'product-design') material = parseImportedJson<Material>(productRaw)
+	else if (id == 'product-design-practice') material = parseImportedJson<Material>(productPracticeRaw)
+	else if (id == 'ergonomics-practice') material = parseImportedJson<Material>(ergonomicsPracticeRaw)
+	else if (id == 'sustainable-design-practice') material = parseImportedJson<Material>(sustainablePracticeRaw)
+	else if (id == 'caid-practice') material = parseImportedJson<Material>(caidPracticeRaw)
 	// #endif
 
 	if (material == null) return null
