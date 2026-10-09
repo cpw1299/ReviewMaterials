@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 资料生成源：doc/MarkdownFiles；输出同时生成合并 Web 数据和按大章节拆分的 App 数据。
+# 资料生成源：doc/MarkdownFiles 与 doc/20261009MarkdownFlies；输出合并 Web 数据和按大章节拆分的 App 数据。
 import json,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]; SRC=ROOT/'doc'/'MarkdownFiles'; PRACTICE_SRC=ROOT/'doc'/'20261009MarkdownFlies'; OUT=ROOT/'common'/'materials'; PARTS=OUT/'parts'
