@@ -1,0 +1,4445 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-practice-chapter-03",
+  "title": "计算机辅助产品设计（实践）复习题库",
+  "subject": "计算机辅助产品设计（实践）",
+  "sections": [
+    {
+      "id": "sec-003",
+      "title": "选择题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020",
+        "blk-0021",
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029",
+        "blk-0030",
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043",
+        "blk-0044",
+        "blk-0045",
+        "blk-0046",
+        "blk-0047",
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059",
+        "blk-0060",
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066",
+        "blk-0067",
+        "blk-0068",
+        "blk-0069",
+        "blk-0070",
+        "blk-0071",
+        "blk-0072",
+        "blk-0073",
+        "blk-0074",
+        "blk-0075",
+        "blk-0076",
+        "blk-0077",
+        "blk-0078",
+        "blk-0079",
+        "blk-0080",
+        "blk-0081",
+        "blk-0082",
+        "blk-0083",
+        "blk-0084",
+        "blk-0085",
+        "blk-0086",
+        "blk-0087",
+        "blk-0088",
+        "blk-0089",
+        "blk-0090",
+        "blk-0091",
+        "blk-0092",
+        "blk-0093",
+        "blk-0094",
+        "blk-0095",
+        "blk-0096",
+        "blk-0097",
+        "blk-0098",
+        "blk-0099",
+        "blk-0100",
+        "blk-0101",
+        "blk-0102",
+        "blk-0103",
+        "blk-0104",
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109",
+        "blk-0110",
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121",
+        "blk-0122",
+        "blk-0123",
+        "blk-0124",
+        "blk-0125",
+        "blk-0126",
+        "blk-0127",
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136",
+        "blk-0137",
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144",
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152",
+        "blk-0153",
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159",
+        "blk-0160",
+        "blk-0161",
+        "blk-0162",
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178",
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191",
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202",
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207",
+        "blk-0208",
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228",
+        "blk-0229",
+        "blk-0230",
+        "blk-0231",
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237",
+        "blk-0238",
+        "blk-0239"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0007",
+      "type": "heading",
+      "level": 1,
+      "text": "选择题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0008",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 你在Rhino里画了一条曲线，发现它不够平滑，有折角。应该用什么工具来调整？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0009",
+      "type": "list_item",
+      "level": 0,
+      "text": "直接删掉重画",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0010",
+      "type": "list_item",
+      "level": 0,
+      "text": "用控制点编辑工具拖动控制点，调整曲线弧度",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0011",
+      "type": "list_item",
+      "level": 0,
+      "text": "把曲线复制一份",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0012",
+      "type": "list_item",
+      "level": 0,
+      "text": "把曲线隐藏起来",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0013",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0014",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 Rhino的界面中，你输入命令的地方叫什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0015",
+      "type": "list_item",
+      "level": 0,
+      "text": "状态栏",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0016",
+      "type": "list_item",
+      "level": 0,
+      "text": "工具栏",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0017",
+      "type": "list_item",
+      "level": 0,
+      "text": "指令栏",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0018",
+      "type": "list_item",
+      "level": 0,
+      "text": "图层面板",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0019",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0020",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 你在Rhino里建了一个曲面，发现曲面上有裂缝，两个面接不上。最可能的原因是什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0021",
+      "type": "list_item",
+      "level": 0,
+      "text": "电脑配置不够",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0022",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线质量不好，或者曲面连续性没设置好",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0023",
+      "type": "list_item",
+      "level": 0,
+      "text": "软件版本太低",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0024",
+      "type": "list_item",
+      "level": 0,
+      "text": "显示器分辨率不够",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0025",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0026",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 Rhino中NURBS的中文全称是什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0027",
+      "type": "list_item",
+      "level": 0,
+      "text": "非均匀有理B样条",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0028",
+      "type": "list_item",
+      "level": 0,
+      "text": "数字建模系统",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0029",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面网格系统",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0030",
+      "type": "list_item",
+      "level": 0,
+      "text": "三维坐标系统",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0031",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0032",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 你在Rhino里画了一个圆，想把它变成一个有厚度的圆环。应该用哪个命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0033",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线偏移",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0034",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线修剪",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0035",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线圆角",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0036",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线挤出",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0037",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：D",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0038",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 Rhino中，要把一个物体沿着某条曲线复制排列多个，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0039",
+      "type": "list_item",
+      "level": 0,
+      "text": "阵列",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0040",
+      "type": "list_item",
+      "level": 0,
+      "text": "复制",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0041",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0042",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0043",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0044",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 你在Rhino里建了一个对称的产品，只需要建一半，另一半自动生成。应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0045",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0046",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0047",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0048",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0050",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 Rhino中，要把两条曲线连接成一条平滑曲线，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0051",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线修剪",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0052",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线偏移",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0053",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线混接",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0054",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线挤出",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0055",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0056",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第9题 你在Rhino里建了一个曲面，想检查它是否平滑，应该看什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0057",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面的颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0058",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面的控制点分布和曲率梳",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0059",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面的大小",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0060",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面的图层",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0061",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0062",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第10题 Rhino中，要把一个曲面加厚变成实体，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0063",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面向上",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0064",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面挤出",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0065",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面加厚",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0066",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0067",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0068",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第11题 你在Rhino里画曲线时，想让曲线经过某个特定点，应该用什么方式？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0069",
+      "type": "list_item",
+      "level": 0,
+      "text": "控制点曲线",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0070",
+      "type": "list_item",
+      "level": 0,
+      "text": "内插点曲线",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0071",
+      "type": "list_item",
+      "level": 0,
+      "text": "自由曲线",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0072",
+      "type": "list_item",
+      "level": 0,
+      "text": "直线",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0073",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0074",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第12题 Rhino中，要把一个物体沿着一个轴旋转复制，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0075",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0076",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0077",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0078",
+      "type": "list_item",
+      "level": 0,
+      "text": "环形阵列",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0079",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：D",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0080",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第13题 你在Rhino里建了一个模型，想把它导入KeyShot渲染，应该保存为什么格式？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0081",
+      "type": "list_item",
+      "level": 0,
+      "text": "JPG",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0082",
+      "type": "list_item",
+      "level": 0,
+      "text": "3dm或obj",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0083",
+      "type": "list_item",
+      "level": 0,
+      "text": "PDF",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0084",
+      "type": "list_item",
+      "level": 0,
+      "text": "txt",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0085",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0086",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14题 KeyShot中，要把一个材质赋予模型，应该怎么操作？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0087",
+      "type": "list_item",
+      "level": 0,
+      "text": "把材质拖到模型上",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0088",
+      "type": "list_item",
+      "level": 0,
+      "text": "把模型拖到材质上",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0089",
+      "type": "list_item",
+      "level": 0,
+      "text": "在模型上右键选择材质",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0090",
+      "type": "list_item",
+      "level": 0,
+      "text": "在材质上右键选择模型",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0091",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0092",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第15题 KeyShot中，要调整材质的颜色，应该在哪个面板操作？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0093",
+      "type": "list_item",
+      "level": 0,
+      "text": "项目面板",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0094",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质面板",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0095",
+      "type": "list_item",
+      "level": 0,
+      "text": "环境面板",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0096",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机面板",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0097",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0098",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第16题 KeyShot中，要给产品打光，让产品看起来更立体，应该调整什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0099",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机角度",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0100",
+      "type": "list_item",
+      "level": 0,
+      "text": "环境光和灯光设置",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0101",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型大小",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0102",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质颜色",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0103",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0104",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第17题 KeyShot中，要渲染一张高清效果图，应该调整什么参数？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0105",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型精度",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0106",
+      "type": "list_item",
+      "level": 0,
+      "text": "渲染输出分辨率",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0107",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质数量",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0108",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机数量",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0109",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0110",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第18题 KeyShot中，要给产品贴一个logo标签，应该用什么功能？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0111",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0112",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯光",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0113",
+      "type": "list_item",
+      "level": 0,
+      "text": "标签",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0114",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0115",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0116",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第19题 Rhino中，要把一个曲面修剪掉一部分，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0117",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0118",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0119",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面挤出",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0120",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面加厚",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0121",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0122",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第20题 Rhino中，要把两个曲面合并成一个曲面，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0123",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面合并",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0124",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面混接",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0125",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0126",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0127",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0128",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第21题 你在Rhino里建了一个模型，发现模型太大了，想缩小一半。应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0129",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0130",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0131",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0132",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0133",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0134",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第22题 Rhino中，要把一个物体从A点移动到B点，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0135",
+      "type": "list_item",
+      "level": 0,
+      "text": "复制",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0136",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0137",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0138",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0139",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0140",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第23题 KeyShot中，要调整相机的视角，让产品看起来更有冲击力，应该调整什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0141",
+      "type": "list_item",
+      "level": 0,
+      "text": "焦距和视角",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0142",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型大小",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0143",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质颜色",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0144",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯光亮度",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0145",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0146",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第24题 KeyShot中，要给产品加一个倒影效果，让产品看起来更高级，应该调整什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0147",
+      "type": "list_item",
+      "level": 0,
+      "text": "材质",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0148",
+      "type": "list_item",
+      "level": 0,
+      "text": "地面反射",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0149",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯光",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0150",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0151",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0152",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第25题 Rhino中，要把一条曲线变成一个有厚度的管状物体，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0153",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线挤出",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0154",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线圆管",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0155",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线偏移",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0156",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲线修剪",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0157",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0158",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第26题 Rhino中，要检查模型是否有破面或裂缝，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0159",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型缩放",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0160",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型旋转",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0161",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型移动",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0162",
+      "type": "list_item",
+      "level": 0,
+      "text": "模型检查",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0163",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：D",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0164",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第27题 KeyShot中，要把渲染好的图片保存下来，应该选择什么格式？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0165",
+      "type": "list_item",
+      "level": 0,
+      "text": "JPG或PNG",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0166",
+      "type": "list_item",
+      "level": 0,
+      "text": "3dm",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0167",
+      "type": "list_item",
+      "level": 0,
+      "text": "obj",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0168",
+      "type": "list_item",
+      "level": 0,
+      "text": "stl",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0169",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0170",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第28题 Rhino中，要把一个曲面变成网格，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0171",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0172",
+      "type": "list_item",
+      "level": 0,
+      "text": "网格从曲面创建",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0173",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0174",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面加厚",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0175",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0176",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第29题 KeyShot中，要给产品加一个环境背景，让产品看起来更真实，应该调整什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0177",
+      "type": "list_item",
+      "level": 0,
+      "text": "环境",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0178",
+      "type": "list_item",
+      "level": 0,
+      "text": "音效",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0179",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯光",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0180",
+      "type": "list_item",
+      "level": 0,
+      "text": "相机",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0181",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0182",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第30题 Rhino中，要把一个物体沿着一条路径扫掠成曲面，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0183",
+      "type": "list_item",
+      "level": 0,
+      "text": "单轨扫掠",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0184",
+      "type": "list_item",
+      "level": 0,
+      "text": "双轨扫掠",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0185",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0186",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0187",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0188",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第31题 KeyShot中，要调整材质的粗糙度，让产品看起来更哑光，应该调整什么参数？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0189",
+      "type": "list_item",
+      "level": 0,
+      "text": "颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0190",
+      "type": "list_item",
+      "level": 0,
+      "text": "折射率",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0191",
+      "type": "list_item",
+      "level": 0,
+      "text": "粗糙度",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0192",
+      "type": "list_item",
+      "level": 0,
+      "text": "透明度",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0193",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0194",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第32题 Rhino中，要把一个曲面展开成平面，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0195",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0196",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面展开",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0197",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0198",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面加厚    答案：B",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0199",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第33题 KeyShot中，要给产品加一个金属材质，应该选择什么材质类型？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0200",
+      "type": "list_item",
+      "level": 0,
+      "text": "塑料",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0201",
+      "type": "list_item",
+      "level": 0,
+      "text": "木材",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0202",
+      "type": "list_item",
+      "level": 0,
+      "text": "玻璃",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0203",
+      "type": "list_item",
+      "level": 0,
+      "text": "金属    答案：D",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0204",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第34题 Rhino中，要把一个物体沿着一个圆形路径旋转复制一圈，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0205",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0206",
+      "type": "list_item",
+      "level": 0,
+      "text": "环形阵列",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0207",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0208",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动    答案：B",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0209",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第35题 KeyShot中，要给产品加一个透明玻璃材质，应该调整什么参数？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0210",
+      "type": "list_item",
+      "level": 0,
+      "text": "颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0211",
+      "type": "list_item",
+      "level": 0,
+      "text": "透明度和折射率",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0212",
+      "type": "list_item",
+      "level": 0,
+      "text": "粗糙度",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0213",
+      "type": "list_item",
+      "level": 0,
+      "text": "金属度    答案：B",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0214",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第36题 Rhino中，要把一个曲面分割成两个曲面，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0215",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面分割",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0216",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面偏移",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0217",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面修剪",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0218",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面加厚    答案：A",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0219",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第37题 KeyShot中，要给产品加一个木纹材质，应该调整什么参数？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0220",
+      "type": "list_item",
+      "level": 0,
+      "text": "颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0221",
+      "type": "list_item",
+      "level": 0,
+      "text": "贴图",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0222",
+      "type": "list_item",
+      "level": 0,
+      "text": "粗糙度",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0223",
+      "type": "list_item",
+      "level": 0,
+      "text": "金属度    答案：B",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0224",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第38题 Rhino中，要把一个物体沿着一个轴旋转一定角度，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0225",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0226",
+      "type": "list_item",
+      "level": 0,
+      "text": "镜像",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0227",
+      "type": "list_item",
+      "level": 0,
+      "text": "移动",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0228",
+      "type": "list_item",
+      "level": 0,
+      "text": "缩放    答案：A",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0229",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第39题 KeyShot中，要给产品加一个发光材质，应该调整什么参数？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0230",
+      "type": "list_item",
+      "level": 0,
+      "text": "颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0231",
+      "type": "list_item",
+      "level": 0,
+      "text": "自发光",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0232",
+      "type": "list_item",
+      "level": 0,
+      "text": "粗糙度",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0233",
+      "type": "list_item",
+      "level": 0,
+      "text": "金属度    答案：B",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0234",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第40题 Rhino中，要把一个模型导出为STL格式用于3D打印，应该用什么命令？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0235",
+      "type": "list_item",
+      "level": 0,
+      "text": "保存",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0236",
+      "type": "list_item",
+      "level": 0,
+      "text": "另存为",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0237",
+      "type": "list_item",
+      "level": 0,
+      "text": "导出",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0238",
+      "type": "list_item",
+      "level": 0,
+      "text": "打印    答案：C",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0239",
+      "type": "heading",
+      "level": 1,
+      "text": "判断题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

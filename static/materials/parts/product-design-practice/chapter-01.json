@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "product-design-practice-chapter-01",
+  "title": "产品设计程序与方法（实践）复习题库",
+  "subject": "产品设计程序与方法（实践）",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "《产品设计程序与方法（实践）》复习题库",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 1,
+      "text": "《产品设计程序与方法（实践）》复习题库",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 1,
+      "text": "第一部分：答题技巧速记",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

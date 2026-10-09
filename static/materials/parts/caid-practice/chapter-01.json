@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-practice-chapter-01",
+  "title": "计算机辅助产品设计（实践）复习题库",
+  "subject": "计算机辅助产品设计（实践）",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "《计算机辅助产品设计（实践）》复习题库",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 1,
+      "text": "《计算机辅助产品设计（实践）》复习题库",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 1,
+      "text": "答题技巧速记",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-practice-chapter-04",
+  "title": "计算机辅助产品设计（实践）复习题库",
+  "subject": "计算机辅助产品设计（实践）",
+  "sections": [
+    {
+      "id": "sec-004",
+      "title": "判断题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0239",
+        "blk-0240",
+        "blk-0241",
+        "blk-0242",
+        "blk-0243",
+        "blk-0244",
+        "blk-0245",
+        "blk-0246",
+        "blk-0247",
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256",
+        "blk-0257",
+        "blk-0258",
+        "blk-0259",
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279",
+        "blk-0280",
+        "blk-0281"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0239",
+      "type": "heading",
+      "level": 1,
+      "text": "判断题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0240",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：听着合理、符合软件操作逻辑的打√；听着绝对、离谱、明显违背操作常识的打×。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0241",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 正确 Rhino是一款三维建模软件，常用于工业产品设计。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0242",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 错误 Rhino只能建模，不能渲染。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0243",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 正确 KeyShot是一款渲染软件，可以把Rhino模型渲染成照片级效果图。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0244",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 错误 KeyShot只能渲染，不能导入模型。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0245",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 正确 Rhino中，NURBS是一种用数学方式描述曲线和曲面的方法。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0246",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 错误 NURBS只能描述直线，不能描述曲线。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0247",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 正确 Rhino中，控制点是调整曲线形状的关键要素。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0248",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 错误 曲线一旦画好就不能修改了。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0249",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第9题 正确 Rhino中，曲面的连续性会影响模型的质量和外观。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0250",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第10题 错误 曲面连续性对模型质量没有影响。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0251",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第11题 正确 Rhino中，指令栏可以输入命令名称来执行操作。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0252",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第12题 错误 Rhino只能通过点击图标来操作，不能输入命令。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0253",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第13题 正确 Rhino中，坐标系用于确定物体在空间中的位置。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0254",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14题 错误 Rhino中不需要坐标系，随便画就行。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0255",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第15题 正确 Rhino中，镜像命令可以生成对称的模型。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0256",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第16题 错误 镜像命令只能复制，不能生成对称模型。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0257",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第17题 正确 Rhino中，双轨扫掠可以沿着两条路径生成曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0258",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第18题 错误 双轨扫掠只能生成平面，不能生成曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0259",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第19题 正确 KeyShot中，材质可以拖拽到模型上赋予材质。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0260",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第20题 错误 KeyShot中，材质不能拖拽，只能通过菜单选择。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0261",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第21题 正确 KeyShot中，环境光可以影响产品的整体照明效果。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0262",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第22题 错误 KeyShot中，环境光对渲染效果没有影响。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0263",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第23题 错误 Rhino中，曲面偏移可以把曲面加厚成实体。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0264",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第24题 错误 曲面偏移只能移动曲面，不能加厚。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0265",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第25题 正确 Rhino中，曲线挤出可以把曲线变成曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0266",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第26题 错误 曲线挤出只能生成曲线，不能生成曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0267",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第27题 正确 KeyShot中，标签功能可以在产品上贴logo或图案。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0268",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第28题 错误 KeyShot中，标签功能只能贴文字，不能贴图案。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0269",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第29题 正确 Rhino中，曲面修剪可以剪掉不需要的部分。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0270",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第30题 错误 曲面修剪只能修剪曲线，不能修剪曲面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0271",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第31题 正确 Rhino中，网格是从曲面转换来的，用于3D打印等用途。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0272",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第32题 错误 网格和曲面是一回事，没有区别。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0273",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第33题 正确 KeyShot中，渲染输出分辨率越高，图片越清晰。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0274",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第34题 错误 渲染输出分辨率对图片清晰度没有影响。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0275",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第35题 正确 Rhino中，模型检查可以找出破面和裂缝。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0276",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第36题 错误 模型检查只能检查大小，不能检查破面。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0277",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第37题 正确 KeyShot中，粗糙度参数可以控制材质的哑光程度。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0278",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第38题 错误 粗糙度参数只能控制颜色，不能控制哑光程度。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0279",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第39题 正确 Rhino中，环形阵列可以沿着圆形路径复制物体。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0280",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第40题 错误 环形阵列只能复制一个物体，不能复制一圈。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0281",
+      "type": "heading",
+      "level": 1,
+      "text": "第四部分：简答题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,4635 @@
+{
+  "schemaVersion": 1,
+  "id": "ergonomics-practice-chapter-02",
+  "title": "人机工程学应用（实践）复习题库",
+  "subject": "人机工程学应用（实践）",
+  "sections": [
+    {
+      "id": "sec-002",
+      "title": "第一部分选择题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0002",
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007",
+        "blk-0008",
+        "blk-0009",
+        "blk-0010",
+        "blk-0011",
+        "blk-0012",
+        "blk-0013",
+        "blk-0014",
+        "blk-0015",
+        "blk-0016",
+        "blk-0017",
+        "blk-0018",
+        "blk-0019",
+        "blk-0020",
+        "blk-0021",
+        "blk-0022",
+        "blk-0023",
+        "blk-0024",
+        "blk-0025",
+        "blk-0026",
+        "blk-0027",
+        "blk-0028",
+        "blk-0029",
+        "blk-0030",
+        "blk-0031",
+        "blk-0032",
+        "blk-0033",
+        "blk-0034",
+        "blk-0035",
+        "blk-0036",
+        "blk-0037",
+        "blk-0038",
+        "blk-0039",
+        "blk-0040",
+        "blk-0041",
+        "blk-0042",
+        "blk-0043",
+        "blk-0044",
+        "blk-0045",
+        "blk-0046",
+        "blk-0047",
+        "blk-0048",
+        "blk-0049",
+        "blk-0050",
+        "blk-0051",
+        "blk-0052",
+        "blk-0053",
+        "blk-0054",
+        "blk-0055",
+        "blk-0056",
+        "blk-0057",
+        "blk-0058",
+        "blk-0059",
+        "blk-0060",
+        "blk-0061",
+        "blk-0062",
+        "blk-0063",
+        "blk-0064",
+        "blk-0065",
+        "blk-0066",
+        "blk-0067",
+        "blk-0068",
+        "blk-0069",
+        "blk-0070",
+        "blk-0071",
+        "blk-0072",
+        "blk-0073",
+        "blk-0074",
+        "blk-0075",
+        "blk-0076",
+        "blk-0077",
+        "blk-0078",
+        "blk-0079",
+        "blk-0080",
+        "blk-0081",
+        "blk-0082",
+        "blk-0083",
+        "blk-0084",
+        "blk-0085",
+        "blk-0086",
+        "blk-0087",
+        "blk-0088",
+        "blk-0089",
+        "blk-0090",
+        "blk-0091",
+        "blk-0092",
+        "blk-0093",
+        "blk-0094",
+        "blk-0095",
+        "blk-0096",
+        "blk-0097",
+        "blk-0098",
+        "blk-0099",
+        "blk-0100",
+        "blk-0101",
+        "blk-0102",
+        "blk-0103",
+        "blk-0104",
+        "blk-0105",
+        "blk-0106",
+        "blk-0107",
+        "blk-0108",
+        "blk-0109",
+        "blk-0110",
+        "blk-0111",
+        "blk-0112",
+        "blk-0113",
+        "blk-0114",
+        "blk-0115",
+        "blk-0116",
+        "blk-0117",
+        "blk-0118",
+        "blk-0119",
+        "blk-0120",
+        "blk-0121",
+        "blk-0122",
+        "blk-0123",
+        "blk-0124",
+        "blk-0125",
+        "blk-0126",
+        "blk-0127",
+        "blk-0128",
+        "blk-0129",
+        "blk-0130",
+        "blk-0131",
+        "blk-0132",
+        "blk-0133",
+        "blk-0134",
+        "blk-0135",
+        "blk-0136",
+        "blk-0137",
+        "blk-0138",
+        "blk-0139",
+        "blk-0140",
+        "blk-0141",
+        "blk-0142",
+        "blk-0143",
+        "blk-0144",
+        "blk-0145",
+        "blk-0146",
+        "blk-0147",
+        "blk-0148",
+        "blk-0149",
+        "blk-0150",
+        "blk-0151",
+        "blk-0152",
+        "blk-0153",
+        "blk-0154",
+        "blk-0155",
+        "blk-0156",
+        "blk-0157",
+        "blk-0158",
+        "blk-0159",
+        "blk-0160",
+        "blk-0161",
+        "blk-0162",
+        "blk-0163",
+        "blk-0164",
+        "blk-0165",
+        "blk-0166",
+        "blk-0167",
+        "blk-0168",
+        "blk-0169",
+        "blk-0170",
+        "blk-0171",
+        "blk-0172",
+        "blk-0173",
+        "blk-0174",
+        "blk-0175",
+        "blk-0176",
+        "blk-0177",
+        "blk-0178",
+        "blk-0179",
+        "blk-0180",
+        "blk-0181",
+        "blk-0182",
+        "blk-0183",
+        "blk-0184",
+        "blk-0185",
+        "blk-0186",
+        "blk-0187",
+        "blk-0188",
+        "blk-0189",
+        "blk-0190",
+        "blk-0191",
+        "blk-0192",
+        "blk-0193",
+        "blk-0194",
+        "blk-0195",
+        "blk-0196",
+        "blk-0197",
+        "blk-0198",
+        "blk-0199",
+        "blk-0200",
+        "blk-0201",
+        "blk-0202",
+        "blk-0203",
+        "blk-0204",
+        "blk-0205",
+        "blk-0206",
+        "blk-0207",
+        "blk-0208",
+        "blk-0209",
+        "blk-0210",
+        "blk-0211",
+        "blk-0212",
+        "blk-0213",
+        "blk-0214",
+        "blk-0215",
+        "blk-0216",
+        "blk-0217",
+        "blk-0218",
+        "blk-0219",
+        "blk-0220",
+        "blk-0221",
+        "blk-0222",
+        "blk-0223",
+        "blk-0224",
+        "blk-0225",
+        "blk-0226",
+        "blk-0227",
+        "blk-0228",
+        "blk-0229",
+        "blk-0230",
+        "blk-0231",
+        "blk-0232",
+        "blk-0233",
+        "blk-0234",
+        "blk-0235",
+        "blk-0236",
+        "blk-0237",
+        "blk-0238",
+        "blk-0239",
+        "blk-0240",
+        "blk-0241",
+        "blk-0242",
+        "blk-0243",
+        "blk-0244"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 1,
+      "text": "第一部分选择题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0003",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：正确选项通常表述最完整、最符合人机工程学原理。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0004",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 人机工程学研究的核心对象是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0005",
+      "type": "list_item",
+      "level": 0,
+      "text": "机器的性能和效率",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0006",
+      "type": "list_item",
+      "level": 0,
+      "text": "人的生理和心理特征",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0007",
+      "type": "list_item",
+      "level": 0,
+      "text": "人、机器、环境三者之间的相互关系",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0008",
+      "type": "list_item",
+      "level": 0,
+      "text": "产品的造型和色彩",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0009",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0010",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 人机工程学发展过程中，最根本的理念转变是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0011",
+      "type": "list_item",
+      "level": 0,
+      "text": "从研究机器到研究产品",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0012",
+      "type": "list_item",
+      "level": 0,
+      "text": "从“人适应机器”转变为“机器适应人”",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0013",
+      "type": "list_item",
+      "level": 0,
+      "text": "从工业领域扩展到军事领域",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0014",
+      "type": "list_item",
+      "level": 0,
+      "text": "从单学科研究转向多学科研究",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0015",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0016",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 人机工程学四大要素中，属于“人”的要素是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0017",
+      "type": "list_item",
+      "level": 0,
+      "text": "人的感知、认知和运动特征",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0018",
+      "type": "list_item",
+      "level": 0,
+      "text": "显示器和操纵器",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0019",
+      "type": "list_item",
+      "level": 0,
+      "text": "照明和噪音",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0020",
+      "type": "list_item",
+      "level": 0,
+      "text": "作业空间和工具",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0021",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0022",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 要了解用户在真实使用场景中的操作困难，最合适的研究方法是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0023",
+      "type": "list_item",
+      "level": 0,
+      "text": "查阅文献资料",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0024",
+      "type": "list_item",
+      "level": 0,
+      "text": "观察法和访谈法",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0025",
+      "type": "list_item",
+      "level": 0,
+      "text": "数学建模",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0026",
+      "type": "list_item",
+      "level": 0,
+      "text": "计算机仿真",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0027",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0028",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 感觉是人脑对直接作用于感觉器官的客观事物（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0029",
+      "type": "list_item",
+      "level": 0,
+      "text": "整体属性的反映",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0030",
+      "type": "list_item",
+      "level": 0,
+      "text": "个别属性的反映",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0031",
+      "type": "list_item",
+      "level": 0,
+      "text": "本质属性的反映",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0032",
+      "type": "list_item",
+      "level": 0,
+      "text": "综合属性的反映",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0033",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0034",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 知觉与感觉的主要区别在于（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0035",
+      "type": "list_item",
+      "level": 0,
+      "text": "知觉是对事物个别属性的反映",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0036",
+      "type": "list_item",
+      "level": 0,
+      "text": "知觉是对事物整体属性的反映",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0037",
+      "type": "list_item",
+      "level": 0,
+      "text": "知觉不需要感觉参与",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0038",
+      "type": "list_item",
+      "level": 0,
+      "text": "知觉只存在于视觉中",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0039",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0040",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 人眼在观察物体时，视线中心区域最清晰，边缘区域模糊，这称为（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0041",
+      "type": "list_item",
+      "level": 0,
+      "text": "视敏度分布",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0042",
+      "type": "list_item",
+      "level": 0,
+      "text": "视区",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0043",
+      "type": "list_item",
+      "level": 0,
+      "text": "视力",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0044",
+      "type": "list_item",
+      "level": 0,
+      "text": "视角",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0045",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0046",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 人耳能听到的声音频率范围大约是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0047",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A\\. 20Hz到20000Hz",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0048",
+      "type": "paragraph",
+      "level": 0,
+      "text": "B\\. 200Hz到2000Hz",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "C 2Hz到200Hz",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0050",
+      "type": "list_item",
+      "level": 0,
+      "text": "Hz到200000Hz",
+      "label": "",
+      "marker": "2000.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0051",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0052",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第9题 人体尺寸测量中，“第50百分位”的含义是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0053",
+      "type": "list_item",
+      "level": 0,
+      "text": "有一半的人尺寸大于此值，一半小于此值",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0054",
+      "type": "list_item",
+      "level": 0,
+      "text": "有50%的人正好是这个尺寸",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0055",
+      "type": "list_item",
+      "level": 0,
+      "text": "只有50个人能达到这个尺寸",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0056",
+      "type": "list_item",
+      "level": 0,
+      "text": "这个尺寸适用于50岁以上的人",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0057",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0058",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第10题 设计一款面向全国销售的椅子，选用人体尺寸数据时应优先考虑（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0059",
+      "type": "list_item",
+      "level": 0,
+      "text": "本地小范围测量数据",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0060",
+      "type": "list_item",
+      "level": 0,
+      "text": "目标用户群体的全国性人体尺寸数据",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0061",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计师自己的尺寸",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0062",
+      "type": "list_item",
+      "level": 0,
+      "text": "国外的人体尺寸数据",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0063",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0064",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第11题  设计门的高度时，应选用人体身高数据的（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0065",
+      "type": "list_item",
+      "level": 0,
+      "text": "第5百分位",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0066",
+      "type": "list_item",
+      "level": 0,
+      "text": "第50百分位",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0067",
+      "type": "list_item",
+      "level": 0,
+      "text": "第95百分位",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0068",
+      "type": "list_item",
+      "level": 0,
+      "text": "第100百分位",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0069",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0070",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第12题 设计座椅坐深时，应选用人体臀膝距数据的（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0071",
+      "type": "list_item",
+      "level": 0,
+      "text": "第5百分位",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0072",
+      "type": "list_item",
+      "level": 0,
+      "text": "第50百分位",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0073",
+      "type": "list_item",
+      "level": 0,
+      "text": "第95百分位",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0074",
+      "type": "list_item",
+      "level": 0,
+      "text": "第100百分位",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0075",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0076",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第13题 人体站立作业时，最舒适的作业高度通常在（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0077",
+      "type": "list_item",
+      "level": 0,
+      "text": "肘部以下5到10厘米",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0078",
+      "type": "list_item",
+      "level": 0,
+      "text": "肘部以上10到15厘米",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0079",
+      "type": "list_item",
+      "level": 0,
+      "text": "肩部以上",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0080",
+      "type": "list_item",
+      "level": 0,
+      "text": "膝关节以下",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0081",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0082",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14题 长期站立作业最容易引发的健康问题是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0083",
+      "type": "list_item",
+      "level": 0,
+      "text": "腰椎间盘突出",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0084",
+      "type": "list_item",
+      "level": 0,
+      "text": "下肢静脉曲张",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0085",
+      "type": "list_item",
+      "level": 0,
+      "text": "颈椎病",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0086",
+      "type": "list_item",
+      "level": 0,
+      "text": "肩周炎",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0087",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0088",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第15题 办公椅设计中，腰托的主要作用是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0089",
+      "type": "list_item",
+      "level": 0,
+      "text": "增加椅子重量",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0090",
+      "type": "list_item",
+      "level": 0,
+      "text": "支撑腰椎，维持脊柱自然曲线",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0091",
+      "type": "list_item",
+      "level": 0,
+      "text": "让椅子更美观",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0092",
+      "type": "list_item",
+      "level": 0,
+      "text": "方便搬运",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0093",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0094",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第16题 人在公共场所与陌生人保持的空间距离，通常属于（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0095",
+      "type": "list_item",
+      "level": 0,
+      "text": "亲密距离",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0096",
+      "type": "list_item",
+      "level": 0,
+      "text": "个人距离",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0097",
+      "type": "list_item",
+      "level": 0,
+      "text": "社交距离",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0098",
+      "type": "list_item",
+      "level": 0,
+      "text": "公共距离",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0099",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0100",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第17题  认知心理学中，“心理模型”是指（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0101",
+      "type": "list_item",
+      "level": 0,
+      "text": "大脑的物理结构",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0102",
+      "type": "list_item",
+      "level": 0,
+      "text": "用户对事物如何运作的内在理解和预期",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0103",
+      "type": "list_item",
+      "level": 0,
+      "text": "计算机的运算模型",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0104",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计师的设计草图",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0105",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0106",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第18题  认知负荷过高会导致（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0107",
+      "type": "list_item",
+      "level": 0,
+      "text": "工作效率提升",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0108",
+      "type": "list_item",
+      "level": 0,
+      "text": "操作失误增加和反应时间延长",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0109",
+      "type": "list_item",
+      "level": 0,
+      "text": "注意力更加集中",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0110",
+      "type": "list_item",
+      "level": 0,
+      "text": "记忆力增强",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0111",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0112",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第19题  创造性思维在人机设计中的主要作用是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0113",
+      "type": "list_item",
+      "level": 0,
+      "text": "降低产品成本",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0114",
+      "type": "list_item",
+      "level": 0,
+      "text": "从用户需求出发提出新颖的解决方案",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0115",
+      "type": "list_item",
+      "level": 0,
+      "text": "增加产品功能",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0116",
+      "type": "list_item",
+      "level": 0,
+      "text": "简化产品结构",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0117",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0118",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第20题  汽车方向盘属于哪一类操纵装置（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0119",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋转式操纵器",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0120",
+      "type": "list_item",
+      "level": 0,
+      "text": "按压式操纵器",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0121",
+      "type": "list_item",
+      "level": 0,
+      "text": "摆动式操纵器",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0122",
+      "type": "list_item",
+      "level": 0,
+      "text": "滑动式操纵器",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0123",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0124",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第21题  紧急停止按钮设计成红色、凸起、面积大，主要考虑的是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0125",
+      "type": "list_item",
+      "level": 0,
+      "text": "美观性",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0126",
+      "type": "list_item",
+      "level": 0,
+      "text": "降低成本",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0127",
+      "type": "list_item",
+      "level": 0,
+      "text": "紧急情况下的快速识别和操作",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0128",
+      "type": "list_item",
+      "level": 0,
+      "text": "方便包装",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0129",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：C",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0130",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第22题  控制器运动方向应与被控对象运动方向一致，例如（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0131",
+      "type": "list_item",
+      "level": 0,
+      "text": "方向盘左转车辆左转",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0132",
+      "type": "list_item",
+      "level": 0,
+      "text": "方向盘左转车辆右转",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0133",
+      "type": "list_item",
+      "level": 0,
+      "text": "操纵杆前推车辆后退",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0134",
+      "type": "list_item",
+      "level": 0,
+      "text": "油门踩下车辆减速",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0135",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0136",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第23题  多个操纵器排列时，最重要的设计原则是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0137",
+      "type": "list_item",
+      "level": 0,
+      "text": "按颜色排列",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0138",
+      "type": "list_item",
+      "level": 0,
+      "text": "按使用频率和功能逻辑排列",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0139",
+      "type": "list_item",
+      "level": 0,
+      "text": "按大小排列",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0140",
+      "type": "list_item",
+      "level": 0,
+      "text": "按价格排列",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0141",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0142",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第24题  人机系统的基本组成要素是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0143",
+      "type": "list_item",
+      "level": 0,
+      "text": "人、机器、环境",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0144",
+      "type": "list_item",
+      "level": 0,
+      "text": "人、机器、产品",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0145",
+      "type": "list_item",
+      "level": 0,
+      "text": "人、工具、材料",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0146",
+      "type": "list_item",
+      "level": 0,
+      "text": "人、机器、信息",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0147",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0148",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第25题  人机系统设计中，“人机匹配”的核心要求是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0149",
+      "type": "list_item",
+      "level": 0,
+      "text": "机器性能越高越好",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0150",
+      "type": "list_item",
+      "level": 0,
+      "text": "人的操作能力与机器要求相适应",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0151",
+      "type": "list_item",
+      "level": 0,
+      "text": "机器完全替代人的工作",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0152",
+      "type": "list_item",
+      "level": 0,
+      "text": "人完全适应机器的要求",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0153",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0154",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第26题  人机界面设计需要平衡的三个要素是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0155",
+      "type": "list_item",
+      "level": 0,
+      "text": "颜色、形状、材质",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0156",
+      "type": "list_item",
+      "level": 0,
+      "text": "功能性、可用性、用户体验",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0157",
+      "type": "list_item",
+      "level": 0,
+      "text": "成本、效率、美观",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0158",
+      "type": "list_item",
+      "level": 0,
+      "text": "硬件、软件、网络",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0159",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0160",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第27题  交互设计的核心任务是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0161",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计产品的外观",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0162",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计用户与产品之间的互动方式和体验",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0163",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计产品的内部结构",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0164",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计产品的包装",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0165",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0166",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第28题 可穿戴设备界面交互设计最需要关注的是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0167",
+      "type": "list_item",
+      "level": 0,
+      "text": "屏幕越大越好",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0168",
+      "type": "list_item",
+      "level": 0,
+      "text": "在运动状态下也能方便查看和操作",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0169",
+      "type": "list_item",
+      "level": 0,
+      "text": "功能越多越好",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0170",
+      "type": "list_item",
+      "level": 0,
+      "text": "价格越低越好",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0171",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0172",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第29题 人机工程学与工业设计的共同目标是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0173",
+      "type": "list_item",
+      "level": 0,
+      "text": "降低生产成本",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0174",
+      "type": "list_item",
+      "level": 0,
+      "text": "以人为本，提升产品的使用体验",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0175",
+      "type": "list_item",
+      "level": 0,
+      "text": "增加产品功能",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0176",
+      "type": "list_item",
+      "level": 0,
+      "text": "提高生产效率",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0177",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0178",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第30题 手机在来电时同时振动和响铃，这利用了（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0179",
+      "type": "list_item",
+      "level": 0,
+      "text": "感觉适应",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0180",
+      "type": "list_item",
+      "level": 0,
+      "text": "多感觉通道的协同作用",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0181",
+      "type": "list_item",
+      "level": 0,
+      "text": "感觉对比",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0182",
+      "type": "list_item",
+      "level": 0,
+      "text": "感觉后像",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0183",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0184",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第31题 为老年人设计产品时，需要特别考虑的是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0185",
+      "type": "list_item",
+      "level": 0,
+      "text": "老年人喜欢鲜艳的颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0186",
+      "type": "list_item",
+      "level": 0,
+      "text": "老年人视力和听力下降、手部力量减弱",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0187",
+      "type": "list_item",
+      "level": 0,
+      "text": "老年人不喜欢新事物",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0188",
+      "type": "list_item",
+      "level": 0,
+      "text": "老年人购买力低",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0189",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0190",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第32题  厨房操作台的高度应根据什么确定（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0191",
+      "type": "list_item",
+      "level": 0,
+      "text": "统一标准高度",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0192",
+      "type": "list_item",
+      "level": 0,
+      "text": "主要使用者的身高，通常以肘部高度为参考",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0193",
+      "type": "list_item",
+      "level": 0,
+      "text": "厨房面积大小",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0194",
+      "type": "list_item",
+      "level": 0,
+      "text": "橱柜品牌",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0195",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0196",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第33题  用户看到一个新设备上的旋钮，自然地想去旋转它，这说明了（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0197",
+      "type": "list_item",
+      "level": 0,
+      "text": "用户受过专业训练",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0198",
+      "type": "list_item",
+      "level": 0,
+      "text": "产品造型传达了操作暗示，符合用户心理模型",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0199",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋钮设计得好看",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0200",
+      "type": "list_item",
+      "level": 0,
+      "text": "用户随便试试",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0201",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0202",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第34题  仪表盘上的指针式显示比数字式显示更适合用于（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0203",
+      "type": "list_item",
+      "level": 0,
+      "text": "需要精确读数的场合",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0204",
+      "type": "list_item",
+      "level": 0,
+      "text": "需要快速判断变化趋势的场合",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0205",
+      "type": "list_item",
+      "level": 0,
+      "text": "需要显示大量文字的场合",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0206",
+      "type": "list_item",
+      "level": 0,
+      "text": "需要省电的场合",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0207",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0208",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第35题  按人在系统中的参与程度，人机系统可以分为（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0209",
+      "type": "list_item",
+      "level": 0,
+      "text": "手动系统、半自动系统、自动系统",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0210",
+      "type": "list_item",
+      "level": 0,
+      "text": "大系统、中系统、小系统",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0211",
+      "type": "list_item",
+      "level": 0,
+      "text": "简单系统、复杂系统",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0212",
+      "type": "list_item",
+      "level": 0,
+      "text": "单机系统、网络系统",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0213",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：A",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0214",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第36题  人机工程学作为一门独立学科，正式形成于（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0215",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A\\. 18世纪工业革命时期",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0216",
+      "type": "paragraph",
+      "level": 0,
+      "text": "B\\. 20世纪40年代第二次世界大战期间",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0217",
+      "type": "paragraph",
+      "level": 0,
+      "text": "C\\. 21世纪初",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0218",
+      "type": "paragraph",
+      "level": 0,
+      "text": "D 19世纪末",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0219",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0220",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第37题  测量人体身高的常用工具是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0221",
+      "type": "list_item",
+      "level": 0,
+      "text": "卷尺",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0222",
+      "type": "list_item",
+      "level": 0,
+      "text": "人体测高仪",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0223",
+      "type": "list_item",
+      "level": 0,
+      "text": "卡尺",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0224",
+      "type": "list_item",
+      "level": 0,
+      "text": "天平",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0225",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0226",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第38题  作业空间设计的一般步骤是（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0227",
+      "type": "list_item",
+      "level": 0,
+      "text": "先确定空间大小，再选人",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0228",
+      "type": "list_item",
+      "level": 0,
+      "text": "确定作业任务，分析人体尺寸需求，设计方案，评估验证",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0229",
+      "type": "list_item",
+      "level": 0,
+      "text": "先买设备，再设计空间",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0230",
+      "type": "list_item",
+      "level": 0,
+      "text": "先装修，再放家具",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0231",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0232",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第39题  旋钮的直径设计主要取决于（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0233",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋钮的颜色",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0234",
+      "type": "list_item",
+      "level": 0,
+      "text": "操作所需的力矩和手指尺寸",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0235",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋钮的材料",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0236",
+      "type": "list_item",
+      "level": 0,
+      "text": "旋钮的位置",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0237",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0238",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第40题  智能手表在运动场景中的交互设计应优先考虑（ ）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0239",
+      "type": "list_item",
+      "level": 0,
+      "text": "屏幕显示更多信息",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0240",
+      "type": "list_item",
+      "level": 0,
+      "text": "抬手即看、语音控制等快速交互方式",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0241",
+      "type": "list_item",
+      "level": 0,
+      "text": "增加更多按键",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0242",
+      "type": "list_item",
+      "level": 0,
+      "text": "增大表盘面积",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0243",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答案：B",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0244",
+      "type": "heading",
+      "level": 1,
+      "text": "第二部分判断题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

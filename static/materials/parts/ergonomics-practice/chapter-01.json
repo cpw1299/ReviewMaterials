@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "ergonomics-practice-chapter-01",
+  "title": "人机工程学应用（实践）复习题库",
+  "subject": "人机工程学应用（实践）",
+  "sections": [
+    {
+      "id": "sec-001",
+      "title": "《人机工程学应用（实践）》复习题库",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0001",
+        "blk-0002"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0001",
+      "type": "heading",
+      "level": 1,
+      "text": "《人机工程学应用（实践）》复习题库",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 1,
+      "text": "第一部分选择题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "id": "sustainable-design-practice-chapter-04",
+  "title": "可持续设计（实践）复习题库",
+  "subject": "可持续设计（实践）",
+  "sections": [
+    {
+      "id": "sec-004",
+      "title": "第三部分：判断题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0248",
+        "blk-0249",
+        "blk-0250",
+        "blk-0251",
+        "blk-0252",
+        "blk-0253",
+        "blk-0254",
+        "blk-0255",
+        "blk-0256",
+        "blk-0257",
+        "blk-0258",
+        "blk-0259",
+        "blk-0260",
+        "blk-0261",
+        "blk-0262",
+        "blk-0263",
+        "blk-0264",
+        "blk-0265",
+        "blk-0266",
+        "blk-0267",
+        "blk-0268",
+        "blk-0269",
+        "blk-0270",
+        "blk-0271",
+        "blk-0272",
+        "blk-0273",
+        "blk-0274",
+        "blk-0275",
+        "blk-0276",
+        "blk-0277",
+        "blk-0278",
+        "blk-0279",
+        "blk-0280",
+        "blk-0281",
+        "blk-0282",
+        "blk-0283",
+        "blk-0284",
+        "blk-0285",
+        "blk-0286",
+        "blk-0287",
+        "blk-0288",
+        "blk-0289",
+        "blk-0290"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0248",
+      "type": "heading",
+      "level": 1,
+      "text": "第三部分：判断题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0249",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：听着合理、严谨、符合常识的打√；听着绝对、离谱、太片面的打×。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0250",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 正确 从史前到农业社会，人类对自然的影响总体上是有限的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0251",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 错误 工业革命之前人类就已经造成了全球性的环境危机。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0252",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 正确 大航海时代和工业革命加速了自然环境的恶化。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0253",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 错误 环保运动是二十一世纪才兴起的新事物。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0254",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 正确 可持续发展的定义是既满足当代人的需求又不损害后代人满足其需求的能力。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0255",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 错误 可持续发展只关心环境问题，不考虑经济和社会。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0256",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 正确 可持续发展包括环境、社会和经济三个维度，三者相互关联。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0257",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 错误 经济发展和环境保护是绝对矛盾的，只能选一个。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0258",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第9题 正确 人类中心主义认为自然界的价值在于对人类有用。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0259",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第10题 错误 生态中心主义主张人类可以随意支配自然资源。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0260",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第11题 正确 源头治理才是实现可持续发展的关键所在。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0261",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第12题 错误 只要末端处理做得好，就不需要从源头减少垃圾。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0262",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第13题 正确 社会的可持续发展是环境可持续发展的前提。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0263",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第14题 错误 可持续发展只需要政府推动，与个人无关。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0264",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第15题 正确 设计是连接生产、流通和消费三个环节的重要桥梁。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0265",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第16题 错误 设计只是画画图，和资源消耗没有关系。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0266",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第17题 正确 绿色设计强调在产品设计中考虑环境影响，减少污染。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0267",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第18题 错误 绿色设计就是给产品涂上绿色。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0268",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第19题 正确 生态设计比绿色设计更强调从生态系统整体角度考虑问题。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0269",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第20题 错误 生态设计在全球各地的发展是均衡的。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0270",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第21题 正确 产品服务系统设计用服务替代产品拥有，减少资源消耗。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0271",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第22题 错误 产品服务系统就是卖服务不卖产品。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0272",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第23题 正确 可持续设计关注发展中国家和金字塔底层人民的真实需求。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0273",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第24题 错误 可持续设计只服务于发达国家的高端消费者。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0274",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第25题 正确 生命周期设计的基本逻辑是回溯源头、聚焦系统、整体和过程的设计。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0275",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第26题 错误 产品生命周期只包括生产和使用两个阶段。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0276",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第27题 正确 产品生命周期包括原材料获取、生产制造、运输销售、使用维护和废弃回收五个阶段。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0277",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第28题 错误 产品一旦卖出去，生命周期就结束了。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0278",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第29题 正确 生态效率是用正确的方式做事，生态效益是做正确的事情。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0279",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第30题 错误 生态效率和生态效益是同一个概念。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0280",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第31题 正确 循环再生可以有效延长物质材料的生命周期，节约资源。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0281",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第32题 错误 循环再生是可持续设计的最佳手段，没有更好的方法了。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0282",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第33题 正确 循环再生是一种末端处理方式，但并非可持续设计的最佳手段。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0283",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第34题 错误 所有垃圾都可以循环再生，没有例外。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0284",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第35题 正确 厨余垃圾属于有机质垃圾，可以通过堆肥处理。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0285",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第36题 错误 厨余垃圾应该和塑料一起扔进同一个垃圾桶。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0286",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第37题 正确 重复使用设计的目标是延长产品的使用寿命。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0287",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第38题 错误 一次性产品比重复使用的产品更环保。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0288",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第39题 正确 升级再造的核心要义是让旧物变成比原来更有价值的东西。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0289",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第40题 错误 升级再造就是把旧东西原样再用一次。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0290",
+      "type": "heading",
+      "level": 1,
+      "text": "第四部分：简答题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

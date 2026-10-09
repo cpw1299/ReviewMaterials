@@ -1,0 +1,1196 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-practice-chapter-05",
+  "title": "计算机辅助产品设计（实践）复习题库",
+  "subject": "计算机辅助产品设计（实践）",
+  "sections": [
+    {
+      "id": "sec-005",
+      "title": "第四部分：简答题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0281",
+        "blk-0282",
+        "blk-0283",
+        "blk-0284",
+        "blk-0285",
+        "blk-0286",
+        "blk-0287",
+        "blk-0288",
+        "blk-0289",
+        "blk-0290",
+        "blk-0291",
+        "blk-0292",
+        "blk-0293",
+        "blk-0294",
+        "blk-0295",
+        "blk-0296",
+        "blk-0297",
+        "blk-0298",
+        "blk-0299",
+        "blk-0300",
+        "blk-0301",
+        "blk-0302",
+        "blk-0303",
+        "blk-0304",
+        "blk-0305",
+        "blk-0306",
+        "blk-0307",
+        "blk-0308",
+        "blk-0309",
+        "blk-0310",
+        "blk-0311",
+        "blk-0312",
+        "blk-0313",
+        "blk-0314",
+        "blk-0315",
+        "blk-0316",
+        "blk-0317",
+        "blk-0318",
+        "blk-0319",
+        "blk-0320",
+        "blk-0321",
+        "blk-0322",
+        "blk-0323",
+        "blk-0324",
+        "blk-0325",
+        "blk-0326",
+        "blk-0327",
+        "blk-0328",
+        "blk-0329",
+        "blk-0330",
+        "blk-0331",
+        "blk-0332",
+        "blk-0333",
+        "blk-0334",
+        "blk-0335",
+        "blk-0336",
+        "blk-0337",
+        "blk-0338",
+        "blk-0339",
+        "blk-0340",
+        "blk-0341",
+        "blk-0342"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0281",
+      "type": "heading",
+      "level": 1,
+      "text": "第四部分：简答题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0282",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：每题写3到5条，每条写一句话。结合自己的生活经验回答",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0283",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第1题 你在手机上用过修图软件，也了解过别人用3D软件建模型。请用你自己的话说说，电脑建模和手机修图有什么不同？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0284",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0285",
+      "type": "list_item",
+      "level": 0,
+      "text": "手机修图是在平面上改颜色、加滤镜，电脑建模是在三维空间里做出立体的形状。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0286",
+      "type": "list_item",
+      "level": 0,
+      "text": "修图是改一张照片，建模是从零开始做一个立体的东西。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0287",
+      "type": "list_item",
+      "level": 0,
+      "text": "建模做出来的东西可以转着看，从不同角度看都是立体的。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0288",
+      "type": "list_item",
+      "level": 0,
+      "text": "修图比较简单，建模需要学一段时间才能上手。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0289",
+      "type": "list_item",
+      "level": 0,
+      "text": "建模做出来的模型可以拿去渲染，做成效果图或者动画。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0290",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第2题 你在网上买东西时，经常看到产品的“3D展示图”或者“360度旋转看”。请说说这种展示方式比普通照片好在哪里？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0291",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0292",
+      "type": "list_item",
+      "level": 0,
+      "text": "普通照片只能看一个角度，3D展示可以转着看，看到各个面。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0293",
+      "type": "list_item",
+      "level": 0,
+      "text": "3D展示能看到产品的厚度、弧度、细节，比照片更真实。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0294",
+      "type": "list_item",
+      "level": 0,
+      "text": "3D展示能让人更放心，不会买回来发现和照片不一样。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0295",
+      "type": "list_item",
+      "level": 0,
+      "text": "3D展示是设计师用建模软件做出来的，不是拍照拍出来的。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0296",
+      "type": "list_item",
+      "level": 0,
+      "text": "这种展示方式让网购体验更好，减少了退货。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0297",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第3题 你见过的产品中，有没有哪个产品的“外观曲面”让你觉得特别好看？请举例说说它好看在哪里。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0298",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0299",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：苹果鼠标，曲面很流畅，没有明显的棱角。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0300",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：汽车的侧面，曲面有光影变化，看起来很高级。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0301",
+      "type": "list_item",
+      "level": 0,
+      "text": "好看的曲面通常是平滑的，不会突然出现折角。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0302",
+      "type": "list_item",
+      "level": 0,
+      "text": "好看的曲面有光影过渡，亮的地方和暗的地方过渡自然。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0303",
+      "type": "list_item",
+      "level": 0,
+      "text": "曲面好看的产品，通常是设计师用建模软件反复调整出来的。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0304",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第4题 你平时用手机拍照，和用电脑渲染出来的产品效果图，看起来有什么不一样？请说说你的感受。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0305",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0306",
+      "type": "list_item",
+      "level": 0,
+      "text": "手机拍照是拍真实的东西，渲染图是做出来的虚拟效果。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0307",
+      "type": "list_item",
+      "level": 0,
+      "text": "渲染图可以控制灯光、背景、角度，比拍照更自由。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0308",
+      "type": "list_item",
+      "level": 0,
+      "text": "渲染图可以把产品放在任何场景里，比如放桌子上、放草地上。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0309",
+      "type": "list_item",
+      "level": 0,
+      "text": "渲染图可以做得比真实产品还好看，突出产品的优点。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0310",
+      "type": "list_item",
+      "level": 0,
+      "text": "渲染图是设计师用来展示设计方案的，不是真实拍的照片。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0311",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第5题 如果你要给自己设计一个“手机支架”，你会怎么考虑它的形状和结构？请列出至少3点。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0312",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0313",
+      "type": "list_item",
+      "level": 0,
+      "text": "要能稳稳地撑住手机，不会倒。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0314",
+      "type": "list_item",
+      "level": 0,
+      "text": "角度要能调节，看视频舒服。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0315",
+      "type": "list_item",
+      "level": 0,
+      "text": "底部要防滑，放在桌上不会滑走。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0316",
+      "type": "list_item",
+      "level": 0,
+      "text": "要方便携带，可以折叠或者做小一点。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0317",
+      "type": "list_item",
+      "level": 0,
+      "text": "材料要轻，塑料或者铝合金都可以。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0318",
+      "type": "list_item",
+      "level": 0,
+      "text": "外观要好看，放在桌上不丑。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0319",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第6题 你在生活中见过哪些产品的“接缝”处理得很好？请举例说说接缝处理得好有什么好处。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0320",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0321",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：苹果耳机的充电仓，盖子合上几乎看不到缝隙。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0322",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：汽车的车门，关上门缝隙很均匀。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0323",
+      "type": "list_item",
+      "level": 0,
+      "text": "接缝处理得好，看起来更精致、更高级。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0324",
+      "type": "list_item",
+      "level": 0,
+      "text": "接缝处理得好，不容易藏灰，更好清洁。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0325",
+      "type": "list_item",
+      "level": 0,
+      "text": "接缝处理得好，说明设计师在建模时花了功夫，曲面连续性好。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0326",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第7题 你在用电脑或手机时，有没有觉得哪个软件界面很复杂、不好用？请举例说说你觉得应该怎么改。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0327",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0328",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：有些建模软件工具太多，找不到常用的命令。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0329",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：把常用工具放在显眼的位置，不常用的收起来。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0330",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：有些软件按钮太小，容易点错。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0331",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：把按钮做大一点，图标清晰一点。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0332",
+      "type": "list_item",
+      "level": 0,
+      "text": "例子：有些软件没有中文版，看不懂英文菜单。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0333",
+      "type": "list_item",
+      "level": 0,
+      "text": "改进：提供中文版，或者加中文提示。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0334",
+      "type": "paragraph",
+      "level": 0,
+      "text": "第8题 如果你要买一个台灯放在书桌上用，你会怎么选？请从外观、功能、使用感受三个方面说说你的想法。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0335",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0336",
+      "type": "list_item",
+      "level": 0,
+      "text": "外观：颜色和造型要好看，和书桌搭配。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0337",
+      "type": "list_item",
+      "level": 0,
+      "text": "外观：不要太占地方，底座要稳。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0338",
+      "type": "list_item",
+      "level": 0,
+      "text": "功能：亮度可以调节，看书写字用不同的亮度。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0339",
+      "type": "list_item",
+      "level": 0,
+      "text": "功能：灯臂可以弯曲或者调节角度，方便调整照射方向。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0340",
+      "type": "list_item",
+      "level": 0,
+      "text": "使用感受：灯光不刺眼，看久了眼睛不累。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0341",
+      "type": "list_item",
+      "level": 0,
+      "text": "使用感受：开关方便，最好能触控或者遥控。",
+      "label": "",
+      "marker": "6.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0342",
+      "type": "heading",
+      "level": 1,
+      "text": "第五部分：论述题（材料分析题）",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}

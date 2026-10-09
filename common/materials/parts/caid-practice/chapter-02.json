@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "caid-practice-chapter-02",
+  "title": "计算机辅助产品设计（实践）复习题库",
+  "subject": "计算机辅助产品设计（实践）",
+  "sections": [
+    {
+      "id": "sec-002",
+      "title": "答题技巧速记",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0002",
+        "blk-0003",
+        "blk-0004",
+        "blk-0005",
+        "blk-0006",
+        "blk-0007"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0002",
+      "type": "heading",
+      "level": 1,
+      "text": "答题技巧速记",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0003",
+      "type": "paragraph",
+      "level": 0,
+      "text": "选择题：哪个选项说得最完整、最符合软件操作常识就选哪个。正确答案通常字数最多、考虑最周全。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0004",
+      "type": "paragraph",
+      "level": 0,
+      "text": "判断题：听着合理、符合软件操作逻辑的打√；听着绝对、离谱、明显违背操作常识的打×。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0005",
+      "type": "paragraph",
+      "level": 0,
+      "text": "简答题：结合自己的经验分条写，写满5条。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0006",
+      "type": "paragraph",
+      "level": 0,
+      "text": "论述题：先抄材料关键词，再结合自己建模或渲染的经历写感想。千万不要留空白。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0007",
+      "type": "heading",
+      "level": 1,
+      "text": "选择题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}
