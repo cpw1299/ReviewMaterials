@@ -36,6 +36,42 @@
       "sectionCount": 58,
       "blockCount": 280,
       "updatedAt": "2026-09-12"
+    },
+    {
+      "id": "product-design-practice",
+      "title": "产品设计程序与方法（实践）复习题库",
+      "subject": "产品设计程序与方法（实践）",
+      "file": "product-design-practice.json",
+      "sectionCount": 18,
+      "blockCount": 490,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "ergonomics-practice",
+      "title": "人机工程学应用（实践）复习题库",
+      "subject": "人机工程学应用（实践）",
+      "file": "ergonomics-practice.json",
+      "sectionCount": 12,
+      "blockCount": 503,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "sustainable-design-practice",
+      "title": "可持续设计（实践）复习题库",
+      "subject": "可持续设计（实践）",
+      "file": "sustainable-design-practice.json",
+      "sectionCount": 5,
+      "blockCount": 485,
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "caid-practice",
+      "title": "计算机辅助产品设计（实践）复习题库",
+      "subject": "计算机辅助产品设计（实践）",
+      "file": "caid-practice.json",
+      "sectionCount": 9,
+      "blockCount": 491,
+      "updatedAt": "2026-10-09"
     }
   ]
 }
