@@ -405,6 +405,15 @@
       "blockIds": [
         "blk-0349",
         "blk-0350",
+        "blk-0351"
+      ]
+    },
+    {
+      "id": "sec-007",
+      "title": "论述题1",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0351",
         "blk-0352",
         "blk-0353",
@@ -422,6 +431,15 @@
         "blk-0365",
         "blk-0366",
         "blk-0367",
+        "blk-0368"
+      ]
+    },
+    {
+      "id": "sec-008",
+      "title": "论述题2",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0368",
         "blk-0369",
         "blk-0370",
@@ -439,6 +457,15 @@
         "blk-0382",
         "blk-0383",
         "blk-0384",
+        "blk-0385"
+      ]
+    },
+    {
+      "id": "sec-009",
+      "title": "论述题3",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0385",
         "blk-0386",
         "blk-0387",
@@ -456,6 +483,15 @@
         "blk-0399",
         "blk-0400",
         "blk-0401",
+        "blk-0402"
+      ]
+    },
+    {
+      "id": "sec-010",
+      "title": "论述题4",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0402",
         "blk-0403",
         "blk-0404",
@@ -473,6 +509,15 @@
         "blk-0416",
         "blk-0417",
         "blk-0418",
+        "blk-0419"
+      ]
+    },
+    {
+      "id": "sec-011",
+      "title": "论述题5",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0419",
         "blk-0420",
         "blk-0421",
@@ -490,6 +535,15 @@
         "blk-0433",
         "blk-0434",
         "blk-0435",
+        "blk-0436"
+      ]
+    },
+    {
+      "id": "sec-012",
+      "title": "论述题6",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0436",
         "blk-0437",
         "blk-0438",
@@ -507,6 +561,15 @@
         "blk-0450",
         "blk-0451",
         "blk-0452",
+        "blk-0453"
+      ]
+    },
+    {
+      "id": "sec-013",
+      "title": "论述题7",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0453",
         "blk-0454",
         "blk-0455",
@@ -524,6 +587,15 @@
         "blk-0467",
         "blk-0468",
         "blk-0469",
+        "blk-0470"
+      ]
+    },
+    {
+      "id": "sec-014",
+      "title": "论述题8",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0470",
         "blk-0471",
         "blk-0472",
@@ -6847,8 +6919,8 @@
     },
     {
       "id": "blk-0351",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题1",
       "label": "",
       "marker": "",
@@ -7153,8 +7225,8 @@
     },
     {
       "id": "blk-0368",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题2",
       "label": "",
       "marker": "",
@@ -7459,8 +7531,8 @@
     },
     {
       "id": "blk-0385",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题3",
       "label": "",
       "marker": "",
@@ -7765,8 +7837,8 @@
     },
     {
       "id": "blk-0402",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题4",
       "label": "",
       "marker": "",
@@ -8071,8 +8143,8 @@
     },
     {
       "id": "blk-0419",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题5",
       "label": "",
       "marker": "",
@@ -8377,8 +8449,8 @@
     },
     {
       "id": "blk-0436",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题6",
       "label": "",
       "marker": "",
@@ -8683,8 +8755,8 @@
     },
     {
       "id": "blk-0453",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题7",
       "label": "",
       "marker": "",
@@ -8989,8 +9061,8 @@
     },
     {
       "id": "blk-0470",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题8",
       "label": "",
       "marker": "",

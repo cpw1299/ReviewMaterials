@@ -613,55 +613,10 @@
         "blk-0484",
         "blk-0485",
         "blk-0486",
-        "blk-0487"
-      ]
-    },
-    {
-      "id": "sec-015",
-      "title": "没电了怎么办，加紧急充电口或者用机械钥匙备用。",
-      "level": 2,
-      "parentId": "sec-006",
-      "blockIds": [
         "blk-0487",
-        "blk-0488"
-      ]
-    },
-    {
-      "id": "sec-016",
-      "title": "指纹识别不了，手湿或者手脏的时候，加密码或人脸多种开门方式。",
-      "level": 2,
-      "parentId": "sec-006",
-      "blockIds": [
         "blk-0488",
-        "blk-0489"
-      ]
-    },
-    {
-      "id": "sec-017",
-      "title": "担心被黑客破解，加强加密，不用联网或者联网加双重验证。",
-      "level": 2,
-      "parentId": "sec-006",
-      "blockIds": [
         "blk-0489",
-        "blk-0490"
-      ]
-    },
-    {
-      "id": "sec-018",
-      "title": "家里老人指纹浅识别不了，专门优化老人指纹录入算法。",
-      "level": 2,
-      "parentId": "sec-006",
-      "blockIds": [
         "blk-0490",
-        "blk-0491"
-      ]
-    },
-    {
-      "id": "sec-019",
-      "title": "太贵了，简化功能做基础款，只保留指纹和密码。",
-      "level": 2,
-      "parentId": "sec-006",
-      "blockIds": [
         "blk-0491"
       ]
     }
@@ -9417,12 +9372,12 @@
     },
     {
       "id": "blk-0487",
-      "type": "heading",
-      "level": 2,
+      "type": "list_item",
+      "level": 0,
       "text": "没电了怎么办，加紧急充电口或者用机械钥匙备用。",
       "label": "",
-      "marker": "",
-      "ordered": false,
+      "marker": "1.",
+      "ordered": true,
       "headers": [
         ""
       ],
@@ -9435,12 +9390,12 @@
     },
     {
       "id": "blk-0488",
-      "type": "heading",
-      "level": 2,
+      "type": "list_item",
+      "level": 0,
       "text": "指纹识别不了，手湿或者手脏的时候，加密码或人脸多种开门方式。",
       "label": "",
-      "marker": "",
-      "ordered": false,
+      "marker": "2.",
+      "ordered": true,
       "headers": [
         ""
       ],
@@ -9453,12 +9408,12 @@
     },
     {
       "id": "blk-0489",
-      "type": "heading",
-      "level": 2,
+      "type": "list_item",
+      "level": 0,
       "text": "担心被黑客破解，加强加密，不用联网或者联网加双重验证。",
       "label": "",
-      "marker": "",
-      "ordered": false,
+      "marker": "3.",
+      "ordered": true,
       "headers": [
         ""
       ],
@@ -9471,12 +9426,12 @@
     },
     {
       "id": "blk-0490",
-      "type": "heading",
-      "level": 2,
+      "type": "list_item",
+      "level": 0,
       "text": "家里老人指纹浅识别不了，专门优化老人指纹录入算法。",
       "label": "",
-      "marker": "",
-      "ordered": false,
+      "marker": "4.",
+      "ordered": true,
       "headers": [
         ""
       ],
@@ -9489,12 +9444,12 @@
     },
     {
       "id": "blk-0491",
-      "type": "heading",
-      "level": 2,
+      "type": "list_item",
+      "level": 0,
       "text": "太贵了，简化功能做基础款，只保留指纹和密码。",
       "label": "",
-      "marker": "",
-      "ordered": false,
+      "marker": "5.",
+      "ordered": true,
       "headers": [
         ""
       ],
