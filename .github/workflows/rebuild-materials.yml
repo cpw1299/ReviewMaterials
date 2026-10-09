@@ -4,6 +4,7 @@ on:
     branches: [dev]
     paths:
       - 'doc/MarkdownFiles/**'
+      - 'doc/20261009MarkdownFlies/**'
       - 'scripts/prepare_materials.py'
   workflow_dispatch:
 permissions:
