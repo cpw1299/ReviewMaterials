@@ -1,0 +1,2744 @@
+{
+  "schemaVersion": 1,
+  "id": "product-design-practice",
+  "title": "产品设计程序与方法（实践）复习题库",
+  "subject": "产品设计程序与方法（实践）",
+  "sections": [
+    {
+      "id": "sec-005",
+      "title": "第五部分：论述题",
+      "level": 1,
+      "parentId": null,
+      "blockIds": [
+        "blk-0353",
+        "blk-0354"
+      ]
+    },
+    {
+      "id": "sec-006",
+      "title": "论述题1",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0355",
+        "blk-0356",
+        "blk-0357",
+        "blk-0358",
+        "blk-0359",
+        "blk-0360",
+        "blk-0361",
+        "blk-0362",
+        "blk-0363",
+        "blk-0364",
+        "blk-0365",
+        "blk-0366",
+        "blk-0367",
+        "blk-0368",
+        "blk-0369",
+        "blk-0370",
+        "blk-0371"
+      ]
+    },
+    {
+      "id": "sec-007",
+      "title": "论述题2",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0372",
+        "blk-0373",
+        "blk-0374",
+        "blk-0375",
+        "blk-0376",
+        "blk-0377",
+        "blk-0378",
+        "blk-0379",
+        "blk-0380",
+        "blk-0381",
+        "blk-0382",
+        "blk-0383",
+        "blk-0384",
+        "blk-0385",
+        "blk-0386",
+        "blk-0387",
+        "blk-0388"
+      ]
+    },
+    {
+      "id": "sec-008",
+      "title": "论述题3",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0389",
+        "blk-0390",
+        "blk-0391",
+        "blk-0392",
+        "blk-0393",
+        "blk-0394",
+        "blk-0395",
+        "blk-0396",
+        "blk-0397",
+        "blk-0398",
+        "blk-0399",
+        "blk-0400",
+        "blk-0401",
+        "blk-0402",
+        "blk-0403",
+        "blk-0404",
+        "blk-0405"
+      ]
+    },
+    {
+      "id": "sec-009",
+      "title": "论述题4",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0406",
+        "blk-0407",
+        "blk-0408",
+        "blk-0409",
+        "blk-0410",
+        "blk-0411",
+        "blk-0412",
+        "blk-0413",
+        "blk-0414",
+        "blk-0415",
+        "blk-0416",
+        "blk-0417",
+        "blk-0418",
+        "blk-0419",
+        "blk-0420",
+        "blk-0421",
+        "blk-0422"
+      ]
+    },
+    {
+      "id": "sec-010",
+      "title": "论述题5",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0423",
+        "blk-0424",
+        "blk-0425",
+        "blk-0426",
+        "blk-0427",
+        "blk-0428",
+        "blk-0429",
+        "blk-0430",
+        "blk-0431",
+        "blk-0432",
+        "blk-0433",
+        "blk-0434",
+        "blk-0435",
+        "blk-0436",
+        "blk-0437",
+        "blk-0438",
+        "blk-0439"
+      ]
+    },
+    {
+      "id": "sec-011",
+      "title": "论述题6",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0440",
+        "blk-0441",
+        "blk-0442",
+        "blk-0443",
+        "blk-0444",
+        "blk-0445",
+        "blk-0446",
+        "blk-0447",
+        "blk-0448",
+        "blk-0449",
+        "blk-0450",
+        "blk-0451",
+        "blk-0452",
+        "blk-0453",
+        "blk-0454",
+        "blk-0455",
+        "blk-0456"
+      ]
+    },
+    {
+      "id": "sec-012",
+      "title": "论述题7",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0457",
+        "blk-0458",
+        "blk-0459",
+        "blk-0460",
+        "blk-0461",
+        "blk-0462",
+        "blk-0463",
+        "blk-0464",
+        "blk-0465",
+        "blk-0466",
+        "blk-0467",
+        "blk-0468",
+        "blk-0469",
+        "blk-0470",
+        "blk-0471",
+        "blk-0472",
+        "blk-0473"
+      ]
+    },
+    {
+      "id": "sec-013",
+      "title": "论述题8",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0474",
+        "blk-0475",
+        "blk-0476",
+        "blk-0477",
+        "blk-0478",
+        "blk-0479",
+        "blk-0480",
+        "blk-0481",
+        "blk-0482",
+        "blk-0483",
+        "blk-0484",
+        "blk-0485"
+      ]
+    },
+    {
+      "id": "sec-014",
+      "title": "没电了怎么办，加紧急充电口或者用机械钥匙备用。",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0486"
+      ]
+    },
+    {
+      "id": "sec-015",
+      "title": "指纹识别不了，手湿或者手脏的时候，加密码或人脸多种开门方式。",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0487"
+      ]
+    },
+    {
+      "id": "sec-016",
+      "title": "担心被黑客破解，加强加密，不用联网或者联网加双重验证。",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0488"
+      ]
+    },
+    {
+      "id": "sec-017",
+      "title": "家里老人指纹浅识别不了，专门优化老人指纹录入算法。",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0489"
+      ]
+    },
+    {
+      "id": "sec-018",
+      "title": "太贵了，简化功能做基础款，只保留指纹和密码。",
+      "level": 2,
+      "parentId": "sec-005",
+      "blockIds": [
+        "blk-0490"
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "blk-0353",
+      "type": "heading",
+      "level": 1,
+      "text": "第五部分：论述题",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0354",
+      "type": "paragraph",
+      "level": 0,
+      "text": "答题技巧：第一步仔细读材料，圈出关键词。第二步把材料中的关键词抄进答案里。第三步结合自己的生活经验写1到2段感想。千万不要留空白，",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0355",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题1",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0356",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0357",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你家楼下新开了一家超市。你发现这家超市的购物车是可上楼梯的，轮子设计成三角形，可以轻松地在台阶上拉上拉下。你推着车上下楼买完东西，感觉非常方便。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0358",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：请分析这款购物车的轮子设计解决了用户什么痛点？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0359",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0360",
+      "type": "list_item",
+      "level": 0,
+      "text": "解决了拎重物上下楼的痛苦，不用手提了。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0361",
+      "type": "list_item",
+      "level": 0,
+      "text": "解决了购物车只能在平地上用的限制，现在楼梯也能用。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0362",
+      "type": "list_item",
+      "level": 0,
+      "text": "解决了带小孩的人既要推车又要抱孩子的尴尬。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0363",
+      "type": "list_item",
+      "level": 0,
+      "text": "让购物体验从搬货变成拉货，省力很多。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0364",
+      "type": "list_item",
+      "level": 0,
+      "text": "老人和体力不好的人也能轻松购物了。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0365",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：如果你来设计这个轮子，你会怎么让它更好用？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0366",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0367",
+      "type": "list_item",
+      "level": 0,
+      "text": "轮子做成万向轮，拐弯更灵活方便。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0368",
+      "type": "list_item",
+      "level": 0,
+      "text": "增加刹车功能，停在坡上不会自己溜走。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0369",
+      "type": "list_item",
+      "level": 0,
+      "text": "轮子用静音材料，拉起来不吵。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0370",
+      "type": "list_item",
+      "level": 0,
+      "text": "轮子可拆卸，方便清洁和更换磨损的轮子。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0371",
+      "type": "list_item",
+      "level": 0,
+      "text": "轮子带锁定装置，推车时不会晃动。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0372",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题2",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0373",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0374",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你买了一款新的台灯，打开包装后，你发现它不用组装，拿出来插上电就能用。灯臂是软管的，可以任意弯曲调整角度。底座很重，不会倒。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0375",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：这款台灯的不用组装设计给用户带来了什么好处？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0376",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0377",
+      "type": "list_item",
+      "level": 0,
+      "text": "省时间，开箱即用，不用花时间研究说明书。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0378",
+      "type": "list_item",
+      "level": 0,
+      "text": "不需要看说明书，对看不懂说明书的人很友好。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0379",
+      "type": "list_item",
+      "level": 0,
+      "text": "不需要找工具，家里没有螺丝刀也能用。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0380",
+      "type": "list_item",
+      "level": 0,
+      "text": "不会因为不会装而退货，减少了商家的售后压力。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0381",
+      "type": "list_item",
+      "level": 0,
+      "text": "用户体验从折腾变成享受，打开就能用很爽。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0382",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：请分析底座重和灯臂可弯曲这两个设计分别考虑了用户的什么需求？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0383",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0384",
+      "type": "list_item",
+      "level": 0,
+      "text": "底座重考虑了稳定性，放在桌上不会倒，安全。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0385",
+      "type": "list_item",
+      "level": 0,
+      "text": "底座重考虑了桌面空间小，底座稳可以放在任何位置。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0386",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯臂可弯曲考虑了不同场景需要不同角度，学习、玩手机、照明都能调。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0387",
+      "type": "list_item",
+      "level": 0,
+      "text": "灯臂可弯曲考虑了不同身高的人需要不同高度，小孩大人都能用。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0388",
+      "type": "list_item",
+      "level": 0,
+      "text": "两者结合实现了稳加灵活等于是好用。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0389",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题3",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0390",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0391",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你的手机里有很多App。你发现微信的扫一扫功能，打开后不需要任何操作，对准二维码就自动识别了。而另一个App的扫码功能，需要先点一下开始扫描按钮才能用，你每次都要多操作一步，感觉慢了半拍。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0392",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：对比两个App的扫码操作，哪一个设计更好？为什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0393",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0394",
+      "type": "list_item",
+      "level": 0,
+      "text": "微信的设计更好，少一步操作就是更好的体验。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0395",
+      "type": "list_item",
+      "level": 0,
+      "text": "减少用户思考，自动识别比点一下再识别更自然。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0396",
+      "type": "list_item",
+      "level": 0,
+      "text": "好的设计是默认已经做对了，不需要用户额外设置。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0397",
+      "type": "list_item",
+      "level": 0,
+      "text": "微信的设计符合如果只有一个动作能做，就别让用户选的原则。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0398",
+      "type": "list_item",
+      "level": 0,
+      "text": "每多一步操作就多一分放弃使用的可能。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0399",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：少一步操作的设计理念在你生活中还有哪些例子？举两个。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0400",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0401",
+      "type": "list_item",
+      "level": 0,
+      "text": "智能门锁靠近就开，不用掏钥匙翻包找钥匙。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0402",
+      "type": "list_item",
+      "level": 0,
+      "text": "汽车感应雨刷下雨自动开，不用手动去调挡位。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0403",
+      "type": "list_item",
+      "level": 0,
+      "text": "手机抬手自动亮屏，不用按电源键。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0404",
+      "type": "list_item",
+      "level": 0,
+      "text": "电梯门到站自动开，不用按开门按钮。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0405",
+      "type": "list_item",
+      "level": 0,
+      "text": "汽车大灯天黑自动亮，不用手动开灯。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0406",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题4",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0407",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0408",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你在网上看到一款可以吃的勺子。这把勺子是用谷物和面粉做的，吃完饭顺手把勺子也吃了，不产生塑料垃圾。网上评论有人说这个创意很好，也有人说勺子泡在汤里会软，不好用。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0409",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：可以吃的勺子体现了什么设计理念？这个理念有什么价值？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0410",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0411",
+      "type": "list_item",
+      "level": 0,
+      "text": "体现了可持续设计或环保设计的理念。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0412",
+      "type": "list_item",
+      "level": 0,
+      "text": "减少塑料垃圾，从源头解决白色污染问题。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0413",
+      "type": "list_item",
+      "level": 0,
+      "text": "让用完即弃变成用完即食，彻底解决废弃物问题。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0414",
+      "type": "list_item",
+      "level": 0,
+      "text": "改变人对废弃物的看法，废弃物也可以是有用的。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0415",
+      "type": "list_item",
+      "level": 0,
+      "text": "用设计解决环境问题，而不是靠用户自觉。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0416",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：针对泡汤会软的缺点，你觉得可以怎么改进？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0417",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0418",
+      "type": "list_item",
+      "level": 0,
+      "text": "加一层可食用防水涂层，比如蜂蜡。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0419",
+      "type": "list_item",
+      "level": 0,
+      "text": "做成勺子柄和勺子头分开，柄硬可以吃、头可食用。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0420",
+      "type": "list_item",
+      "level": 0,
+      "text": "加厚勺子头，延缓变软的时间。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0421",
+      "type": "list_item",
+      "level": 0,
+      "text": "用不同配方，玉米粉混合米粉更耐泡。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0422",
+      "type": "list_item",
+      "level": 0,
+      "text": "限定使用场景，只用于干食或凉食，热汤换别的材质。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0423",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题5",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0424",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0425",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你在地铁站看到一个自助借书机。你可以用身份证免费借书，看完后在任意一个地铁站的同款机器上归还。你觉得这个设计很方便，而且不用专门跑一趟图书馆，上下班路上就能借还。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0426",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：请从系统设计的角度分析这个借书机好在哪？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0427",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0428",
+      "type": "list_item",
+      "level": 0,
+      "text": "借书、还书、阅读形成一个完整的闭环系统。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0429",
+      "type": "list_item",
+      "level": 0,
+      "text": "多个站点联网，形成网络效应，站点越多越方便。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0430",
+      "type": "list_item",
+      "level": 0,
+      "text": "书在系统内流动，利用率大大提高。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0431",
+      "type": "list_item",
+      "level": 0,
+      "text": "借还方便，省时间这个核心价值被充分放大。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0432",
+      "type": "list_item",
+      "level": 0,
+      "text": "系统设计让单点的价值变成网络的价值。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0433",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：如果让你给这个系统加一个功能，你会加什么？为什么？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0434",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0435",
+      "type": "list_item",
+      "level": 0,
+      "text": "加预约功能，确认有书再去取，不白跑一趟。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0436",
+      "type": "list_item",
+      "level": 0,
+      "text": "加推荐功能，根据借书记录推荐同类好书。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0437",
+      "type": "list_item",
+      "level": 0,
+      "text": "加电子书选项，不想拿实体书就看电子版。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0438",
+      "type": "list_item",
+      "level": 0,
+      "text": "加读书时长统计，看你在地铁上看了多久，增加趣味性。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0439",
+      "type": "list_item",
+      "level": 0,
+      "text": "加换书功能，你放一本换一本，增加书源多样性。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0440",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题6",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0441",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0442",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你买了两个保温杯。一个很贵，但用了两年保温效果还是很好。一个很便宜，但用了三个月就不保温了。贵的那个杯盖是可拆卸的，方便清洗。便宜的那个杯盖是一体的，洗不干净，里面发霉了。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0443",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：贵的保温杯贵在哪里？请从产品设计的角度分析。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0444",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0445",
+      "type": "list_item",
+      "level": 0,
+      "text": "材料好，用的是304或316不锈钢，不是201。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0446",
+      "type": "list_item",
+      "level": 0,
+      "text": "真空层工艺好，保温持久，两年都不衰减。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0447",
+      "type": "list_item",
+      "level": 0,
+      "text": "结构上考虑了可拆卸清洗，卫生不藏污纳垢。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0448",
+      "type": "list_item",
+      "level": 0,
+      "text": "密封圈质量好，不漏水，用多久都不老化变形。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0449",
+      "type": "list_item",
+      "level": 0,
+      "text": "设计考虑了长期使用的可靠性，不是一次性产品。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0450",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：便宜的保温杯便宜在哪里？用户在使用中可能遇到什么麻烦？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0451",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0452",
+      "type": "list_item",
+      "level": 0,
+      "text": "材料差，保温效果衰减快，三个月就不行了。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0453",
+      "type": "list_item",
+      "level": 0,
+      "text": "杯盖一体设计，清洗不了，里面发霉滋生细菌。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0454",
+      "type": "list_item",
+      "level": 0,
+      "text": "密封圈老化快，漏水，放包里会湿。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0455",
+      "type": "list_item",
+      "level": 0,
+      "text": "外层油漆容易掉，用几天就斑驳难看。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0456",
+      "type": "list_item",
+      "level": 0,
+      "text": "最终便宜变成浪费，用不久就得换新的。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0457",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题7",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0458",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0459",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你去餐厅吃饭，发现这家餐厅的菜单没有图片，只有菜名和价格。你点了两个菜，上来之后发现菜量比想象的大很多，你吃不完，浪费了食物。而另一家餐厅的菜单上，每道菜都有实物照片，还有适宜人数的提示，本菜适合2到3人。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0460",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：第二家餐厅的菜单设计比第一家好在哪里？这属于什么设计？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0461",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0462",
+      "type": "list_item",
+      "level": 0,
+      "text": "有图片知道长什么样，避免图文不符的失望。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0463",
+      "type": "list_item",
+      "level": 0,
+      "text": "有适宜人数，不会点多了浪费食物。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0464",
+      "type": "list_item",
+      "level": 0,
+      "text": "帮用户做决策，信息透明本身就是好的服务设计。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0465",
+      "type": "list_item",
+      "level": 0,
+      "text": "减少食物浪费，符合可持续设计理念。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0466",
+      "type": "list_item",
+      "level": 0,
+      "text": "用户体验从盲猜变成心中有数，点菜更自信。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0467",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：好的服务设计还可以在餐厅哪些环节体现？举两个例子。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0468",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0469",
+      "type": "list_item",
+      "level": 0,
+      "text": "等位时有排队提醒，前面还有几桌，需要等多久。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0470",
+      "type": "list_item",
+      "level": 0,
+      "text": "扫码点餐时，菜品按热销、辣度、推荐等分类，方便选择。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0471",
+      "type": "list_item",
+      "level": 0,
+      "text": "结账时自动显示AA制每人多少钱，不用自己算。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0472",
+      "type": "list_item",
+      "level": 0,
+      "text": "打包盒免费或者收费合理且好用，不撒不漏。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0473",
+      "type": "list_item",
+      "level": 0,
+      "text": "上菜时服务员主动报菜名，让你知道吃的是什么。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0474",
+      "type": "heading",
+      "level": 2,
+      "text": "论述题8",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0475",
+      "type": "paragraph",
+      "level": 0,
+      "text": "请阅读以下材料：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0476",
+      "type": "paragraph",
+      "level": 0,
+      "text": "你家的入户门是防盗门。你每天回家都要掏钥匙、插钥匙、转两圈、拔钥匙才能进门。有一天你换了一把智能门锁，指纹一按就开了。你觉得太方便了。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0477",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题一：从开门这个动作来看，智能门锁解决了传统门锁的哪些问题？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0478",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0479",
+      "type": "list_item",
+      "level": 0,
+      "text": "不用掏钥匙，不用翻包找钥匙。",
+      "label": "",
+      "marker": "1.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0480",
+      "type": "list_item",
+      "level": 0,
+      "text": "不用插钥匙，黑灯瞎火找钥匙孔很麻烦。",
+      "label": "",
+      "marker": "2.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0481",
+      "type": "list_item",
+      "level": 0,
+      "text": "不用转两圈，省力不少。",
+      "label": "",
+      "marker": "3.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0482",
+      "type": "list_item",
+      "level": 0,
+      "text": "不会忘带钥匙被锁在门外。",
+      "label": "",
+      "marker": "4.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0483",
+      "type": "list_item",
+      "level": 0,
+      "text": "出门不用带钥匙，少一样随身物品。",
+      "label": "",
+      "marker": "5.",
+      "ordered": true,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0484",
+      "type": "paragraph",
+      "level": 0,
+      "text": "问题二：你认为智能门锁有没有什么不方便的地方？如果你是设计师，你会怎么改进？",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0485",
+      "type": "paragraph",
+      "level": 0,
+      "text": "参考思路：",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0486",
+      "type": "heading",
+      "level": 2,
+      "text": "没电了怎么办，加紧急充电口或者用机械钥匙备用。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0487",
+      "type": "heading",
+      "level": 2,
+      "text": "指纹识别不了，手湿或者手脏的时候，加密码或人脸多种开门方式。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0488",
+      "type": "heading",
+      "level": 2,
+      "text": "担心被黑客破解，加强加密，不用联网或者联网加双重验证。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0489",
+      "type": "heading",
+      "level": 2,
+      "text": "家里老人指纹浅识别不了，专门优化老人指纹录入算法。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    },
+    {
+      "id": "blk-0490",
+      "type": "heading",
+      "level": 2,
+      "text": "太贵了，简化功能做基础款，只保留指纹和密码。",
+      "label": "",
+      "marker": "",
+      "ordered": false,
+      "headers": [
+        ""
+      ],
+      "rows": [
+        [
+          ""
+        ]
+      ],
+      "depth": 0
+    }
+  ]
+}
