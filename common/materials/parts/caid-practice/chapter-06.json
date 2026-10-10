@@ -66,6 +66,15 @@
         "blk-0377",
         "blk-0378",
         "blk-0379",
+        "blk-0380"
+      ]
+    },
+    {
+      "id": "sec-009",
+      "title": "论述题3",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0380",
         "blk-0381",
         "blk-0382",
@@ -84,6 +93,15 @@
         "blk-0395",
         "blk-0396",
         "blk-0397",
+        "blk-0398"
+      ]
+    },
+    {
+      "id": "sec-010",
+      "title": "论述题4",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0398",
         "blk-0399",
         "blk-0400",
@@ -103,6 +121,15 @@
         "blk-0414",
         "blk-0415",
         "blk-0416",
+        "blk-0417"
+      ]
+    },
+    {
+      "id": "sec-011",
+      "title": "论述题5",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0417",
         "blk-0418",
         "blk-0419",
@@ -126,7 +153,7 @@
       ]
     },
     {
-      "id": "sec-009",
+      "id": "sec-012",
       "title": "论述题6",
       "level": 2,
       "parentId": "sec-006",
@@ -154,7 +181,7 @@
       ]
     },
     {
-      "id": "sec-010",
+      "id": "sec-013",
       "title": "论述题7",
       "level": 2,
       "parentId": "sec-006",
@@ -178,6 +205,15 @@
         "blk-0471",
         "blk-0472",
         "blk-0473",
+        "blk-0474"
+      ]
+    },
+    {
+      "id": "sec-014",
+      "title": "论述题8",
+      "level": 2,
+      "parentId": "sec-006",
+      "blockIds": [
         "blk-0474",
         "blk-0475",
         "blk-0476",
@@ -887,8 +923,8 @@
     },
     {
       "id": "blk-0380",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题3",
       "label": "",
       "marker": "",
@@ -1211,8 +1247,8 @@
     },
     {
       "id": "blk-0398",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题4",
       "label": "",
       "marker": "",
@@ -1553,8 +1589,8 @@
     },
     {
       "id": "blk-0417",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题5",
       "label": "",
       "marker": "",
@@ -2579,8 +2615,8 @@
     },
     {
       "id": "blk-0474",
-      "type": "paragraph",
-      "level": 0,
+      "type": "heading",
+      "level": 2,
       "text": "论述题8",
       "label": "",
       "marker": "",
