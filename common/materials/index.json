@@ -44,7 +44,7 @@
       "file": "product-design-practice.json",
       "sectionCount": 14,
       "blockCount": 491,
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-09"
     },
     {
       "id": "ergonomics-practice",
@@ -62,16 +62,16 @@
       "file": "sustainable-design-practice.json",
       "sectionCount": 14,
       "blockCount": 486,
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-09"
     },
     {
       "id": "caid-practice",
       "title": "计算机辅助产品设计（实践）复习题库",
       "subject": "计算机辅助产品设计（实践）",
       "file": "caid-practice.json",
-      "sectionCount": 14,
+      "sectionCount": 10,
       "blockCount": 492,
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-09"
     }
   ]
 }
