@@ -36,20 +36,29 @@ export function loadState(materialId : string) : StudyState {
 	const raw = uni.getStorageSync(KEY_PREFIX + materialId)
 	if (typeof raw != 'string') {
 		return emptyState(materialId)
-	}
-	const stored = JSON.parse<StoredState>(raw as string)
-	if (stored == null) {
+	}	
+	const json = (raw as string).trim()
+	if (json.length == 0) {
+		return emptyState(materialId)
+	}	
+	try {
+		const stored = JSON.parse<StoredState>(json)	
+		if (stored == null) {
+			return emptyState(materialId)
+		}	
+		const reviewed = stored.reviewedSections
+		const favorite = stored.favoriteSections
+		const last = stored.lastSectionId	
+		return {
+			materialId: materialId,
+			reviewedSections: reviewed != null ? reviewed! : ([] as string[]),
+			favoriteSections: favorite != null ? favorite! : ([] as string[]),
+			lastSectionId: last != null ? last! : ''
+		} as StudyState
+	} catch (e) {
+		// 存储数据为空以外的 JSON 格式错误也不能阻断首页加载
 		return emptyState(materialId)
 	}
-	const reviewed = stored.reviewedSections
-	const favorite = stored.favoriteSections
-	const last = stored.lastSectionId
-	return {
-		materialId: materialId,
-		reviewedSections: reviewed != null ? reviewed! : ([] as string[]),
-		favoriteSections: favorite != null ? favorite! : ([] as string[]),
-		lastSectionId: last != null ? last! : ''
-	} as StudyState
 }
 
 /** 整对象覆盖写入，一份资料只有一个 key */
